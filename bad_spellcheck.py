@@ -3,7 +3,11 @@ import sys
 from random import randint
 
 def randChar(c):
-    keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm"]
+    omit = " ,./?!'\""
+    if c in omit:
+        return c
+        
+    keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
     part = -1
     index = -1
     for i in range(len(keys)):
@@ -27,13 +31,13 @@ def randChar(c):
         c = keys[part][index]
         
     return c
-            
+    
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("usage: {} <percent> <args..>".format(sys.argv[0]))
         
     try:
-        percent = int(sys.argv[1])
+        percent = int(sys.argv[1]) % 100
     except Exception as e:
         print("Exception: {}".format(e))
         sys.exit(1)
