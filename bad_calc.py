@@ -9,7 +9,6 @@ def scramble(cmd):
         calc = handleFloat(calc)
     else:
         raise TypeError("Incorrect type: {} - {}".format(calc, type(calc)))
-        return
     return calc
 
 def handleFloat(num):
