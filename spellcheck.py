@@ -2,12 +2,9 @@
 import sys
 from random import randint
 
+keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
+
 def randChar(c):
-    omit = " ,./?!'\""
-    if c in omit:
-        return c
-        
-    keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
     part = -1
     index = -1
     for i in range(len(keys)):
