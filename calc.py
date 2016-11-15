@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.5
+#!/usr/bin/env python
 import sys
 
 def scramble(cmd):
