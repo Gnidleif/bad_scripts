@@ -37,4 +37,4 @@ if __name__ == "__main__":
         except Exception as e:
             print("Exception: {}\n".format(e))
             continue
-        print("{} = {}\n".format(cmd, res))
+        print("{} = {}".format(cmd, res))
