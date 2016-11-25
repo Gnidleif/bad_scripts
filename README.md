@@ -2,7 +2,7 @@
 Scripts that does stuff. Poorly.
 
 ## How to calculate:
-Run the script with the equations to as arguments:
+Run the script with the equations as arguments:
 
 python3 calc.py 5+4 16/3 3/4 8\*3 17-5
 
