@@ -37,7 +37,7 @@ if __name__ == "__main__":
         percent = int(sys.argv[1]) % 100
     except Exception as e:
         print("Exception: {}".format(e))
-        sys.exit(1)
+        sys.exit(1337)
     
     for cmd in sys.argv[2:]:
         arr = [c for c in cmd]
