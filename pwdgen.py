@@ -15,10 +15,8 @@ def pwdGen(low, high):
     cum_len = randint(0, int(low/2))
     pen_len = (final - cum_len)
     
-    i = 0
     penis = [dick['balls'], dick['head']]
     while len(penis) < pen_len:
-        i += 1
         penis.append(dick['shaft'])
     penis[1], penis[-1] = penis[-1], penis[1]
     
