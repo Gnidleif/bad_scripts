@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import sys
 import time
+from random import randint
 from datetime import datetime
 
 def calcTime():
     count = 0
-    goal = 60
+    goal = randint(30, 120)
     lastTick = int(time.time())
     while count < goal:
         now = int(time.time())
@@ -29,5 +30,5 @@ if __name__ == "__main__":
             print("Exception: {}".format(e))
             sys.exit(1337)
 
-        print("Since your birthday is {}, we need some time to calculate your alive clock.".format(birthday))
+        print("Since your birthday is {} we need some time to calculate your alive clock...".format(birthday))
         print(calcTime())
