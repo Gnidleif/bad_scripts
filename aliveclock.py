@@ -13,8 +13,8 @@ def calcTime():
         if now > lastTick:
             count += 1
             lastTick = now
-            print("{}/{}".format(count, goal))
-    return "Our estimations say that you're alive now."
+            yield "{}/{}".format(count, goal)
+    yield "According to our estimations you're actually alive now"
 
 if __name__ == "__main__":
         if len(sys.argv) < 2:
@@ -31,4 +31,5 @@ if __name__ == "__main__":
             sys.exit(1337)
 
         print("Since your birthday is {} we need some time to calculate your alive clock...".format(birthday))
-        print(calcTime())
+        for res in calcTime():
+            print(res)
