@@ -1,5 +1,5 @@
 Absence makes the heart grow fonder
-Actions speak louder than words.
+Actions speak louder than words
 A journey of a thousand miles begins with a single step
 All good things must come to an end
 A picture is worth a thousand words
@@ -10,7 +10,7 @@ Better late than never
 Birds of a feather flock together
 Cleanliness is next to godliness
 Don't bite the hand that feeds you
-Don't count your chickens before they hatch.
+Don't count your chickens before they hatch
 Don't judge a book by its cover
 Don't put all of your eggs in one basket
 Don't put off until tomorrow what you can do today
@@ -27,7 +27,7 @@ If you play with fire, you'll get burned
 If you want something done right, you have to do it yourself
 Keep your friends close, and your enemies closer
 Knowledge is power
-Laughter is the best medicine.
+Laughter is the best medicine
 Like father, like son
 No man is an island
 People who live in glass houses should not throw stones
@@ -37,7 +37,7 @@ The enemy of my enemy is my friend
 The grass is always greener on the other side
 The pen is mightier than the sword
 There is no place like home
-There is no such thing as a free lunch.
+There is no such thing as a free lunch
 There is no time like the present
 The squeaky wheel gets the grease
 Time is money

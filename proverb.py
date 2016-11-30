@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
 from random import randint
 
+def randomize(data):
+    a = b = 0
+    while a == b:
+        (a, b) = [randint(0, len(data) - 1) for i in range(2)]
+    return data[a].split(' '), data[b].split(' ')
+
 def makeProverb(data):
-    (first, second) = [data[randint(0, len(data) - 1)].split(' ') for i in range(2)]
-    head = " ".join(first[:int(len(first) / 2)])
+    (first, second) = randomize(data)
+    head = " ".join(first[:int(len(first) / 2) + 1])
     tail = " ".join(second[int(len(second) / 2):])
 
     return "{} {}".format(head, tail)
