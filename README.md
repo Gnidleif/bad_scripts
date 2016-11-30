@@ -20,3 +20,8 @@ python3 pwdgen.py 10 15
 Run the script and set the argument to your birth date in YYMMDD-format:
 
 python3 aliveclock.py 900703
+
+## How to generate inspiration:
+Run the script, make sure that the "list\_proverbs"-file is in the same directory as the script:
+
+python3 proverb.py
