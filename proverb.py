@@ -2,9 +2,9 @@
 from random import randint
 
 def randomize(data):
-    a = b = 0
+    (a, b) = [randint(0, len(data) - 1) for i in range(2)]
     while a == b:
-        (a, b) = [randint(0, len(data) - 1) for i in range(2)]
+        b = randint(0, len(data) - 1)
     return data[a].split(' '), data[b].split(' ')
 
 def makeProverb(data):
