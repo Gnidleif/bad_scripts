@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 from random import randint
 
 def randomize(data):
@@ -15,7 +16,15 @@ def makeProverb(data):
     return "{} {}".format(head, tail)
 
 if __name__ == "__main__":
-    with open("list_proverbs.txt") as f:
-            data = f.read().splitlines()
+    amount = 1
+    try:
+        if len(sys.argv) > 1:
+            amount = int(sys.argv[1])
+    except Exception as e:   
+        print("Exception: {}".format(e))
+    
+    for i in range(amount):
+        with open("list_proverbs.txt") as f:
+                data = f.read().splitlines()
 
-    print(makeProverb(data))
+        print("{}: {}".format(i + 1, makeProverb(data)))
