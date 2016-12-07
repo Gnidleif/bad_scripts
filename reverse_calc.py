@@ -82,12 +82,12 @@ def roulette(pop, totFitness):
     return result
     
 def crossover(p1, p2):
-    offspring = Chromosome(p1.bits)
+    bits = p1.bits
     if uniform(0, 1) <= CROSSOVER:
         splice = randint(0, CHROMO_LEN - 1)
-        offspring.bits = p1.bits[splice:] + p2.bits[:splice]
+        bits = p1.bits[splice:] + p2.bits[:splice]
         
-    return offspring
+    return bits
         
 def findSolution(pop, target):
     generation = 0
@@ -106,12 +106,11 @@ def findSolution(pop, target):
                 if chromo.equation not in results:
                     results.append(chromo.equation)
                     
-        children = []
-        for i in range(POP_SIZE):
+        children = [Chromosome() for x in range(POP_SIZE)]
+        for chromo in children:
             (dad, mom) = (roulette(pop, totFitness), roulette(pop, totFitness))
-            child = crossover(dad, mom)
-            child.mutate()
-            children.append(child)
+            chromo.bits = crossover(dad, mom)
+            chromo.mutate()
             
         pop = children[:]
         
