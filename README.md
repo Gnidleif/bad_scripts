@@ -26,7 +26,7 @@ Run the script and set the argument to the number of proverbs you want to genera
 
 python3 proverb.py 10
 
-## How to be a gene splicer:
+## How to do a reverse calculation:
 Run the script with the numbers as arguments:
 
-python3 genetic\_calculator.py 42 8.8 1337
+python3 reverse\_calc.py 42 8.8 1337
