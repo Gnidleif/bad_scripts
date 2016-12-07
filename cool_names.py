@@ -8,7 +8,7 @@ def nameGen(name):
     for c in name[1:]:
         c = chr(randint(0, 25) + 97)
         print(c)
-    return name
+   return name
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
