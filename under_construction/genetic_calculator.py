@@ -134,4 +134,4 @@ if __name__ == "__main__":
     
         pop = [Chromo(''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
         (result, gen) = findSolution(pop, target)
-        print("Target: {}\nEquation(s): {}\nGenerations: {}\n~".format(target, result, gen))
+        print("Target: {}\nEquation(s): {}\nGenerations: {}".format(target, result, gen))
