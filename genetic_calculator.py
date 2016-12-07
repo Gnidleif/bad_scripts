@@ -29,10 +29,9 @@ ops = {
 }
 
 class Chromo:
-    def __init__(self, bits=""):
-        self.bits = bits if bits is not "" else ''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])
+    def __init__(self, bits=''):
+        self.bits = bits
         self.fitness = 0.0
-        self.equation = ""
         
     def calcFitness(self, target):
         result = 0.0
@@ -44,8 +43,7 @@ class Chromo:
             return
         
         self.fitness = 999.0 if result == target else 1 / abs(target - result)
-        # Debugging
-        print("Fitness: {}\nBits: {}\nResult: {} = {}\n=============".format(self.bits, self.equation, result, self.fitness))
+        #print("Fitness: {}\nBits: {}\nResult: {} = {}".format(self.fitness, self.bits, self.equation, result))
         
     def bitsToEquation(self):
         result = []
@@ -60,47 +58,70 @@ class Chromo:
                 if gene in ops:
                     result.append(ops[gene])
                     numTurn = True
-        
-        if result[-1] not in nums.values():
+                    
+        if len(result) and result[-1] not in nums.values():
             result = result[:-1]
             
         self.equation = ''.join(result)
         
-class Population:
-    def __init__(self):
-        self.chromos = [Chromo() for x in range(POP_SIZE)]
-        self.totFitness = 0.0
+    def mutate(self):
+        temp = []
+        for i in range(len(self.bits)):
+            bit = self.bits[i]
+            if uniform(0, 1) <= MUT_RATE:
+                bit = '1' if bit == '0' else '0'
+            temp.append(bit)
+        self.bits = ''.join(temp)
         
-def roulette(pop):
-    slice = uniform(0, pop.totFitness)
+def roulette(pop, totFitness):
+    result = ''
+    slice = uniform(0, totFitness)
     sofar = 0.0
-    for chromo in pop.chromos:
+    for chromo in pop:
         sofar += chromo.fitness
         if sofar >= slice:
-            return chromo
-    return ""
+            result = chromo
+            break
+            
+    return result
+    
+def crossover(p1, p2):
+    offspring = Chromo(p1.bits)
+    if uniform(0, 1) <= CROSSOVER:
+        splice = randint(0, CHROMO_LEN - 1)
+        offspring.bits = p1.bits[splice:] + p2.bits[:splice]
+        
+    return offspring
         
 def findSolution(pop, target):
+    iteration = 0
     results = []
     found = False
     while not found:
-        for chromo in pop.chromos:
+        iteration += 1
+        if iteration % 10 == 0:
+            print("Generation: {}".format(iteration))
+        totFitness = 0.0
+        for chromo in pop:
             chromo.calcFitness(target)
-            pop.totFitness += chromo.fitness
+            totFitness += chromo.fitness
             
-        for chromo in pop.chromos:
+        for chromo in pop:
             if chromo.fitness == 999.0:
                 found = True
                 if chromo.equation not in results:
                     results.append(chromo.equation)
                     
-        children = Population()
-                
-        pop.totFitness = 0.0
-        found = True
+        children = []
+        for i in range(POP_SIZE):
+            (dad, mom) = (roulette(pop, totFitness), roulette(pop, totFitness))
+            child = crossover(dad, mom)
+            child.mutate()
+            children.append(child)
+            
+        pop = children[:]
         
-    # Should really return a set of valid strings
-    return results
+    return results, iteration
         
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -113,5 +134,8 @@ if __name__ == "__main__":
         print("Exception: {}".format(e))
         sys.exit(1337)
     
-    result = findSolution(Population(), target)
-    print(result)
+    pop = [Chromo(''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
+
+    (result, it) = findSolution(pop, target)
+    
+    print("Target: {}\nEquation(s): {}\nGenerations: {}".format(target, result, it))

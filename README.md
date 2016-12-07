@@ -25,3 +25,8 @@ python3 aliveclock.py 900703
 Run the script and set the argument to the number of proverbs you want to generate, make sure that the "list\_proverbs"-file is in the same directory as the script:
 
 python3 proverb.py 10
+
+## How to be a gene splicer:
+Run the script and set the argument to the target number of the program to find an equation for:
+
+python3 genetic\_calculator.py 42
