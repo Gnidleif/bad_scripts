@@ -28,7 +28,7 @@ ops = {
     '1101': '/',
 }
 
-class Chromo:
+class Chromosome:
     def __init__(self, bits=''):
         self.bits = bits
         self.fitness = 0.0
@@ -43,7 +43,6 @@ class Chromo:
             return
         
         self.fitness = 999.0 if result == target else 1 / abs(target - result)
-        #print("Fitness: {}\nBits: {}\nResult: {} = {}".format(self.fitness, self.bits, self.equation, result))
         
     def bitsToEquation(self):
         result = []
@@ -58,9 +57,6 @@ class Chromo:
                 if gene in ops:
                     result.append(ops[gene])
                     numTurn = True
-                    
-        if len(result) and result[-1] not in nums.values():
-            result = result[:-1]
             
         self.equation = ''.join(result)
         
@@ -76,17 +72,17 @@ class Chromo:
 def roulette(pop, totFitness):
     result = ''
     slice = uniform(0, totFitness)
-    sofar = 0.0
+    soFar = 0.0
     for chromo in pop:
-        sofar += chromo.fitness
-        if sofar >= slice:
+        soFar += chromo.fitness
+        if soFar >= slice:
             result = chromo
             break
             
     return result
     
 def crossover(p1, p2):
-    offspring = Chromo(p1.bits)
+    offspring = Chromosome(p1.bits)
     if uniform(0, 1) <= CROSSOVER:
         splice = randint(0, CHROMO_LEN - 1)
         offspring.bits = p1.bits[splice:] + p2.bits[:splice]
@@ -127,11 +123,11 @@ if __name__ == "__main__":
     
     for num in sys.argv[1:]:
         try:
-            target = int(num)
+            target = float(num) if '.' in num else int(num)
         except Exception as e:
             print("Exception: {}".format(e))
             continue
     
-        pop = [Chromo(''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
+        pop = [Chromosome(''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
         (result, gen) = findSolution(pop, target)
         print("Target: {}\nEquation(s): {}\nGenerations: {}\n~".format(target, result, gen))
