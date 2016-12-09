@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 import sys
-from random import randint
+from random import randint, uniform
 
-# Constants
 CHROMO_LEN = 100
 MUT_RATE = 0.001
 POP_SIZE = 10
@@ -28,22 +27,15 @@ ops = {
     '1100': '*',
     '1101': '/',
 }
-    
-# Classes
-class Population:
-    def __init__(self):
-        self.chromos = [Chromo() for x in range(POP_SIZE)]
-        self.totFitness = 0.0
 
 class Chromo:
-    def __init__(self, bits="", fitness=0.0):
+    def __init__(self, bits=""):
         self.bits = bits if bits is not "" else ''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])
-        self.fitness = fitness
+        self.fitness = 0.0
         self.equation = ""
         
     def calcFitness(self, target):
-        result = target
-        
+        result = 0.0
         self.bitsToEquation()
         try:
             result = eval(self.equation)
@@ -52,12 +44,14 @@ class Chromo:
             return
         
         self.fitness = 999.0 if result == target else 1 / abs(target - result)
+        # Debugging
+        print("Fitness: {}\nBits: {}\nResult: {} = {}\n=============".format(self.bits, self.equation, result, self.fitness))
         
     def bitsToEquation(self):
         result = []
         numTurn = True
-        for i in range(0, len(self.bits), 4):
-            gene = self.bits[i:i+4]
+        for i in range(0, len(self.bits), GENE_LEN):
+            gene = self.bits[i:i+GENE_LEN]
             if numTurn:
                 if gene in nums:
                     result.append(nums[gene])
@@ -72,7 +66,20 @@ class Chromo:
             
         self.equation = ''.join(result)
         
-# Functions    
+class Population:
+    def __init__(self):
+        self.chromos = [Chromo() for x in range(POP_SIZE)]
+        self.totFitness = 0.0
+        
+def roulette(pop):
+    slice = uniform(0, pop.totFitness)
+    sofar = 0.0
+    for chromo in pop.chromos:
+        sofar += chromo.fitness
+        if sofar >= slice:
+            return chromo
+    return ""
+        
 def findSolution(pop, target):
     results = []
     found = False
@@ -86,6 +93,8 @@ def findSolution(pop, target):
                 found = True
                 if chromo.equation not in results:
                     results.append(chromo.equation)
+                    
+        children = Population()
                 
         pop.totFitness = 0.0
         found = True
