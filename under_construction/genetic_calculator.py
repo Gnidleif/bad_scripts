@@ -37,7 +37,7 @@ class Population:
 
 class Chromo:
     def __init__(self, bits="", fitness=0.0):
-        self.bits = bits if bits != "" else self.randomBits()
+        self.bits = bits if bits is not "" else ''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])
         self.fitness = fitness
         self.equation = ""
         
@@ -72,9 +72,6 @@ class Chromo:
             
         self.equation = ''.join(result)
         
-    def randomBits(self):
-        return ''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])
-        
 # Functions    
 def findSolution(pop, target):
     results = []
@@ -83,13 +80,12 @@ def findSolution(pop, target):
         for chromo in pop.chromos:
             chromo.calcFitness(target)
             pop.totFitness += chromo.fitness
-            print(chromo.bits, chromo.fitness)
             
         for chromo in pop.chromos:
-            #if chromo.fitness == 999.0:
-            found = True
-            if chromo.equation not in results:
-                results.append(chromo.equation)
+            if chromo.fitness == 999.0:
+                found = True
+                if chromo.equation not in results:
+                    results.append(chromo.equation)
                 
         pop.totFitness = 0.0
         found = True
