@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 import sys, json, re
 from random import randint
-from pprint import pprint
 
-# Sites:
-# https://sv.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos
-# https://sv.wikipedia.org/wiki/Wikipedia:Lista_%C3%B6ver_vanliga_spr%C3%A5kfel
+CAPITALIZE_CH = 30
+CAPS_CH = 50
+SPACE_CH = 20
+
+def roll(chance):
+    return randint(0, 100) <= chance
 
 def fix(key, list, rgx):
     if key not in list:
@@ -32,16 +34,19 @@ def beautify(words, list):
             word[i] = fix(word[i], list, regex_word)
         word = "".join(word)
         
-        if randint(0, 10) > 7:
-            word = word.upper() if randint(0, 10) > 5 else word.capitalize()
+        if roll(CAPITALIZE_CH):
+            word = word.upper() if roll(CAPS_CH) else word.capitalize()
         
         sym = [i for i in re.split(r'\w+', split, flags=re.I) if i is not '']
-        for i in range(len(sym)):
-            sym[i] = fix(sym[i], list, regex_sym)
-        sym = "".join(sym)
-        
-        if randint(0, 5) > 4:
-            sym = " " + sym
+        if len(sym) > 0:
+            for i in range(len(sym)):
+                sym[i] = fix(sym[i], list, regex_sym)
+            sym = "".join(sym)
+            
+            if roll(SPACE_CH):
+                sym = " " + sym
+        else:
+            sym = "".join(sym)
         
         res.append(word + sym)
         
@@ -51,6 +56,8 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("usage: {} <args...>".format(sys.argv[0]))
         exit(1337)
+        
+    enc = "ISO-8859-1"
         
     with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
         list = json.load(f)
