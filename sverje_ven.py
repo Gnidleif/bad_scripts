@@ -58,16 +58,15 @@ if __name__ == "__main__":
         exit(1337)
         
     enc = "ISO-8859-1"
-        
-    with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
+    with open("wordlist.json", 'r', encoding=enc) as f:
         list = json.load(f)
         
-    with open("split_words.json", 'r', encoding="ISO-8859-1") as f:
+    with open("split_words.json", 'r', encoding=enc) as f:
         list.update(json.load(f))
         
     for cmd in sys.argv[1:]:
         try:
-            with open(cmd, 'r', encoding="ISO-8859-1") as f:
+            with open(cmd, 'r', encoding=enc) as f:
                 data = f.read()
         except FileNotFoundError as e:
             data = cmd
