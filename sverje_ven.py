@@ -23,8 +23,7 @@ def beautify(words, list):
             word[i] = fix(word[i], list, regex_word)
         word = "".join(word)
         
-        roll = randint(0, 10)
-        if roll > 7:
+        if randint(0, 10) > 7:
             word = word.capitalize()
         
         sym = [i for i in re.split(r'\w+', split, flags=re.I) if i is not '']
@@ -32,8 +31,7 @@ def beautify(words, list):
             sym[i] = fix(sym[i], list, regex_sym)
         sym = "".join(sym)
         
-        roll = randint(0, 5)
-        if roll > 4:
+        if randint(0, 5) > 4:
             sym = " " + sym
         
         res.append(word + sym)
@@ -48,5 +46,5 @@ if __name__ == "__main__":
     with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
         list = json.load(f)
     
-    for sentence in sys.argv[1:]:
-        print(beautify(sentence, list))
+    for before in sys.argv[1:]:
+        print(beautify(before, list))
