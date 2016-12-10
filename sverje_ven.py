@@ -73,9 +73,10 @@ if __name__ == "__main__":
         except FileNotFoundError as e:
             data = cmd
     
-        f = open(path.replace(scr_name, "out.txt"), 'wb').close()
+        outfile = path.replace(scr_name, "out.txt")
+        f = open(outfile, 'wb').close()
         for line in data.split('\n'):
             res = beautify(line, list)
-            with open(path.replace(scr_name, "out.txt"), 'ab') as f:
+            with open(outfile, 'ab') as f:
                 f.write("{}\n".format(res).encode('utf-8'))
             print(res)
