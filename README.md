@@ -30,3 +30,8 @@ python3 proverb.py 10
 Run the script with the numbers as arguments:
 
 python3 revcalc.py 42 8.8 1337
+
+## How to love Sweden:
+Run the script with your sentence as an argument:
+
+python3 sverje\_ven.py "Jag älskar Sverige över allt annat för jag är en sann sverigevän! Avsätt Löfvén och hans patrask"
