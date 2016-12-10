@@ -75,4 +75,7 @@ if __name__ == "__main__":
             data = cmd
     
         for line in data.split('\n'):
-            print(beautify(line, list))
+            res = beautify(line, list)
+            with open(path.replace(scr_name, "out.txt"), 'wb') as f:
+                f.write(res.encode('utf-8'))
+            print(res)
