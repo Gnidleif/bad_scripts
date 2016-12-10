@@ -58,7 +58,7 @@ if __name__ == "__main__":
         print("usage: {} <args...>".format(sys.argv[0]))
         exit(1337)
         
-    enc = "ISO-8859-1"
+    enc = "latin-1"
     path = os.path.abspath(sys.argv[0])
     scr_name = os.path.basename(sys.argv[0])
     with open(path.replace(scr_name, "wordlist.json"), 'r', encoding=enc) as f:
@@ -75,4 +75,4 @@ if __name__ == "__main__":
             data = cmd
     
         for line in data.split('\n'):
-            print(beautify(line, list).encode('utf-8'))
+            print(beautify(line, list))
