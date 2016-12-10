@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-import sys, json, re
+import sys, json, re, os
 from random import randint
-import os
 
 CAPITALIZE_CH = 30
 CAPS_CH = 50
@@ -74,8 +73,9 @@ if __name__ == "__main__":
         except FileNotFoundError as e:
             data = cmd
     
+        f = open(path.replace(scr_name, "out.txt"), 'wb').close()
         for line in data.split('\n'):
             res = beautify(line, list)
-            with open(path.replace(scr_name, "out.txt"), 'wb') as f:
-                f.write(res.encode('utf-8'))
+            with open(path.replace(scr_name, "out.txt"), 'ab') as f:
+                f.write("{}\n".format(res).encode('utf-8'))
             print(res)
