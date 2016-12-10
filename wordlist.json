@@ -1,22 +1,18 @@
 {
     "sverige": [
-        "sverige",
         "svärje",
         "sverge", 
         "svergie",
         "sverje"
     ],
     "vän": [
-        "vän",
         "ven",
         "vänn"
     ],
     "svenskar": [
-        "svenskar",
         "svenkar"
     ],
     "svenskarna": [
-        "svenskarna",
         "svenkarna"
     ],
     "sverigevän": [
@@ -37,7 +33,6 @@
         "urs"
     ],
     ".": [
-        ".",
         ",",
         ",,",
         ",,,",
@@ -46,7 +41,6 @@
         "..."
     ],
     ",": [
-        ",",
         ",,",
         ",,,",
         "!",
@@ -55,7 +49,6 @@
         "..."
     ],
     "!": [
-        "!",
         "1!!",
         "!1",
         "!!!!"
@@ -82,5 +75,29 @@
         "tilsammans",
         "till sammans",
         "till samans"
+    ],
+    "riktig": [
+        "ricktig"
+    ],
+    "riktiga": [
+        "ricktiga"
+    ],
+    "muslim": [
+        "islamist"
+    ],
+    "muslimer": [
+        "islamer"
+    ],
+    "invandrare": [
+        "kultur berikare",
+        "invällare"
+    ],
+    "socialdemokrat": [
+        "sosse",
+        "kommunist",
+        "extremvänster"
+    ],
+    "vänsterpartist": [
+        "{socialdemokrat}"
     ]
 }

@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 import sys, json, re
 from random import randint
+from pprint import pprint
+
+# Sites:
+# https://sv.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos
+# https://sv.wikipedia.org/wiki/Wikipedia:Lista_%C3%B6ver_vanliga_spr%C3%A5kfel
 
 def fix(key, list, rgx):
     if key not in list:
@@ -11,7 +16,11 @@ def fix(key, list, rgx):
         if len(vars) > 0:
             return " ".join([fix(i, list, rgx) for i in vars])
         else:
-            return list[key][randint(0, len(list[key]) - 1)]
+            index = randint(-1, len(list[key]) - 1)
+            if index < 0:
+                return key
+            else:
+                return list[key][index]
 
 def beautify(words, list):
     res = []
@@ -24,7 +33,7 @@ def beautify(words, list):
         word = "".join(word)
         
         if randint(0, 10) > 7:
-            word = word.capitalize()
+            word = word.upper() if randint(0, 10) > 5 else word.capitalize()
         
         sym = [i for i in re.split(r'\w+', split, flags=re.I) if i is not '']
         for i in range(len(sym)):
@@ -45,6 +54,15 @@ if __name__ == "__main__":
         
     with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
         list = json.load(f)
+        
+    with open("split_words.json", 'r', encoding="ISO-8859-1") as f:
+        list.update(json.load(f))
+        
+    for cmd in sys.argv[1:]:
+        try:
+            with open(cmd, 'r', encoding="ISO-8859-1") as f:
+                data = f.read()
+        except FileNotFoundError as e:
+            data = cmd
     
-    for before in sys.argv[1:]:
-        print(beautify(before, list))
+        print(beautify(data, list))
