@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import sys, json, re
 from random import randint
-from os import path
+import os
 
 CAPITALIZE_CH = 30
 CAPS_CH = 50
@@ -58,12 +58,13 @@ if __name__ == "__main__":
         print("usage: {} <args...>".format(sys.argv[0]))
         exit(1337)
         
-    path = path.realpath(__file__)
     enc = "ISO-8859-1"
-    with open(path.replace(__file__, "wordlist.json"), 'r', encoding=enc) as f:
+    path = os.path.abspath(sys.argv[0])
+    scr_name = os.path.basename(sys.argv[0])
+    with open(path.replace(scr_name, "wordlist.json"), 'r', encoding=enc) as f:
         list = json.load(f)
         
-    with open(path.replace(__file__, "split_words.json"), 'r', encoding=enc) as f:
+    with open(path.replace(scr_name, "split_words.json"), 'r', encoding=enc) as f:
         list.update(json.load(f))
         
     for cmd in sys.argv[1:]:
