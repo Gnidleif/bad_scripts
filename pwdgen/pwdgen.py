@@ -27,13 +27,13 @@ def pwdGen(low, high):
         penis.append(''.join([dick['cum'] for x in range(cum_len)]))
         
     return ''.join(penis)
-
-if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("usage: {} <min-len> <max-len>".format(sys.argv[0]))
-        exit(1337)
     
-    (low, high) = [int(x) for x in sys.argv[1:3]]
+def run(args):
+    if type(args) is not list or len(args) < 2:
+        print("usage: {} <min-len> <max-len>".format(__file__))
+        exit(1337)
+        
+    (low, high) = [int(x) for x in args[0:2]]
     if low < 5:
         low = 5
     if high < low:
@@ -41,3 +41,7 @@ if __name__ == "__main__":
     
     pwd = pwdGen(low, high)
     print("Generated password: {}".format(pwd))
+
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])

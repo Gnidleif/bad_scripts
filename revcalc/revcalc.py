@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys
+import time
 from random import randint, uniform
 
 CHROMO_LEN = 100
@@ -118,12 +118,15 @@ def findSolution(pop, target):
         pop = children[:]
         
     return results, generation
-        
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("usage: {} <number(s)>".format(sys.argv[0]))
     
-    for num in sys.argv[1:]:
+def run(args):
+    if args is None:
+        print("usage: {} <number(s)>".format(__file__))
+        exit(1337)
+    if type(args) is not list:
+        args = [args]
+        
+    for num in args:
         try:
             target = float(num) if '.' in num else int(num)
         except Exception as e:
@@ -131,5 +134,11 @@ if __name__ == "__main__":
             continue
     
         pop = [Chromosome(''.join([str(randint(0, 1)) for y in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
+        start = time.time()
         (result, gen) = findSolution(pop, target)
-        print("Target: {}\nEquation(s): {}\nGenerations: {}\n~".format(target, result, gen))
+        end = "{0:.4f}".format((time.time() - start) * 1000)
+        print("Target: {}\nEquation(s): {}\nGenerations: {}\nTime: {}ms\n~".format(target, result, gen, end))
+        
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])

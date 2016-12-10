@@ -26,11 +26,11 @@ def handleInt(num):
         calc[0] = '1' if calc[0] == '0' else '0'
     return int("0b{}".format(''.join(calc)), 2)
 
-def run(args):    
-    if len(args) < 1:
+def run(args):
+    if args is None:
         print("usage: {} <args..>".format(__file__))
         exit(1337)
-    elif type(args) == str:
+    if type(args) is not list:
         args = [args]
         
     for cmd in args:

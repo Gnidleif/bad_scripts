@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys, json, re, os
+import json, re, os
 from random import randint
 
 CAPITALIZE_CH = 30
@@ -51,22 +51,24 @@ def beautify(words, list):
         res.append(word + sym)
 
     return " ".join(res)
-
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("usage: {} <args...>".format(sys.argv[0]))
+    
+def run(args):
+    if args is None:
+        print("usage: {} <args...>".format(__file__))
         exit(1337)
+    if type(args) is not list:
+        args = [args]
 
     enc = "latin-1"
-    path = os.path.abspath(sys.argv[0])
-    scr_name = os.path.basename(sys.argv[0])
+    path = os.path.abspath(__file__)
+    scr_name = os.path.basename(__file__)
     with open(path.replace(scr_name, "wordlist.json"), 'r', encoding=enc) as f:
-        list = json.load(f)
+        words = json.load(f)
 
     with open(path.replace(scr_name, "split_words.json"), 'r', encoding=enc) as f:
-        list.update(json.load(f))
+        words.update(json.load(f))
 
-    for cmd in sys.argv[1:]:
+    for cmd in args:
         try:
             with open(cmd, 'r') as f:
                 data = f.read()
@@ -76,7 +78,11 @@ if __name__ == "__main__":
         outfile = path.replace(scr_name, "out.txt")
         f = open(outfile, 'wb').close()
         for line in data.split('\n'):
-            res = beautify(line, list)
+            res = beautify(line, words)
             with open(outfile, 'ab') as f:
                 f.write("{}\n".format(res).encode('utf-8'))
             print(res)
+
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])

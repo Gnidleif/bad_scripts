@@ -15,10 +15,10 @@ def calcTime():
             yield "{}/{}".format(count, goal)
             
 def run(args):
-    if len(args) < 1:
+    if args is None:
         print("usage: {} <YYMMDD>".format(__file__))
         exit(1337)
-    elif type(args) == str:
+    if type(args) is not list:
         args = [args]
         
     try:
