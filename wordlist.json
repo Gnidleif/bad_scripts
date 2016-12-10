@@ -1,0 +1,81 @@
+{
+    "sverige": [
+        "sverige",
+        "svärje",
+        "sverge", 
+        "svergie",
+        "sverje"
+    ],
+    "vän": [
+        "vän",
+        "ven",
+        "vänn"
+    ],
+    "svenskar": [
+        "svenskar",
+        "svenkar"
+    ],
+    "svenskarna": [
+        "svenskarna",
+        "svenkarna"
+    ],
+    "sverigevän": [
+        "{sverige} {vän}"
+    ],
+    "löfvén": [
+        "stalin",
+        "hitler",
+        "löfen",
+        "löven",
+        "röven",
+        "röfven",
+        "röfvén"
+    ],
+    "usch": [
+        "ursh",
+        "ush",
+        "urs"
+    ],
+    ".": [
+        ".",
+        ",",
+        ",,",
+        ",,,",
+        "!",
+        "..",
+        "..."
+    ],
+    ",": [
+        ",",
+        ",,",
+        ",,,",
+        "!",
+        ".",
+        "..",
+        "..."
+    ],
+    "!": [
+        "!",
+        "1!!",
+        "!1",
+        "!!!!"
+    ],
+    "fan": [
+        "f-n"
+    ],
+    "helvete": [
+        "h-vete",
+        "h-lvete"
+    ],
+    "det": [
+        "de",
+        "d"
+    ],
+    "enda": [
+        "enda",
+        "ända"
+    ],
+    "ända": [
+        "{enda}"
+    ]
+}
