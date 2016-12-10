@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import sys
 
 def scramble(cmd):
     calc = eval(cmd)
@@ -27,11 +26,14 @@ def handleInt(num):
         calc[0] = '1' if calc[0] == '0' else '0'
     return int("0b{}".format(''.join(calc)), 2)
 
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("usage: {} <args..>".format(sys.argv[0]))
+def run(args):    
+    if len(args) < 1:
+        print("usage: {} <args..>".format(__file__))
+        exit(1337)
+    elif type(args) == str:
+        args = [args]
         
-    for cmd in sys.argv[1:]:
+    for cmd in args:
         try:
             res = scramble(cmd)
         except TypeError as te:
@@ -41,3 +43,8 @@ if __name__ == "__main__":
             print("Exception: {}".format(e))
             continue
         print("{} = {}".format(cmd, res))
+    
+
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])
