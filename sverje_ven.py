@@ -75,4 +75,4 @@ if __name__ == "__main__":
             data = cmd
     
         for line in data.split('\n'):
-            print(beautify(line, list))
+            print(beautify(line, list).encode('utf-8'))
