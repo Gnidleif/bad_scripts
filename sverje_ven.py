@@ -65,4 +65,5 @@ if __name__ == "__main__":
         except FileNotFoundError as e:
             data = cmd
     
-        print(beautify(data, list))
+        for line in data.split('\n'):
+            print(beautify(line, list))

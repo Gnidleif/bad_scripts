@@ -71,11 +71,6 @@
     "ända": [
         "{enda}"
     ],
-    "tillsammans": [
-        "tilsammans",
-        "till sammans",
-        "till samans"
-    ],
     "riktig": [
         "ricktig"
     ],
@@ -99,5 +94,25 @@
     ],
     "vänsterpartist": [
         "{socialdemokrat}"
+    ],
+    "sahlin": [
+        "muslim"
+    ],
+    "fridolin": [
+        "frigolit"
+    ],
+    "ingenting": [
+        "ingen ting"
+    ],
+    "någonting": [
+        "någon ting"
+    ],
+    "någonsin": [
+        "någon sin"
+    ],
+    "och": [
+        "å",
+        "&",
+        "o"
     ]
 }
