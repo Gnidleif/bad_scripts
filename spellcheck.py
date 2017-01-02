@@ -41,8 +41,8 @@ if __name__ == "__main__":
         sys.exit(1337)
     
     for cmd in sys.argv[2:]:
-        arr = list(cmd)
-        for i in range(len(arr)):
+        cmd = list(cmd)
+        for i in range(len(cmd)):
             if randint(1, 100) <= percent:
-                arr[i] = randChar(arr[i])
-        print("".join(arr))
+                cmd[i] = randChar(cmd[i])
+        print("".join(cmd))
