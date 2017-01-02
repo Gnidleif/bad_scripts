@@ -106,6 +106,9 @@ def findSolution(pop, target):
                 if chromo.equation not in results:
                     results.append(chromo.equation)
                     
+        if found is True:
+            continue
+                    
         children = [Chromosome() for x in range(POP_SIZE)]
         for chromo in children:
             (dad, mom) = (roulette(pop, totFitness), roulette(pop, totFitness))
@@ -127,6 +130,6 @@ if __name__ == "__main__":
             print("Exception: {}".format(e))
             continue
     
-        pop = [Chromosome(''.join([str(randint(0, 1)) for x in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
+        pop = [Chromosome(''.join([str(randint(0, 1)) for y in range(CHROMO_LEN)])) for x in range(POP_SIZE)]
         (result, gen) = findSolution(pop, target)
         print("Target: {}\nEquation(s): {}\nGenerations: {}\n~".format(target, result, gen))
