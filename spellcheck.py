@@ -32,13 +32,13 @@ def randChar(c):
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("usage: {} <percent> <args..>".format(sys.argv[0]))
-        sys.exit(1337)
+        exit(1337)
 
     try:
         percent = int(sys.argv[1]) % 100
     except Exception as e:
         print("Exception: {}".format(e))
-        sys.exit(1337)
+        exit(1337)
     
     for cmd in sys.argv[2:]:
         cmd = list(cmd)

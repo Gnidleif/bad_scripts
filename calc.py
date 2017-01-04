@@ -25,7 +25,7 @@ def handleInt(num):
             calc[index] = '1' if calc[index] == '0' else '0'
     else:
         calc[0] = '1' if calc[0] == '0' else '0'
-    return int("0b{}".format("".join(calc)), 2)
+    return int("0b{}".format(''.join(calc)), 2)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -34,7 +34,10 @@ if __name__ == "__main__":
     for cmd in sys.argv[1:]:
         try:
             res = scramble(cmd)
+        except TypeError as te:
+            print("TypeError: {}".format(te))
+            continue
         except Exception as e:
-            print("Exception: {}\n".format(e))
+            print("Exception: {}".format(e))
             continue
         print("{} = {}".format(cmd, res))

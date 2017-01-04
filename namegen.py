@@ -19,7 +19,6 @@ def nameGen(name):
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("usage: {} <your name>".format(sys.argv[0]))
-        sys.exit(1337)
+        exit(1337)
 
-    names = generator(sys.argv[1:])
-    print(names)
+    print(generator(sys.argv[1:]))

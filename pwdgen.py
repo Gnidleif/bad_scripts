@@ -31,7 +31,7 @@ def pwdGen(low, high):
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("usage: {} <min-len> <max-len>".format(sys.argv[0]))
-        sys.exit(1337)
+        exit(1337)
     
     (low, high) = [int(x) for x in sys.argv[1:3]]
     if low < 5:
