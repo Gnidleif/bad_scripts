@@ -21,11 +21,11 @@ def init(type):
     return regexes
 
 def produce(data, regexes):
-    to_switch = {}
+    switches = {}
     processed = data
     for r in regexes:
         for s in re.findall(r, data):
-            to_switch[s] = ""
+            switches[s] = ""
     
     return processed
 
