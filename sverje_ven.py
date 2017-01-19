@@ -28,9 +28,7 @@ def beautify(words, list):
         word = "".join(word)
         
         if randint(0, 10) > 7:
-            word = word.capitalize()
-            if randint(0, 10) > 8:
-                word = word.upper()
+            word = word.upper() if randint(0, 10) > 5 else word.capitalize()
         
         sym = [i for i in re.split(r'\w+', split, flags=re.I) if i is not '']
         for i in range(len(sym)):
