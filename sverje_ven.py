@@ -11,7 +11,11 @@ def fix(key, list, rgx):
         if len(vars) > 0:
             return " ".join([fix(i, list, rgx) for i in vars])
         else:
-            return list[key][randint(0, len(list[key]) - 1)]
+            index = randint(-1, len(list[key]) - 1)
+            if index < 0:
+                return key
+            else:
+                return list[key][index]
 
 def beautify(words, list):
     res = []
@@ -25,6 +29,8 @@ def beautify(words, list):
         
         if randint(0, 10) > 7:
             word = word.capitalize()
+            if randint(0, 10) > 8:
+                word = word.upper()
         
         sym = [i for i in re.split(r'\w+', split, flags=re.I) if i is not '']
         for i in range(len(sym)):
