@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys, json, re
 from random import randint
+from pprint import pprint
 
 # Sites:
 # https://sv.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos
@@ -54,7 +55,11 @@ if __name__ == "__main__":
         
     with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
         list = json.load(f)
-    
+        
+    with open("split_words.json", 'r', encoding="ISO-8859-1") as f:
+        mistakes = json.load(f)
+    mistakes.update(list)
+        
     for cmd in sys.argv[1:]:
         try:
             with open(cmd, 'r', encoding="ISO-8859-1") as f:
@@ -62,4 +67,4 @@ if __name__ == "__main__":
         except FileNotFoundError as e:
             data = cmd
     
-        print(beautify(data, list))
+        print(beautify(data, mistakes))
