@@ -6,7 +6,6 @@ from pprint import pprint
 # Sites:
 # https://sv.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser/Typos
 # https://sv.wikipedia.org/wiki/Wikipedia:Lista_%C3%B6ver_vanliga_spr%C3%A5kfel
-# https://sarskrivningsbloggen.wordpress.com/sar-skrivnings-ord-bok/
 
 def fix(key, list, rgx):
     if key not in list:
@@ -57,8 +56,7 @@ if __name__ == "__main__":
         list = json.load(f)
         
     with open("split_words.json", 'r', encoding="ISO-8859-1") as f:
-        mistakes = json.load(f)
-    mistakes.update(list)
+        list.update(json.load(f))
         
     for cmd in sys.argv[1:]:
         try:
@@ -67,4 +65,4 @@ if __name__ == "__main__":
         except FileNotFoundError as e:
             data = cmd
     
-        print(beautify(data, mistakes))
+        print(beautify(data, list))
