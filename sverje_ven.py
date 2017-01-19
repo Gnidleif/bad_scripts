@@ -52,5 +52,11 @@ if __name__ == "__main__":
     with open("wordlist.json", 'r', encoding="ISO-8859-1") as f:
         list = json.load(f)
     
-    for before in sys.argv[1:]:
-        print(beautify(before, list))
+    for cmd in sys.argv[1:]:
+        try:
+            with open(cmd, 'r') as f:
+                data = f.read()
+        except FileNotFoundError as e:
+            data = cmd
+    
+        print(beautify(data, list))
