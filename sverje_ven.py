@@ -54,7 +54,7 @@ if __name__ == "__main__":
     
     for cmd in sys.argv[1:]:
         try:
-            with open(cmd, 'r') as f:
+            with open(cmd, 'r', encoding="ISO-8859-1") as f:
                 data = f.read()
         except FileNotFoundError as e:
             data = cmd
