@@ -1,101 +1,101 @@
 {
-  "!": [
-    "1!!",
-    "!1",
-    "!!!!"
-  ],
-  ",": [
-    ",,",
-    ",,,",
-    "!",
-    ".",
-    "..",
-    "..."
-  ],
-  ".": [
-    ",",
-    ",,",
-    ",,,",
-    "!",
-    "..",
-    "..."
-  ],
-  "det": [
-    "de",
-    "d"
-  ],
-  "enda": [
-    "enda",
-    "ï¿½nda"
-  ],
-  "fan": [
-    "f-n"
-  ],
-  "helvete": [
-    "h-vete",
-    "h-lvete"
-  ],
-  "invandrare": [
-    "kultur berikare",
-    "invï¿½llare"
-  ],
-  "lï¿½fvï¿½": [
-    "stalin",
-    "hitler",
-    "lï¿½fen",
-    "lï¿½ven",
-    "rï¿½ven",
-    "rï¿½fven",
-    "rï¿½fvï¿½"
-  ],
-  "muslim": [
-    "islamist"
-  ],
-  "muslimer": [
-    "islamer"
-  ],
-  "riktig": [
-    "ricktig"
-  ],
-  "riktiga": [
-    "ricktiga"
-  ],
-  "socialdemokrat": [
-    "sosse",
-    "kommunist",
-    "extremvï¿½nster"
-  ],
-  "svenskar": [
-    "svenkar"
-  ],
-  "svenskarna": [
-    "svenkarna"
-  ],
-  "sverige": [
-    "svï¿½rje",
-    "sverge",
-    "svergie",
-    "sverje"
-  ],
-  "sverigevï¿½": [
-    "{sverige} {vï¿½n}"
-  ],
-  "tillsammans": [
-    "till sammans"
-  ],
-  "usch": [
-    "ursh",
-    "ush",
-    "urs"
-  ],
-  "vï¿½": [
-    "ven",
-    "vï¿½nn"
-  ],
-  "vï¿½nsterpartist": [
-    "{socialdemokrat}"
-  ],
-  "ï¿½nda": [
-    "{enda}"
-  ]
+    "sverige": [
+        "svärje",
+        "sverge", 
+        "svergie",
+        "sverje"
+    ],
+    "vän": [
+        "ven",
+        "vänn"
+    ],
+    "svenskar": [
+        "svenkar"
+    ],
+    "svenskarna": [
+        "svenkarna"
+    ],
+    "sverigevän": [
+        "{sverige} {vän}"
+    ],
+    "löfvén": [
+        "stalin",
+        "hitler",
+        "löfen",
+        "löven",
+        "röven",
+        "röfven",
+        "röfvén"
+    ],
+    "usch": [
+        "ursh",
+        "ush",
+        "urs"
+    ],
+    ".": [
+        ",",
+        ",,",
+        ",,,",
+        "!",
+        "..",
+        "..."
+    ],
+    ",": [
+        ",,",
+        ",,,",
+        "!",
+        ".",
+        "..",
+        "..."
+    ],
+    "!": [
+        "1!!",
+        "!1",
+        "!!!!"
+    ],
+    "fan": [
+        "f-n"
+    ],
+    "helvete": [
+        "h-vete",
+        "h-lvete"
+    ],
+    "det": [
+        "de",
+        "d"
+    ],
+    "enda": [
+        "enda",
+        "ända"
+    ],
+    "ända": [
+        "{enda}"
+    ],
+    "tillsammans": [
+        "till sammans"
+    ],
+    "riktig": [
+        "ricktig"
+    ],
+    "riktiga": [
+        "ricktiga"
+    ],
+    "muslim": [
+        "islamist"
+    ],
+    "muslimer": [
+        "islamer"
+    ],
+    "invandrare": [
+        "kultur berikare",
+        "invällare"
+    ],
+    "socialdemokrat": [
+        "sosse",
+        "kommunist",
+        "extremvänster"
+    ],
+    "vänsterpartist": [
+        "{socialdemokrat}"
+    ]
 }
