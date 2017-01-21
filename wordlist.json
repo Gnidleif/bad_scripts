@@ -9,6 +9,18 @@
         "ven",
         "vänn"
     ],
+    "vänlig": [
+	"venligg",
+	"vennlig",
+        "venlig",
+        "vännlig"
+    ],
+    "vänligt": [
+        "venliggt",
+        "vennligt",
+        "venligt",
+        "vännligt"
+    ],
     "svenskar": [
         "svenkar"
     ],
@@ -18,8 +30,13 @@
     "sverigevän": [
         "{sverige} {vän}"
     ],
+    "sverigevänlig": [
+	"{sverige} {vänlig}"
+    ],
+    "sverigevänligt": [
+        "{sverige} {vänligt}"
+    ],
     "löfvén": [
-        "stalin",
         "hitler",
         "löfen",
         "löven",
@@ -127,5 +144,10 @@
     ],
     "dem": [
         "de"
+    ],
+    "svenskt": [
+    	"svenkt",
+	"sveskt",
+	"svänskt"
     ]
 }
