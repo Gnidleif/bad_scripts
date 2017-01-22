@@ -26,7 +26,7 @@ def fix(key, list, rgx):
 
 def beautify(words, list):
     res = []
-    regex_word = re.compile(r'{(\w+)}')
+    regex_word = re.compile(r'{([a-zåäö]+)}')
     regex_sym = re.compile(r'{(\W+)}')
     for split in words.split():
         word = [i.lower() for i in re.split(r'\W+', split) if i is not '']

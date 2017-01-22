@@ -1,6 +1,6 @@
 {
-  "hÃ¤sttjej": [
-    "hÃ¤st tjej"
+  "hästtjej": [
+    "häst tjej"
   ],
   "portotabell": [
     "porto tabell"
@@ -11,8 +11,8 @@
   "cellofantejp": [
     "cellofan tejp"
   ],
-  "motorvÃ¤rmarsladd": [
-    "motor vÃ¤rmar sladd"
+  "motorvärmarsladd": [
+    "motor värmar sladd"
   ],
   "anteckningsblock": [
     "antecknings block"
@@ -20,11 +20,11 @@
   "plusgrader": [
     "plus grader"
   ],
-  "hÃ¤stmÃ¤nniska": [
-    "hÃ¤st mÃ¤nniska"
+  "hästmänniska": [
+    "häst människa"
   ],
-  "hematitpÃ¤rlor": [
-    "hematit pÃ¤rlor"
+  "hematitpärlor": [
+    "hematit pärlor"
   ],
   "justeringsglas": [
     "justerings glas"
@@ -47,11 +47,11 @@
   "upppackade": [
     "upp packade"
   ],
-  "gummiÃ¶ppning": [
-    "gummi Ã¶ppning"
+  "gummiöppning": [
+    "gummi öppning"
   ],
-  "nybÃ¶rjarkamera": [
-    "nybÃ¶rjar kamera"
+  "nybörjarkamera": [
+    "nybörjar kamera"
   ],
   "radiospelare": [
     "radio spelare"
@@ -68,14 +68,14 @@
   "handvapen": [
     "hand vapen"
   ],
-  "mÃ¶rkrÃ¤dd": [
-    "mÃ¶rk rÃ¤dd"
+  "mörkrädd": [
+    "mörk rädd"
   ],
   "gatukorsningar": [
     "gatu korsningar"
   ],
-  "popularitetstÃ¤vling": [
-    "popularitets tÃ¤vling"
+  "popularitetstävling": [
+    "popularitets tävling"
   ],
   "svininfluensa": [
     "svin influensa"
@@ -86,14 +86,14 @@
   "makroobjektiv": [
     "makro objektiv"
   ],
-  "jÃ¤ttesÃ¶ta": [
-    "jÃ¤tte sÃ¶ta"
+  "jättesöta": [
+    "jätte söta"
   ],
-  "lÃ¤sketiketter": [
-    "lÃ¤sk etiketter"
+  "läsketiketter": [
+    "läsk etiketter"
   ],
-  "anmÃ¤lningsdatum": [
-    "anmÃ¤lnings datum"
+  "anmälningsdatum": [
+    "anmälnings datum"
   ],
   "rockgitarrist": [
     "rock gitarrist"
@@ -101,59 +101,56 @@
   "bryggkaffe": [
     "brygg kaffe"
   ],
-  "pÃ¤roncider": [
-    "pÃ¤ron cider"
+  "päroncider": [
+    "päron cider"
   ],
-  "trÃ¤pennor": [
-    "trÃ¤ pennor"
+  "träpennor": [
+    "trä pennor"
   ],
   "andrahandsuppgifter": [
     "andra hands uppgifter"
   ],
-  "fÃ¶rvaringsklÃ¤nning": [
-    "fÃ¶rvarings klÃ¤nning"
+  "förvaringsklänning": [
+    "förvarings klänning"
   ],
-  "Ã¶gonhÃ¶jd": [
-    "Ã¶gon hÃ¶jd"
+  "ögonhöjd": [
+    "ögon höjd"
   ],
   "julkonsert": [
     "jul konsert"
   ],
-  "fruktleverantÃ¶r": [
-    "frukt leverantÃ¶r"
+  "fruktleverantör": [
+    "frukt leverantör"
   ],
   "stallgarderob": [
     "stall garderob"
   ],
-  "pÃ¥slag": [
-    "pÃ¥ slag"
+  "påslag": [
+    "på slag"
   ],
-  "vrÃ¥lhungrig": [
-    "vrÃ¥l hungrig"
+  "vrålhungrig": [
+    "vrål hungrig"
   ],
   "praoplats": [
     "prao plats"
   ],
-  "scrapbooking&nbsp;saker": [
-    "scrapbooking&nbsp;saker"
+  "hästtokige": [
+    "häst tokige"
   ],
-  "hÃ¤sttokige": [
-    "hÃ¤st tokige"
-  ],
-  "mobil&nbsp;skal": [
-    "mobil&nbsp;skal"
+  "mobilskal": [
+    "mobil-skal"
   ],
   "vattentornet": [
     "vatten tornet"
   ],
-  "Ã¥ldersadekvat": [
-    "Ã¥lders adekvat"
+  "åldersadekvat": [
+    "ålders adekvat"
   ],
   "teckningspennor": [
     "tecknings pennor"
   ],
-  "skitstÃ¶vlar": [
-    "skit stÃ¶vlar"
+  "skitstövlar": [
+    "skit stövlar"
   ],
   "kulspetspenna": [
     "kulspets penna"
@@ -161,20 +158,20 @@
   "gruppbostad": [
     "grupp bostad"
   ],
-  "dÃ¶snygga": [
-    "dÃ¶ snygga"
+  "dösnygga": [
+    "dö snygga"
   ],
-  "hÃ¤stgÃ¶dsel": [
-    "hÃ¤st gÃ¶dsel"
+  "hästgödsel": [
+    "häst gödsel"
   ],
   "skinnjacka": [
     "skinn jacka"
   ],
-  "barnklÃ¤der": [
-    "barn klÃ¤der"
+  "barnkläder": [
+    "barn kläder"
   ],
-  "studentbÃ¶cker": [
-    "student bÃ¶cker"
+  "studentböcker": [
+    "student böcker"
   ],
   "festbilder": [
     "fest bilder"
@@ -182,20 +179,20 @@
   "mellandagarna": [
     "mellan dagarna"
   ],
-  "rasuppfÃ¶darna": [
-    "ras uppfÃ¶darna"
+  "rasuppfödarna": [
+    "ras uppfödarna"
   ],
-  "makitalÃ¥dor": [
-    "makita lÃ¥dor"
+  "makitalådor": [
+    "makita lådor"
   ],
-  "militÃ¤rbyxor": [
-    "militÃ¤r byxor"
+  "militärbyxor": [
+    "militär byxor"
   ],
   "gammelmormor": [
     "gammel mormor"
   ],
-  "plastlÃ¥da": [
-    "plast lÃ¥da"
+  "plastlåda": [
+    "plast låda"
   ],
   "fyratiden": [
     "fyra tiden"
@@ -203,32 +200,32 @@
   "avkopplingstips": [
     "avkopplings tips"
   ],
-  "verktygslÃ¥da": [
-    "verktygs lÃ¥da"
+  "verktygslåda": [
+    "verktygs låda"
   ],
-  "spraystÃ¤rkelse": [
-    "spray stÃ¤rkelse"
+  "spraystärkelse": [
+    "spray stärkelse"
   ],
   "skitsnack": [
     "skit snack"
   ],
-  "myntpÃ¥sar": [
-    "mynt pÃ¥sar"
+  "myntpåsar": [
+    "mynt påsar"
   ],
-  "idÃ©klÃ¤ckare": [
-    "idÃ© klÃ¤ckare"
+  "idékläckare": [
+    "idé kläckare"
   ],
   "lamineringspapper": [
     "laminerings papper"
   ],
-  "frisÃ¶rtid": [
-    "frisÃ¶r tid"
+  "frisörtid": [
+    "frisör tid"
   ],
-  "sÃ¶ndagskvÃ¤ll": [
-    "sÃ¶ndags kvÃ¤ll"
+  "söndagskväll": [
+    "söndags kväll"
   ],
-  "hÃ¶stmys": [
-    "hÃ¶st mys"
+  "höstmys": [
+    "höst mys"
   ],
   "bordsben": [
     "bords ben"
@@ -242,35 +239,35 @@
   "igen": [
     "i gen"
   ],
-  "smÃ¥jobb": [
-    "smÃ¥ jobb"
+  "småjobb": [
+    "små jobb"
   ],
-  "galoppsprÃ¥ng": [
-    "galopp sprÃ¥ng"
+  "galoppsprång": [
+    "galopp språng"
   ],
-  "hÃ¤stskjuts": [
-    "hÃ¤st skjuts"
+  "hästskjuts": [
+    "häst skjuts"
   ],
   "scrapbookingpaket": [
     "scrapbooking paket"
   ],
-  "kÃ¶rkortsfoton": [
-    "kÃ¶rkorts foton"
+  "körkortsfoton": [
+    "körkorts foton"
   ],
-  "konsertsÃ¤kerhet": [
-    "konsert sÃ¤kerhet"
+  "konsertsäkerhet": [
+    "konsert säkerhet"
   ],
-  "pÃ¤rlalster": [
-    "pÃ¤rl alster"
+  "pärlalster": [
+    "pärl alster"
   ],
   "handbollsvinst": [
     "handbolls vinst"
   ],
-  "supernÃ¶jd": [
-    "super nÃ¶jd"
+  "supernöjd": [
+    "super nöjd"
   ],
-  "omgÃ¥ngen": [
-    "om gÃ¥ngen"
+  "omgången": [
+    "om gången"
   ],
   "plotterskrivare": [
     "plotter skrivare"
@@ -278,20 +275,20 @@
   "pepparkar": [
     "peppar kar"
   ],
-  "grÃ¤sgrÃ¶na": [
-    "grÃ¤s grÃ¶na"
+  "gräsgröna": [
+    "gräs gröna"
   ],
-  "trÃ¤dgÃ¥rdskompisar": [
-    "trÃ¤dgÃ¥rds kompisar"
+  "trädgårdskompisar": [
+    "trädgårds kompisar"
   ],
-  "sÃ¶ndergrÃ¤vd": [
-    "sÃ¶nder grÃ¤vd"
+  "söndergrävd": [
+    "sönder grävd"
   ],
   "laktostabletter": [
     "laktos tabletter"
   ],
-  "sÃ¤nggÃ¥ng": [
-    "sÃ¤ng gÃ¥ng"
+  "sänggång": [
+    "säng gång"
   ],
   "extrakassa": [
     "extra kassa"
@@ -299,14 +296,14 @@
   "tuggben": [
     "tugg ben"
   ],
-  "autolÃ¤get": [
-    "auto lÃ¤get"
+  "autoläget": [
+    "auto läget"
   ],
-  "glitterpÃ¤rla": [
-    "glitter pÃ¤rla"
+  "glitterpärla": [
+    "glitter pärla"
   ],
-  "mÃ¥larbok": [
-    "mÃ¥lar bok"
+  "målarbok": [
+    "målar bok"
   ],
   "jubileumsalbum": [
     "jubileums album"
@@ -320,8 +317,8 @@
   "kelsjuk": [
     "kel sjuk"
   ],
-  "bebissÃ¤ng": [
-    "bebis sÃ¤ng"
+  "bebissäng": [
+    "bebis säng"
   ],
   "fotpall": [
     "fot pall"
@@ -335,26 +332,26 @@
   "prutbara": [
     "prut bara"
   ],
-  "sommarmÃ¶bler": [
-    "sommar mÃ¶bler"
+  "sommarmöbler": [
+    "sommar möbler"
   ],
   "halvdum": [
     "halv dum"
   ],
-  "sommarstÃ¤lle": [
-    "sommar stÃ¤lle"
+  "sommarställe": [
+    "sommar ställe"
   ],
   "dunjacka": [
     "dun jacka"
   ],
-  "dÃ¶dssjuk": [
-    "dÃ¶ds sjuk"
+  "dödssjuk": [
+    "döds sjuk"
   ],
-  "bÃ¤ddfÃ¥tÃ¶ljer": [
-    "bÃ¤dd fÃ¥tÃ¶ljer"
+  "bäddfåtöljer": [
+    "bädd fåtöljer"
   ],
-  "Ã¤nglahalsband": [
-    "Ã¤ngla halsband"
+  "änglahalsband": [
+    "ängla halsband"
   ],
   "skitrolig": [
     "skit rolig"
@@ -371,11 +368,11 @@
   "trampmaskin": [
     "tramp maskin"
   ],
-  "nystrÃ¶dd": [
-    "ny strÃ¶dd"
+  "nyströdd": [
+    "ny strödd"
   ],
-  "miniklÃ¤dnypor": [
-    "mini klÃ¤dnypor"
+  "miniklädnypor": [
+    "mini klädnypor"
   ],
   "treskift": [
     "tre skift"
@@ -386,8 +383,8 @@
   "teaterutbildningen": [
     "teater utbildningen"
   ],
-  "rosenmÃ¶nster": [
-    "rosen mÃ¶nster"
+  "rosenmönster": [
+    "rosen mönster"
   ],
   "fotbollsavslutning": [
     "fotbolls avslutning"
@@ -410,8 +407,8 @@
   "kundnummerinnehavare": [
     "kundnummer innehavare"
   ],
-  "skrÃ¤ddarsyr": [
-    "skrÃ¤ddar syr"
+  "skräddarsyr": [
+    "skräddar syr"
   ],
   "sepiaeffekt": [
     "sepia effekt"
@@ -425,20 +422,20 @@
   "stoppfilt": [
     "stopp filt"
   ],
-  "skÃ¶ldpaddor": [
-    "skÃ¶ld paddor"
+  "sköldpaddor": [
+    "sköld paddor"
   ],
   "tungskrapa": [
     "tung skrapa"
   ],
-  "syrÃ©nlila": [
-    "syrÃ©n lila"
+  "syrénlila": [
+    "syrén lila"
   ],
   "studentplakat": [
     "student plakat"
   ],
-  "dagslÃ¤get": [
-    "dags lÃ¤get"
+  "dagsläget": [
+    "dags läget"
   ],
   "jeansbytarhelg": [
     "jeans bytar helg"
@@ -446,20 +443,20 @@
   "hotellrum": [
     "hotell rum"
   ],
-  "kreolÃ¶rringar": [
-    "kreol Ã¶rringar"
+  "kreolörringar": [
+    "kreol örringar"
   ],
-  "fotbolls&nbsp;trÃ¶ja": [
-    "fotbolls&nbsp;trÃ¶ja"
+  "fotbolls-tröja": [
+    "fotbolls-tröja"
   ],
-  "snabbklÃ¤mma": [
-    "snabb klÃ¤mma"
+  "snabbklämma": [
+    "snabb klämma"
   ],
   "testbild": [
     "test bild"
   ],
-  "favoritÃ¶vningar": [
-    "favorit Ã¶vningar"
+  "favoritövningar": [
+    "favorit övningar"
   ],
   "spionkamerapenna": [
     "spion kamera penna"
@@ -467,8 +464,8 @@
   "rasstandard": [
     "ras standard"
   ],
-  "nybÃ¶rjarmiss": [
-    "nybÃ¶rjar miss"
+  "nybörjarmiss": [
+    "nybörjar miss"
   ],
   "lyxlivet": [
     "lyx livet"
@@ -476,8 +473,8 @@
   "registreringsavgiften": [
     "registrerings avgiften"
   ],
-  "hyresgÃ¤stfÃ¶reningen": [
-    "hyresgÃ¤st fÃ¶reningen"
+  "hyresgästföreningen": [
+    "hyresgäst föreningen"
   ],
   "festduk": [
     "fest duk"
@@ -488,8 +485,8 @@
   "partiledare": [
     "parti ledare"
   ],
-  "nalletrÃ¶ja": [
-    "nalle trÃ¶ja"
+  "nalletröja": [
+    "nalle tröja"
   ],
   "kebabtallrik": [
     "kebab tallrik"
@@ -500,8 +497,8 @@
   "databord": [
     "data bord"
   ],
-  "damklÃ¤der": [
-    "dam klÃ¤der"
+  "damkläder": [
+    "dam kläder"
   ],
   "mjukiskramar": [
     "mjukis kramar"
@@ -509,8 +506,8 @@
   "katthane": [
     "katt hane"
   ],
-  "inlÃ¤gg": [
-    "in lÃ¤gg"
+  "inlägg": [
+    "in lägg"
   ],
   "skolfest": [
     "skol fest"
@@ -527,11 +524,11 @@
   "sjusovare": [
     "sju sovare"
   ],
-  "konstnÃ¤rsfÃ¤rg": [
-    "konstnÃ¤rs fÃ¤rg"
+  "konstnärsfärg": [
+    "konstnärs färg"
   ],
-  "fÃ¤rgfilter": [
-    "fÃ¤rg filter"
+  "färgfilter": [
+    "färg filter"
   ],
   "mediabibliotek": [
     "media bibliotek"
@@ -548,8 +545,8 @@
   "moderkort": [
     "moder kort"
   ],
-  "lÃ¶rdagskvÃ¤ll": [
-    "lÃ¶rdags kvÃ¤ll"
+  "lördagskväll": [
+    "lördags kväll"
   ],
   "hankatt": [
     "han katt"
@@ -560,17 +557,17 @@
   "oljepasteller": [
     "olje pasteller"
   ],
-  "sprÃ¥kkurs": [
-    "sprÃ¥k kurs"
+  "språkkurs": [
+    "språk kurs"
   ],
-  "Ã¥rsbasis": [
-    "Ã¥rs basis"
+  "årsbasis": [
+    "års basis"
   ],
   "mittenpelaren": [
     "mitten pelaren"
   ],
-  "salladsbuffÃ©": [
-    "sallads buffÃ©"
+  "salladsbuffé": [
+    "sallads buffé"
   ],
   "priskalkulator": [
     "pris kalkulator"
@@ -587,8 +584,8 @@
   "asroligt": [
     "as roligt"
   ],
-  "lÃ¤ttpackad": [
-    "lÃ¤tt packad"
+  "lättpackad": [
+    "lätt packad"
   ],
   "priolista": [
     "prio lista"
@@ -596,20 +593,20 @@
   "profilbild": [
     "profil bild"
   ],
-  "viktminskningssÃ¤ttet": [
-    "vikt minsknings sÃ¤ttet"
+  "viktminskningssättet": [
+    "vikt minsknings sättet"
   ],
   "solariebilder": [
     "solarie bilder"
   ],
-  "stallÃ¤gare": [
-    "stall Ã¤gare"
+  "stallägare": [
+    "stall ägare"
   ],
-  "dokumentÃ¤rbild": [
-    "dokumentÃ¤r bild"
+  "dokumentärbild": [
+    "dokumentär bild"
   ],
-  "stÃ¶rtskÃ¶n": [
-    "stÃ¶rt skÃ¶n"
+  "störtskön": [
+    "stört skön"
   ],
   "frigolitring": [
     "frigolit ring"
@@ -617,11 +614,11 @@
   "utlandskund": [
     "utlands kund"
   ],
-  "vÃ¤dertÃ¤tat": [
-    "vÃ¤der tÃ¤tat"
+  "vädertätat": [
+    "väder tätat"
   ],
-  "amatÃ¶rutstÃ¤llning": [
-    "amatÃ¶r utstÃ¤llning"
+  "amatörutställning": [
+    "amatör utställning"
   ],
   "syverktyg": [
     "sy verktyg"
@@ -650,59 +647,59 @@
   "regnbilder": [
     "regn bilder"
   ],
-  "presentstÃ¤llet": [
-    "present stÃ¤llet"
+  "presentstället": [
+    "present stället"
   ],
-  "glasskÃ¥l": [
-    "glas skÃ¥l"
+  "glasskål": [
+    "glas skål"
   ],
-  "hÃ¶stkÃ¤ngor": [
-    "hÃ¶st kÃ¤ngor"
+  "höstkängor": [
+    "höst kängor"
   ],
-  "viltstÃ¤ngsel": [
-    "vilt stÃ¤ngsel"
+  "viltstängsel": [
+    "vilt stängsel"
   ],
   "serietidning": [
     "serie tidning"
   ],
-  "nyckellÃ¥da": [
-    "nyckel lÃ¥da"
+  "nyckellåda": [
+    "nyckel låda"
   ],
-  "fototillfÃ¤lle": [
-    "foto tillfÃ¤lle"
+  "fototillfälle": [
+    "foto tillfälle"
   ],
   "bondebefolkningen": [
     "bonde befolkningen"
   ],
-  "Ã¶dehusrundor": [
-    "Ã¶dehus rundor"
+  "ödehusrundor": [
+    "ödehus rundor"
   ],
-  "lÃ¤derarmband": [
-    "lÃ¤der armband"
+  "läderarmband": [
+    "läder armband"
   ],
-  "andningssvÃ¥righet": [
-    "andnings svÃ¥righet"
+  "andningssvårighet": [
+    "andnings svårighet"
   ],
   "trollpojke": [
     "troll pojke"
   ],
-  "trÃ¤ningsÃ¶vningar": [
-    "trÃ¤nings Ã¶vningar"
+  "träningsövningar": [
+    "tränings övningar"
   ],
-  "originallÃ¥da": [
-    "original lÃ¥da"
+  "originallåda": [
+    "original låda"
   ],
-  "husvagnsÃ¤gare": [
-    "husvagns Ã¤gare"
+  "husvagnsägare": [
+    "husvagns ägare"
   ],
-  "smÃ¥stÃ¤llen": [
-    "smÃ¥ stÃ¤llen"
+  "småställen": [
+    "små ställen"
   ],
   "friidrottsliv": [
     "friidrotts liv"
   ],
-  "HÃ¶ganÃ¤skrus": [
-    "HÃ¶ganÃ¤s krus"
+  "Höganäskrus": [
+    "Höganäs krus"
   ],
   "Londoninspirerande": [
     "London inspirerande"
@@ -716,26 +713,26 @@
   "hundbajs": [
     "hund bajs"
   ],
-  "klÃ¶stunna": [
-    "klÃ¶s tunna"
+  "klöstunna": [
+    "klös tunna"
   ],
   "kamerabatterier": [
     "kamera batterier"
   ],
-  "griskÃ¶tt": [
-    "gris kÃ¶tt"
+  "griskött": [
+    "gris kött"
   ],
-  "asiataffÃ¤r": [
-    "asiat affÃ¤r"
+  "asiataffär": [
+    "asiat affär"
   ],
   "passkontroll": [
     "pass kontroll"
   ],
-  "bloggtÃ¤vling": [
-    "blogg tÃ¤vling"
+  "bloggtävling": [
+    "blogg tävling"
   ],
-  "jÃ¤tteduktig": [
-    "jÃ¤tte duktig"
+  "jätteduktig": [
+    "jätte duktig"
   ],
   "drinktillsats": [
     "drink tillsats"
@@ -743,8 +740,8 @@
   "ministearinljus": [
     "mini stearin ljus"
   ],
-  "betalningssÃ¤tt": [
-    "betalnings sÃ¤tt"
+  "betalningssätt": [
+    "betalnings sätt"
   ],
   "herrt-shirt": [
     "herr t-shirt"
@@ -752,14 +749,14 @@
   "internetanslutning": [
     "internet anslutning"
   ],
-  "Ã¶kenhÃ¤st": [
-    "Ã¶ken hÃ¤st"
+  "ökenhäst": [
+    "öken häst"
   ],
   "fetapajer": [
     "feta pajer"
   ],
-  "hÃ¶stinspiration": [
-    "hÃ¶st inspiration"
+  "höstinspiration": [
+    "höst inspiration"
   ],
   "samfraktar": [
     "sam fraktar"
@@ -776,8 +773,8 @@
   "originalplast": [
     "original plast"
   ],
-  "slÃ¤ngpuss": [
-    "slÃ¤ng puss"
+  "slängpuss": [
+    "släng puss"
   ],
   "porslinskatt": [
     "porslins katt"
@@ -791,32 +788,32 @@
   "lackprodukter": [
     "lack produkter"
   ],
-  "rockstjÃ¤rna": [
-    "rock stjÃ¤rna"
+  "rockstjärna": [
+    "rock stjärna"
   ],
-  "stÃ¶dstrumpor": [
-    "stÃ¶d strumpor"
+  "stödstrumpor": [
+    "stöd strumpor"
   ],
-  "Ã¶verlevt": [
-    "Ã¶ver levt"
+  "överlevt": [
+    "över levt"
   ],
-  "jÃ¤ttemysigt": [
-    "jÃ¤tte mysigt"
+  "jättemysigt": [
+    "jätte mysigt"
   ],
-  "dvÃ¤rggetter": [
-    "dvÃ¤rg getter"
+  "dvärggetter": [
+    "dvärg getter"
   ],
-  "synundersÃ¶kning": [
-    "syn under sÃ¶kning"
+  "synundersökning": [
+    "syn under sökning"
   ],
-  "vikningsmÃ¶jligheterna": [
-    "viknings mÃ¶jligheterna"
+  "vikningsmöjligheterna": [
+    "viknings möjligheterna"
   ],
-  "jÃ¤ttegod": [
-    "jÃ¤tte god"
+  "jättegod": [
+    "jätte god"
   ],
-  "ersÃ¤ttningsskyldig": [
-    "ersÃ¤ttnings skyldig"
+  "ersättningsskyldig": [
+    "ersättnings skyldig"
   ],
   "dubbelmoral": [
     "dubbel moral"
@@ -827,11 +824,11 @@
   "skogsfestival": [
     "skogs festival"
   ],
-  "renfÃ¤ll": [
-    "ren fÃ¤ll"
+  "renfäll": [
+    "ren fäll"
   ],
-  "papperspÃ¥sar": [
-    "pappers pÃ¥sar"
+  "papperspåsar": [
+    "pappers påsar"
   ],
   "sminkbord": [
     "smink bord"
@@ -845,8 +842,8 @@
   "plastmatta": [
     "plast matta"
   ],
-  "standardskyddskÃ¥pa": [
-    "standard skyddskÃ¥pa"
+  "standardskyddskåpa": [
+    "standard skyddskåpa"
   ],
   "naturbruksgymnasium": [
     "naturbruks gymnasium"
@@ -869,23 +866,23 @@
   "youtubeklipp": [
     "youtube klipp"
   ],
-  "mormorstÃ¥ngsknoppar": [
-    "mormorstÃ¥ngs knoppar"
+  "mormorstångsknoppar": [
+    "mormorstångs knoppar"
   ],
-  "blogginlÃ¤gg": [
-    "blogg in lÃ¤gg"
+  "blogginlägg": [
+    "blogg in lägg"
   ],
-  "Ã¶versÃ¤ttningsprogram": [
-    "Ã¶versÃ¤ttnings program"
+  "översättningsprogram": [
+    "översättnings program"
   ],
-  "fÃ¤ltryttare": [
-    "fÃ¤lt ryttare"
+  "fältryttare": [
+    "fält ryttare"
   ],
   "flygtid": [
     "flyg tid"
   ],
-  "smÃ¥tjocka": [
-    "smÃ¥ tjocka"
+  "småtjocka": [
+    "små tjocka"
   ],
   "fullblodsarabhingst": [
     "fullblodsarab hingst"
@@ -899,8 +896,8 @@
   "godissugen": [
     "godis sugen"
   ],
-  "vÃ¤rmeljushÃ¥llare": [
-    "vÃ¤rmeljus hÃ¥llare"
+  "värmeljushållare": [
+    "värmeljus hållare"
   ],
   "potatisklyftor": [
     "potatis klyftor"
@@ -914,8 +911,8 @@
   "skinnbitar": [
     "skinn bitar"
   ],
-  "smÃ¤rtrehabilitering": [
-    "smÃ¤rt rehabilitering"
+  "smärtrehabilitering": [
+    "smärt rehabilitering"
   ],
   "naturmotiv": [
     "natur motiv"
@@ -923,14 +920,14 @@
   "naturbild": [
     "natur bild"
   ],
-  "lÃ¤derfodral": [
-    "lÃ¤der fodral"
+  "läderfodral": [
+    "läder fodral"
   ],
-  "morgontvÃ¤tt": [
-    "morgon tvÃ¤tt"
+  "morgontvätt": [
+    "morgon tvätt"
   ],
-  "fÃ¶retagskonst": [
-    "fÃ¶retags konst"
+  "företagskonst": [
+    "företags konst"
   ],
   "motionscykel": [
     "motions cykel"
@@ -947,20 +944,20 @@
   "extranumret": [
     "extra numret"
   ],
-  "trygghetstrÃ¤nar": [
-    "trygghets trÃ¤nar"
+  "trygghetstränar": [
+    "trygghets tränar"
   ],
-  "trÃ¤dgÃ¥rdstidningar": [
-    "trÃ¤dgÃ¥rds tidningar"
+  "trädgårdstidningar": [
+    "trädgårds tidningar"
   ],
-  "pappersnÃ¤sdukar": [
-    "pappers nÃ¤sdukar"
+  "pappersnäsdukar": [
+    "pappers näsdukar"
   ],
-  "stickcafÃ©": [
-    "stick cafÃ©"
+  "stickcafé": [
+    "stick café"
   ],
-  "kÃ¶ttkonsumtion": [
-    "kÃ¶tt konsumtion"
+  "köttkonsumtion": [
+    "kött konsumtion"
   ],
   "antikhandel": [
     "antik handel"
@@ -971,23 +968,23 @@
   "kortreklamation": [
     "kort reklamation"
   ],
-  "rÃ¶relseoskÃ¤rpa": [
-    "rÃ¶relse oskÃ¤rpa"
+  "rörelseoskärpa": [
+    "rörelse oskärpa"
   ],
   "katttankar": [
     "katt tankar"
   ],
-  "hÃ¤stryggen": [
-    "hÃ¤st ryggen"
+  "hästryggen": [
+    "häst ryggen"
   ],
   "kaffeburk": [
     "kaffe burk"
   ],
-  "postlÃ¥da": [
-    "post lÃ¥da"
+  "postlåda": [
+    "post låda"
   ],
-  "trÃ¤fÃ¤rgad": [
-    "trÃ¤ fÃ¤rgad"
+  "träfärgad": [
+    "trä färgad"
   ],
   "ponnyridning": [
     "ponny ridning"
@@ -1004,26 +1001,26 @@
   "julbild": [
     "jul bild"
   ],
-  "silvertrÃ¥dar": [
-    "silver trÃ¥dar"
+  "silvertrådar": [
+    "silver trådar"
   ],
-  "campingsÃ¤song": [
-    "camping sÃ¤song"
+  "campingsäsong": [
+    "camping säsong"
   ],
-  "trÃ¤ningsvÃ¤rk": [
-    "trÃ¤nings vÃ¤rk"
+  "träningsvärk": [
+    "tränings värk"
   ],
   "golfbanan": [
     "golf banan"
   ],
-  "hÃ¶stvideo": [
-    "hÃ¶st video"
+  "höstvideo": [
+    "höst video"
   ],
   "eftersom": [
     "efter som"
   ],
-  "artistingÃ¥ngen": [
-    "artist ingÃ¥ngen"
+  "artistingången": [
+    "artist ingången"
   ],
   "bouppteckning": [
     "bo uppteckning"
@@ -1040,32 +1037,32 @@
   "hittills": [
     "hit tills"
   ],
-  "fÃ¶ltÃ¤cke": [
-    "fÃ¶l tÃ¤cke"
+  "föltäcke": [
+    "föl täcke"
   ],
-  "lÃ¥tvÃ¤rd": [
-    "lÃ¥t vÃ¤rd"
+  "låtvärd": [
+    "låt värd"
   ],
   "prisgaranti": [
     "pris garanti"
   ],
-  "pÃ¥sksolen": [
-    "pÃ¥sk solen"
+  "påsksolen": [
+    "påsk solen"
   ],
-  "fiskespÃ¶": [
-    "fiske spÃ¶"
+  "fiskespö": [
+    "fiske spö"
   ],
-  "skinnstÃ¶vlar": [
-    "skinn stÃ¶vlar"
+  "skinnstövlar": [
+    "skinn stövlar"
   ],
   "ordersystem": [
     "order system"
   ],
-  "budlÃ¤ggning": [
-    "bud lÃ¤ggning"
+  "budläggning": [
+    "bud läggning"
   ],
-  "smÃ¥blÃ¥sig": [
-    "smÃ¥ blÃ¥sig"
+  "småblåsig": [
+    "små blåsig"
   ],
   "plyschsoffa": [
     "plysch soffa"
@@ -1082,14 +1079,14 @@
   "skalmanfigur": [
     "skalman figur"
   ],
-  "kattsparbÃ¶ssa": [
-    "katt sparbÃ¶ssa"
+  "kattsparbössa": [
+    "katt sparbössa"
   ],
-  "instagramtÃ¤vling": [
-    "instagram tÃ¤vling"
+  "instagramtävling": [
+    "instagram tävling"
   ],
-  "hÃ¶gupplÃ¶sningsbilder": [
-    "hÃ¶gupplÃ¶snings bilder"
+  "högupplösningsbilder": [
+    "högupplösnings bilder"
   ],
   "rutinkoll": [
     "rutin koll"
@@ -1097,8 +1094,8 @@
   "kvalitetstid": [
     "kvalitets tid"
   ],
-  "pÃ¥skgodis": [
-    "pÃ¥sk godis"
+  "påskgodis": [
+    "påsk godis"
   ],
   "hematitring": [
     "hematit ring"
@@ -1106,17 +1103,17 @@
   "shoppingtur": [
     "shopping tur"
   ],
-  "kattÃ¶rhÃ¤ngen": [
-    "katt Ã¶rhÃ¤ngen"
+  "kattörhängen": [
+    "katt örhängen"
   ],
-  "hÃ¥rfÃ¤rg": [
-    "hÃ¥r fÃ¤rg"
+  "hårfärg": [
+    "hår färg"
   ],
   "superetablerade": [
     "super etablerade"
   ],
-  "mÃ¥bÃ¤ttretabletter": [
-    "mÃ¥ bÃ¤ttre tabletter"
+  "måbättretabletter": [
+    "må bättre tabletter"
   ],
   "oljelampa": [
     "olje lampa"
@@ -1142,20 +1139,20 @@
   "stallhelg": [
     "stall helg"
   ],
-  "fotbollstrÃ¤ning": [
-    "fotbolls trÃ¤ning"
+  "fotbollsträning": [
+    "fotbolls träning"
   ],
   "sportlov": [
     "sport lov"
   ],
-  "mÃ¶rkrosa": [
-    "mÃ¶rk rosa"
+  "mörkrosa": [
+    "mörk rosa"
   ],
   "folkvett": [
     "folk vett"
   ],
-  "tÃ¥lamodsprÃ¶vande": [
-    "tÃ¥lamods prÃ¶vande"
+  "tålamodsprövande": [
+    "tålamods prövande"
   ],
   "nagellim": [
     "nagel lim"
@@ -1169,23 +1166,23 @@
   "fotoobjekt": [
     "foto objekt"
   ],
-  "hÃ¤stklistermÃ¤rke": [
-    "hÃ¤st klister mÃ¤rke"
+  "hästklistermärke": [
+    "häst klister märke"
   ],
-  "tigerrÃ¤kor": [
-    "tiger rÃ¤kor"
+  "tigerräkor": [
+    "tiger räkor"
   ],
-  "akvarietillbehÃ¶r": [
-    "akvarie tillbehÃ¶r"
+  "akvarietillbehör": [
+    "akvarie tillbehör"
   ],
-  "nulÃ¤get": [
-    "nu lÃ¤get"
+  "nuläget": [
+    "nu läget"
   ],
   "lastbilsyrket": [
     "lastbils yrket"
   ],
-  "lÃ¶peld": [
-    "lÃ¶p eld"
+  "löpeld": [
+    "löp eld"
   ],
   "minilaptop": [
     "mini laptop"
@@ -1208,20 +1205,20 @@
   "tapetserarverkstad": [
     "tapetserar verkstad"
   ],
-  "stÃ¥ben": [
-    "stÃ¥ ben"
+  "ståben": [
+    "stå ben"
   ],
   "ryggproblem": [
     "rygg problem"
   ],
-  "vÃ¤ndplan": [
-    "vÃ¤nd plan"
+  "vändplan": [
+    "vänd plan"
   ],
   "inredningssaker": [
     "inrednings saker"
   ],
-  "Ã¥tminstone": [
-    "Ã¥t minstone"
+  "åtminstone": [
+    "åt minstone"
   ],
   "inspirationsbilder": [
     "inspirations bilder"
@@ -1235,8 +1232,8 @@
   "pratglada": [
     "prat glada"
   ],
-  "lÃ¤nkbyte": [
-    "lÃ¤nk byte"
+  "länkbyte": [
+    "länk byte"
   ],
   "inramning": [
     "in ram ning"
@@ -1244,11 +1241,11 @@
   "vintertider": [
     "vinter tider"
   ],
-  "smÃ¥trÃ¥kigt": [
-    "smÃ¥ trÃ¥kigt"
+  "småtråkigt": [
+    "små tråkigt"
   ],
-  "lÃ¶svikt": [
-    "lÃ¶s vikt"
+  "lösvikt": [
+    "lös vikt"
   ],
   "ridpass": [
     "rid pass"
@@ -1256,29 +1253,29 @@
   "enmanskajak": [
     "en mans kajak"
   ],
-  "styrketrÃ¤ning": [
-    "styrke trÃ¤ning"
+  "styrketräning": [
+    "styrke träning"
   ],
-  "tvÃ¥sitssoffa": [
-    "tvÃ¥ sits soffa"
+  "tvåsitssoffa": [
+    "två sits soffa"
   ],
   "valackklass": [
     "valack klass"
   ],
-  "stalltÃ¤cke": [
-    "stall tÃ¤cke"
+  "stalltäcke": [
+    "stall täcke"
   ],
   "sojakorvar": [
     "soja korvar"
   ],
-  "hÃ¥rdtrÃ¤ning": [
-    "hÃ¥rd trÃ¤ning"
+  "hårdträning": [
+    "hård träning"
   ],
-  "reflektorkÃ¥pa": [
-    "reflektor kÃ¥pa"
+  "reflektorkåpa": [
+    "reflektor kåpa"
   ],
-  "flyttlÃ¥dor": [
-    "flytt lÃ¥dor"
+  "flyttlådor": [
+    "flytt lådor"
   ],
   "akvarellpennor": [
     "akvarell pennor"
@@ -1295,50 +1292,50 @@
   "datorkabel": [
     "dator kabel"
   ],
-  "unghÃ¤staktiviteter": [
-    "unghÃ¤st aktiviteter"
+  "unghästaktiviteter": [
+    "unghäst aktiviteter"
   ],
-  "hÃ¥lligÃ¥ng": [
-    "hÃ¥ll igÃ¥ng"
+  "hålligång": [
+    "håll igång"
   ],
   "provtid": [
     "prov tid"
   ],
-  "skofÃ¶rvaring": [
-    "sko fÃ¶rvaring"
+  "skoförvaring": [
+    "sko förvaring"
   ],
   "betongbord": [
     "betong bord"
   ],
-  "lÃ¤ssvÃ¥righeter": [
-    "lÃ¤s svÃ¥righeter"
+  "lässvårigheter": [
+    "läs svårigheter"
   ],
-  "superlÃ¥ngt": [
-    "super lÃ¥ngt"
+  "superlångt": [
+    "super långt"
   ],
-  "bestÃ¤llningsblankett": [
-    "bestÃ¤llnings blankett"
+  "beställningsblankett": [
+    "beställnings blankett"
   ],
-  "sÃ¶ndagspromenad": [
-    "sÃ¶ndags promenad"
+  "söndagspromenad": [
+    "söndags promenad"
   ],
-  "kÃ¶pmannadisk": [
-    "kÃ¶pmanna disk"
+  "köpmannadisk": [
+    "köpmanna disk"
   ],
-  "stÃ¶dhjul": [
-    "stÃ¶d hjul"
+  "stödhjul": [
+    "stöd hjul"
   ],
-  "korkhÃ¥llare": [
-    "kork hÃ¥llare"
+  "korkhållare": [
+    "kork hållare"
   ],
-  "pappersplÃ¥nbok": [
-    "pappers plÃ¥nbok"
+  "pappersplånbok": [
+    "pappers plånbok"
   ],
   "nermonterad": [
     "ner monterad"
   ],
-  "sÃ¤nggavel": [
-    "sÃ¤ng gavel"
+  "sänggavel": [
+    "säng gavel"
   ],
   "grillmiddag": [
     "grill middag"
@@ -1349,8 +1346,8 @@
   "sekretessdokument": [
     "sekretess dokument"
   ],
-  "pigmentinnehÃ¥ll": [
-    "pigment innehÃ¥ll"
+  "pigmentinnehåll": [
+    "pigment innehåll"
   ],
   "3-veckorsutmaningen": [
     "3-veckors utmaningen"
@@ -1370,8 +1367,8 @@
   "plastask": [
     "plast ask"
   ],
-  "kundvagnskÃ¤rran": [
-    "kundvagns kÃ¤rran"
+  "kundvagnskärran": [
+    "kundvagns kärran"
   ],
   "nyskick": [
     "ny skick"
@@ -1388,17 +1385,17 @@
   "elvatiden": [
     "elva tiden"
   ],
-  "dessfÃ¶rinnan": [
-    "dess fÃ¶r innan"
+  "dessförinnan": [
+    "dess för innan"
   ],
-  "Ã¶ronhÃ¤ngshÃ¥llare": [
-    "Ã¶ronhÃ¤ngs hÃ¥llare"
+  "öronhängshållare": [
+    "öronhängs hållare"
   ],
   "shoppingexperten": [
     "shopping experten"
   ],
-  "kvÃ¤llsvideo": [
-    "kvÃ¤lls video"
+  "kvällsvideo": [
+    "kvälls video"
   ],
   "samlarfigur": [
     "samlar figur"
@@ -1415,14 +1412,14 @@
   "kompostgaller": [
     "kompost galler"
   ],
-  "matskÃ¥larna": [
-    "mat skÃ¥larna"
+  "matskålarna": [
+    "mat skålarna"
   ],
   "styckvis": [
     "styck vis"
   ],
-  "fÃ¶rsamlingsbok": [
-    "fÃ¶rsamlings bok"
+  "församlingsbok": [
+    "församlings bok"
   ],
   "parfymflaska": [
     "parfym flaska"
@@ -1436,11 +1433,11 @@
   "emailadress": [
     "email adress"
   ],
-  "drÃ¶mgarderob": [
-    "drÃ¶m garderob"
+  "drömgarderob": [
+    "dröm garderob"
   ],
-  "hÃ¤romdagen": [
-    "hÃ¤r om dagen"
+  "häromdagen": [
+    "här om dagen"
   ],
   "guldsmycken": [
     "guld smycken"
@@ -1457,62 +1454,62 @@
   "stuterigranne": [
     "stuteri granne"
   ],
-  "gjutesnÃ¶re": [
-    "gjute snÃ¶re"
+  "gjutesnöre": [
+    "gjute snöre"
   ],
-  "inkÃ¶pspris": [
-    "inkÃ¶ps pris"
+  "inköpspris": [
+    "inköps pris"
   ],
-  "blÃ¤ckpenna": [
-    "blÃ¤ck penna"
+  "bläckpenna": [
+    "bläck penna"
   ],
   "intressekoll": [
     "intresse koll"
   ],
-  "fÃ¤rdigvaccinerad": [
-    "fÃ¤rdig vaccinerad"
+  "färdigvaccinerad": [
+    "färdig vaccinerad"
   ],
-  "kvÃ¤llstid": [
-    "kvÃ¤lls tid"
+  "kvällstid": [
+    "kvälls tid"
   ],
-  "trÃ¤ningsmetoder": [
-    "trÃ¤nings metoder"
+  "träningsmetoder": [
+    "tränings metoder"
   ],
   "tebox": [
     "te box"
   ],
-  "sÃ¤ljmarknad": [
-    "sÃ¤lj marknad"
+  "säljmarknad": [
+    "sälj marknad"
   ],
-  "inkÃ¶psdatum": [
-    "inkÃ¶ps datum"
+  "inköpsdatum": [
+    "inköps datum"
   ],
-  "tÃ¤vlingskompisar": [
-    "tÃ¤vlings kompisar"
+  "tävlingskompisar": [
+    "tävlings kompisar"
   ],
   "konsertbiljett": [
     "konsert biljett"
   ],
-  "sÃ¤ljsida": [
-    "sÃ¤lj sida"
+  "säljsida": [
+    "sälj sida"
   ],
-  "fikastÃ¤lle": [
-    "fika stÃ¤lle"
+  "fikaställe": [
+    "fika ställe"
   ],
-  "bokmÃ¤nniska": [
-    "bok mÃ¤nniska"
+  "bokmänniska": [
+    "bok människa"
   ],
-  "biltillbehÃ¶r": [
-    "bil tillbehÃ¶r"
+  "biltillbehör": [
+    "bil tillbehör"
   ],
   "kamerastativ": [
     "kamera stativ"
   ],
-  "superlÃ¥gt": [
-    "super lÃ¥gt"
+  "superlågt": [
+    "super lågt"
   ],
-  "naturlÃ¤ra": [
-    "natur lÃ¤ra"
+  "naturlära": [
+    "natur lära"
   ],
   "paketpris": [
     "paket pris"
@@ -1520,8 +1517,8 @@
   "pulkabacken": [
     "pulka backen"
   ],
-  "pepparrotsÃ¥s": [
-    "peppar rot sÃ¥s"
+  "pepparrotsås": [
+    "peppar rot sås"
   ],
   "ingenstans": [
     "ingen stans"
@@ -1535,8 +1532,8 @@
   "inom": [
     "in om"
   ],
-  "metallpÃ¤rla": [
-    "metall pÃ¤rla"
+  "metallpärla": [
+    "metall pärla"
   ],
   "majskolvar": [
     "majs kolvar"
@@ -1547,44 +1544,44 @@
   "kompaktkamera": [
     "kompakt kamera"
   ],
-  "frigolitÃ¤gg": [
-    "frigolit Ã¤gg"
+  "frigolitägg": [
+    "frigolit ägg"
   ],
-  "blÃ¤ckstrÃ¥leskrivare": [
-    "blÃ¤ckstrÃ¥le skrivare"
+  "bläckstråleskrivare": [
+    "bläckstråle skrivare"
   ],
   "spikmatta": [
     "spik matta"
   ],
-  "lÃ¤derportfÃ¶lj": [
-    "lÃ¤der portfÃ¶lj"
+  "läderportfölj": [
+    "läder portfölj"
   ],
-  "Ã¶gongodis": [
-    "Ã¶gon godis"
+  "ögongodis": [
+    "ögon godis"
   ],
-  "medellivslÃ¤ngd": [
-    "medel livs lÃ¤ngd"
+  "medellivslängd": [
+    "medel livs längd"
   ],
-  "barnbyrÃ¥": [
-    "barn byrÃ¥"
+  "barnbyrå": [
+    "barn byrå"
   ],
   "dunderjobb": [
     "dunder jobb"
   ],
-  "Ã¥terlÃ¤mningsavgift": [
-    "Ã¥terlÃ¤mnings avgift"
+  "återlämningsavgift": [
+    "återlämnings avgift"
   ],
-  "trÃ¤ningsshow": [
-    "trÃ¤nings show"
+  "träningsshow": [
+    "tränings show"
   ],
-  "distanstÃ¤vlingarna": [
-    "distans tÃ¤vlingarna"
+  "distanstävlingarna": [
+    "distans tävlingarna"
   ],
   "juniorcykel": [
     "junior cykel"
   ],
-  "sÃ¤ljsidor": [
-    "sÃ¤lj sidor"
+  "säljsidor": [
+    "sälj sidor"
   ],
   "myskankor": [
     "mysk ankor"
@@ -1592,14 +1589,14 @@
   "potatisplockare": [
     "potatis plockare"
   ],
-  "tÃ¤vlingsridning": [
-    "tÃ¤vlings ridning"
+  "tävlingsridning": [
+    "tävlings ridning"
   ],
-  "luciakÃ¶ren": [
-    "lucia kÃ¶ren"
+  "luciakören": [
+    "lucia kören"
   ],
-  "fjÃ¤llmotiv": [
-    "fjÃ¤ll motiv"
+  "fjällmotiv": [
+    "fjäll motiv"
   ],
   "inbetalningskort": [
     "inbetalnings kort"
@@ -1607,8 +1604,8 @@
   "kvalitetsset": [
     "kvalitets set"
   ],
-  "nattsÃ¶mn": [
-    "natt sÃ¶mn"
+  "nattsömn": [
+    "natt sömn"
   ],
   "proffsmodell": [
     "proffs modell"
@@ -1619,8 +1616,8 @@
   "silikonskal": [
     "silikon skal"
   ],
-  "antisnarkklÃ¤mma": [
-    "anti snark klÃ¤mma"
+  "antisnarkklämma": [
+    "anti snark klämma"
   ],
   "bloggtorka": [
     "blogg torka"
@@ -1628,17 +1625,17 @@
   "falafelrulle": [
     "falafel rulle"
   ],
-  "smyckesfÃ¶rlÃ¤gningskedje": [
-    "smyckes fÃ¶rlÃ¤gningskedje"
+  "smyckesförlägningskedje": [
+    "smyckes förlägningskedje"
   ],
-  "axellÃ¥ngt": [
-    "axel lÃ¥ngt"
+  "axellångt": [
+    "axel långt"
   ],
-  "reahÃ¶rna": [
-    "rea hÃ¶rna"
+  "reahörna": [
+    "rea hörna"
   ],
-  "infÃ¶r": [
-    "in fÃ¶r"
+  "inför": [
+    "in för"
   ],
   "omplaceringshundar": [
     "omplacerings hundar"
@@ -1655,14 +1652,14 @@
   "porslinsring": [
     "porslins ring"
   ],
-  "grÃ¥rÃ¶da": [
-    "grÃ¥ rÃ¶da"
+  "gråröda": [
+    "grå röda"
   ],
   "testrida": [
     "test rida"
   ],
-  "tvÃ¥barnsmor": [
-    "tvÃ¥barns mor"
+  "tvåbarnsmor": [
+    "tvåbarns mor"
   ],
   "mineralbrist": [
     "mineral brist"
@@ -1673,14 +1670,14 @@
   "kaffebryggaren": [
     "kaffe bryggaren"
   ],
-  "slÃ¤ktgÃ¥rd": [
-    "slÃ¤kt gÃ¥rd"
+  "släktgård": [
+    "släkt gård"
   ],
   "dubbellektion": [
     "dubbel lektion"
   ],
-  "fÃ¶rskolepersonal": [
-    "fÃ¶rskole personal"
+  "förskolepersonal": [
+    "förskole personal"
   ],
   "immunterapibehandlingen": [
     "immunterapi behandlingen"
@@ -1697,14 +1694,14 @@
   "pappersblock": [
     "pappers block"
   ],
-  "kattsÃ¤ng": [
-    "katt sÃ¤ng"
+  "kattsäng": [
+    "katt säng"
   ],
   "blyfri": [
     "bly fri"
   ],
-  "lÃ¤sfrÃ¥ga": [
-    "lÃ¤s frÃ¥ga"
+  "läsfråga": [
+    "läs fråga"
   ],
   "verkstadslokal": [
     "verkstads lokal"
@@ -1712,14 +1709,14 @@
   "favoritdricka": [
     "favorit dricka"
   ],
-  "flerbildslÃ¤ge": [
-    "flerbilds lÃ¤ge"
+  "flerbildsläge": [
+    "flerbilds läge"
   ],
   "streckgubbe": [
     "streck gubbe"
   ],
-  "uppnÃ¥s": [
-    "upp nÃ¥s"
+  "uppnås": [
+    "upp nås"
   ],
   "solariumbild": [
     "solarium bild"
@@ -1751,20 +1748,20 @@
   "skumplastpusselbitar": [
     "skumplast pussel bitar"
   ],
-  "sittunderlÃ¤gg": [
-    "sitt underlÃ¤gg"
+  "sittunderlägg": [
+    "sitt underlägg"
   ],
-  "skÃ¤rgÃ¥rdslÃ¤gret": [
-    "skÃ¤rgÃ¥rds lÃ¤gret"
+  "skärgårdslägret": [
+    "skärgårds lägret"
   ],
-  "mÃ¥laryta": [
-    "mÃ¥lar yta"
+  "målaryta": [
+    "målar yta"
   ],
   "kreditkortbetalning": [
     "kreditkort betalning"
   ],
-  "genomtÃ¤nkt": [
-    "genom tÃ¤nkt"
+  "genomtänkt": [
+    "genom tänkt"
   ],
   "golvlampa": [
     "golv lampa"
@@ -1778,11 +1775,11 @@
   "kommentarrutor": [
     "kommentar rutor"
   ],
-  "tÃ¤vlingsstall": [
-    "tÃ¤vlings stall"
+  "tävlingsstall": [
+    "tävlings stall"
   ],
-  "tandlÃ¤karrÃ¤dsla": [
-    "tandlÃ¤kar rÃ¤dsla"
+  "tandläkarrädsla": [
+    "tandläkar rädsla"
   ],
   "dressyrprogram": [
     "dressyr program"
@@ -1790,17 +1787,17 @@
   "styrolitring": [
     "styrolit ring"
   ],
-  "pÃ¥minna": [
-    "pÃ¥ minna"
+  "påminna": [
+    "på minna"
   ],
-  "brÃ¶stoperation": [
-    "brÃ¶st operation"
+  "bröstoperation": [
+    "bröst operation"
   ],
-  "vinterstÃ¶vlar": [
-    "vinter stÃ¶vlar"
+  "vinterstövlar": [
+    "vinter stövlar"
   ],
-  "riksutstÃ¤llningen": [
-    "riks utstÃ¤llningen"
+  "riksutställningen": [
+    "riks utställningen"
   ],
   "fredningstid": [
     "frednings tid"
@@ -1808,8 +1805,8 @@
   "origamipapper": [
     "origami papper"
   ],
-  "stÃ¥platsbiljetter": [
-    "stÃ¥plats biljetter"
+  "ståplatsbiljetter": [
+    "ståplats biljetter"
   ],
   "huskattsaveln": [
     "huskatts aveln"
@@ -1820,14 +1817,14 @@
   "barstol": [
     "bar stol"
   ],
-  "svÃ¤ljreflexen": [
-    "svÃ¤lj reflexen"
+  "sväljreflexen": [
+    "svälj reflexen"
   ],
-  "likasÃ¥": [
-    "lika sÃ¥"
+  "likaså": [
+    "lika så"
   ],
-  "datorryggsÃ¤ck": [
-    "dator ryggsÃ¤ck"
+  "datorryggsäck": [
+    "dator ryggsäck"
   ],
   "viltsnacks": [
     "vilt snacks"
@@ -1835,8 +1832,8 @@
   "tandblekningspenna": [
     "tandbleknings penna"
   ],
-  "hÃ¶gskoleprov": [
-    "hÃ¶gskole prov"
+  "högskoleprov": [
+    "högskole prov"
   ],
   "husspindlar": [
     "hus spindlar"
@@ -1850,17 +1847,17 @@
   "dressyrpass": [
     "dressyr pass"
   ],
-  "miniatyrgjutjÃ¤rnskamin": [
-    "miniatyr gjutjÃ¤rnskamin"
+  "miniatyrgjutjärnskamin": [
+    "miniatyr gjutjärnskamin"
   ],
-  "Ã¥terkom": [
-    "Ã¥ter kom"
+  "återkom": [
+    "åter kom"
   ],
   "utryckningsfordon": [
     "utrycknings fordon"
   ],
-  "kattskÃ¥lar": [
-    "katt skÃ¥lar"
+  "kattskålar": [
+    "katt skålar"
   ],
   "praktikdag": [
     "praktik dag"
@@ -1874,8 +1871,8 @@
   "kylbalsam": [
     "kyl balsam"
   ],
-  "trÃ¤ningsidÃ©er": [
-    "trÃ¤nings idÃ©er"
+  "träningsidéer": [
+    "tränings idéer"
   ],
   "produktionsteknik": [
     "produktions teknik"
@@ -1892,23 +1889,23 @@
   "sekundbilder": [
     "sekund bilder"
   ],
-  "gÃ¥band": [
-    "gÃ¥ band"
+  "gåband": [
+    "gå band"
   ],
-  "sÃ¤kerhetslÃ¥set": [
-    "sÃ¤ker hets lÃ¥set"
+  "säkerhetslåset": [
+    "säker hets låset"
   ],
-  "sensorrengÃ¶ring": [
-    "sensor rengÃ¶ring"
+  "sensorrengöring": [
+    "sensor rengöring"
   ],
-  "triss&nbsp;lotter": [
-    "triss&nbsp;lotter"
+  "triss-lotter": [
+    "triss-lotter"
   ],
-  "allvÃ¤derstÃ¶vlar": [
-    "allvÃ¤der stÃ¶vlar"
+  "allväderstövlar": [
+    "allväder stövlar"
   ],
-  "vitlÃ¶ksbrÃ¶d": [
-    "vitlÃ¶ks brÃ¶d"
+  "vitlöksbröd": [
+    "vitlöks bröd"
   ],
   "fotografitekniker": [
     "fotografi tekniker"
@@ -1928,23 +1925,23 @@
   "arbetsfordon": [
     "arbets fordon"
   ],
-  "pÃ¥gÃ¥r": [
-    "pÃ¥ gÃ¥r"
+  "pågår": [
+    "på går"
   ],
-  "restaurangbesÃ¶ket": [
-    "restaurang besÃ¶ket"
+  "restaurangbesöket": [
+    "restaurang besöket"
   ],
   "papperskopia": [
     "pappers kopia"
   ],
-  "bankÃ¶verfÃ¶ring": [
-    "bank Ã¶verfÃ¶ring"
+  "banköverföring": [
+    "bank överföring"
   ],
   "halvkollade": [
     "halv kollade"
   ],
-  "pappersstjÃ¤rna": [
-    "pappers stjÃ¤rna"
+  "pappersstjärna": [
+    "pappers stjärna"
   ],
   "vinnarbild": [
     "vinnar bild"
@@ -1955,11 +1952,11 @@
   "panoreringsbar": [
     "panorerings bar"
   ],
-  "sommarÃ¤ng": [
-    "sommar Ã¤ng"
+  "sommaräng": [
+    "sommar äng"
   ],
-  "busshÃ¥llplats": [
-    "buss hÃ¥llplats"
+  "busshållplats": [
+    "buss hållplats"
   ],
   "fleecevantar": [
     "fleece vantar"
@@ -1967,8 +1964,8 @@
   "penseldrag": [
     "pensel drag"
   ],
-  "matlÃ¥da": [
-    "mat lÃ¥da"
+  "matlåda": [
+    "mat låda"
   ],
   "ullgarn": [
     "ull garn"
@@ -1979,8 +1976,8 @@
   "guldmetallicpapper": [
     "guld metallic papper"
   ],
-  "affischhÃ¤ngare": [
-    "affisch hÃ¤ngare"
+  "affischhängare": [
+    "affisch hängare"
   ],
   "komvux": [
     "kom vux"
@@ -1988,20 +1985,20 @@
   "bildcensorer": [
     "bild censorer"
   ],
-  "sjÃ¤lvbiografibÃ¶cker": [
-    "sjÃ¤lvbiografi bÃ¶cker"
+  "självbiografiböcker": [
+    "självbiografi böcker"
   ],
   "ryggsidorna": [
     "rygg sidorna"
   ],
-  "skolavslutningsklÃ¤nning": [
-    "skolavslutnings klÃ¤nning"
+  "skolavslutningsklänning": [
+    "skolavslutnings klänning"
   ],
   "Ronneby": [
     "Ronne by"
   ],
-  "fÃ¤rdiginstallerad": [
-    "fÃ¤rdig installerad"
+  "färdiginstallerad": [
+    "färdig installerad"
   ],
   "lamadjur": [
     "lama djur"
@@ -2009,11 +2006,11 @@
   "upppiggande": [
     "upp piggande"
   ],
-  "tvÃ¤ttstuga": [
-    "tvÃ¤tt stuga"
+  "tvättstuga": [
+    "tvätt stuga"
   ],
-  "supersvÃ¥rt": [
-    "super svÃ¥rt"
+  "supersvårt": [
+    "super svårt"
   ],
   "kaffepaus": [
     "kaffe paus"
@@ -2027,26 +2024,26 @@
   "numera": [
     "nu mera"
   ],
-  "fryspÃ¥se": [
-    "frys pÃ¥se"
+  "fryspåse": [
+    "frys påse"
   ],
-  "utstÃ¤llningsstammad": [
-    "utstÃ¤llnings stammad"
+  "utställningsstammad": [
+    "utställnings stammad"
   ],
-  "smÃ¥jobbigt": [
-    "smÃ¥ jobbigt"
+  "småjobbigt": [
+    "små jobbigt"
   ],
   "superfin": [
     "super fin"
   ],
-  "fÃ¶delsebok": [
-    "fÃ¶delse bok"
+  "födelsebok": [
+    "födelse bok"
   ],
   "blyertspennor": [
     "blyerts pennor"
   ],
-  "underklÃ¤der": [
-    "under klÃ¤der"
+  "underkläder": [
+    "under kläder"
   ],
   "skumgummimadrasser": [
     "skumgummi madrasser"
@@ -2054,29 +2051,29 @@
   "omsorgsarbeten": [
     "omsorgs arbeten"
   ],
-  "fÃ¶rstahandsuppgifter": [
-    "fÃ¶rsta hands uppgifter"
+  "förstahandsuppgifter": [
+    "första hands uppgifter"
   ],
-  "hÃ¶steftermiddag": [
-    "hÃ¶st eftermiddag"
+  "hösteftermiddag": [
+    "höst eftermiddag"
   ],
-  "kÃ¤rleksfulla": [
-    "kÃ¤rleks fulla"
+  "kärleksfulla": [
+    "kärleks fulla"
   ],
   "iskall": [
     "is kall"
   ],
-  "fÃ¶rrÃ¤n": [
-    "fÃ¶rr Ã¤n"
+  "förrän": [
+    "förr än"
   ],
-  "sprÃ¥kgeni": [
-    "sprÃ¥k geni"
+  "språkgeni": [
+    "språk geni"
   ],
   "akvariebelysning": [
     "akvarie belysning"
   ],
-  "juniorsÃ¤ng": [
-    "junior sÃ¤ng"
+  "juniorsäng": [
+    "junior säng"
   ],
   "reklamutdelare": [
     "reklam utdelare"
@@ -2084,17 +2081,17 @@
   "silverram": [
     "silver ram"
   ],
-  "fÃ¥rpÃ¤lsvantar": [
-    "fÃ¥r pÃ¤ls vantar"
+  "fårpälsvantar": [
+    "får päls vantar"
   ],
-  "nybÃ¶rjarstudiokit": [
-    "nybÃ¶rjar studiokit"
+  "nybörjarstudiokit": [
+    "nybörjar studiokit"
   ],
-  "sjÃ¤lvdÃ¶r": [
-    "sjÃ¤lv dÃ¶r"
+  "självdör": [
+    "själv dör"
   ],
-  "rÃ¶ststopp": [
-    "rÃ¶st stopp"
+  "röststopp": [
+    "röst stopp"
   ],
   "digitalkamera": [
     "digital kamera"
@@ -2117,23 +2114,23 @@
   "gymnasieskolan": [
     "gymnasie skolan"
   ],
-  "minifiskespÃ¶": [
-    "mini fiskespÃ¶"
+  "minifiskespö": [
+    "mini fiskespö"
   ],
   "kortterminal": [
     "kort terminal"
   ],
-  "trikÃ¥klÃ¤nning": [
-    "trikÃ¥ klÃ¤nning"
+  "trikåklänning": [
+    "trikå klänning"
   ],
-  "rÃ¶stresursen": [
-    "rÃ¶st resursen"
+  "röstresursen": [
+    "röst resursen"
   ],
   "favoritgodis": [
     "favorit godis"
   ],
-  "proffstjÃ¤nst": [
-    "proffs tjÃ¤nst"
+  "proffstjänst": [
+    "proffs tjänst"
   ],
   "registreringsnummer": [
     "registrerings nummer"
@@ -2141,14 +2138,14 @@
   "julblomsterdekoration": [
     "jul blomster dekoration"
   ],
-  "hÃ¶gtryckstvÃ¤tt": [
-    "hÃ¶gtrycks tvÃ¤tt"
+  "högtryckstvätt": [
+    "högtrycks tvätt"
   ],
   "smaksak": [
     "smak sak"
   ],
-  "Ã¤gggula": [
-    "Ã¤gg gula"
+  "ägggula": [
+    "ägg gula"
   ],
   "spetsgardiner": [
     "spets gardiner"
@@ -2156,8 +2153,8 @@
   "fastsnurrad": [
     "fast snurrad"
   ],
-  "innehÃ¶ll": [
-    "inne hÃ¶ll"
+  "innehöll": [
+    "inne höll"
   ],
   "handikapptoa": [
     "handikapp toa"
@@ -2165,32 +2162,32 @@
   "gasspis": [
     "gas spis"
   ],
-  "jÃ¤ttekallt": [
-    "jÃ¤tte kallt"
+  "jättekallt": [
+    "jätte kallt"
   ],
-  "nyÃ¥rspuss": [
-    "nyÃ¥rs puss"
+  "nyårspuss": [
+    "nyårs puss"
   ],
   "symaskinsspolar": [
     "symaskins spolar"
   ],
-  "jÃ¤ttefin": [
-    "jÃ¤tte fin"
+  "jättefin": [
+    "jätte fin"
   ],
-  "minimumlÃ¤ngd": [
-    "minimum lÃ¤ngd"
+  "minimumlängd": [
+    "minimum längd"
   ],
-  "hÃ¥rsnoddar": [
-    "hÃ¥r snoddar"
+  "hårsnoddar": [
+    "hår snoddar"
   ],
   "Lejonkungen": [
     "Lejon kungen"
   ],
-  "mÃ¥larsidor": [
-    "mÃ¥lar sidor"
+  "målarsidor": [
+    "målar sidor"
   ],
-  "utomhusklÃ¤dsel": [
-    "utomhus klÃ¤dsel"
+  "utomhusklädsel": [
+    "utomhus klädsel"
   ],
   "flickcykel": [
     "flick cykel"
@@ -2201,8 +2198,8 @@
   "duschkabin": [
     "dusch kabin"
   ],
-  "lÃ¥tlÃ¤nk": [
-    "lÃ¥t lÃ¤nk"
+  "låtlänk": [
+    "låt länk"
   ],
   "beduinstammar": [
     "beduin stammar"
@@ -2210,17 +2207,17 @@
   "barnbarn": [
     "barn barn"
   ],
-  "favoritÃ¶rhÃ¤ngen": [
-    "favorit Ã¶rhÃ¤ngen"
+  "favoritörhängen": [
+    "favorit örhängen"
   ],
   "motviktsbild": [
     "motvikts bild"
   ],
-  "vinrÃ¶d": [
-    "vin rÃ¶d"
+  "vinröd": [
+    "vin röd"
   ],
-  "kameravÃ¤ska": [
-    "kamera vÃ¤ska"
+  "kameraväska": [
+    "kamera väska"
   ],
   "iphoneskal": [
     "iphone skal"
@@ -2231,56 +2228,56 @@
   "vridbart": [
     "vrid bart"
   ],
-  "fÃ¶rsvinner": [
-    "fÃ¶r svinner"
+  "försvinner": [
+    "för svinner"
   ],
   "teaterartist": [
     "teater artist"
   ],
-  "flygtrÃ¤ning": [
-    "flyg trÃ¤ning"
+  "flygträning": [
+    "flyg träning"
   ],
   "fotopapper": [
     "foto papper"
   ],
-  "magnetlÃ¥s": [
-    "magnet lÃ¥s"
+  "magnetlås": [
+    "magnet lås"
   ],
-  "mysbesÃ¶k": [
-    "mys besÃ¶k"
+  "mysbesök": [
+    "mys besök"
   ],
   "metallskrot": [
     "metall skrot"
   ],
-  "jÃ¤ttetacksam": [
-    "jÃ¤tte tacksam"
+  "jättetacksam": [
+    "jätte tacksam"
   ],
   "barbieslott": [
     "barbie slott"
   ],
-  "personallÃ¤genhet": [
-    "personal lÃ¤genhet"
+  "personallägenhet": [
+    "personal lägenhet"
   ],
-  "premiÃ¤rbadat": [
-    "premiÃ¤r badat"
+  "premiärbadat": [
+    "premiär badat"
   ],
   "sminksaker": [
     "smink saker"
   ],
-  "RonnebyomrÃ¥det": [
-    "Ronneby omrÃ¥det"
+  "Ronnebyområdet": [
+    "Ronneby området"
   ],
   "multifunktionskulspetspenna": [
     "multifunktions kulspetspenna"
   ],
-  "sÃ¤ljarsidorna": [
-    "sÃ¤ljar sidorna"
+  "säljarsidorna": [
+    "säljar sidorna"
   ],
   "instinktsperspektiv": [
     "instinkts perspektiv"
   ],
-  "konstkÃ¶pare": [
-    "konst kÃ¶pare"
+  "konstköpare": [
+    "konst köpare"
   ],
   "babyskyddsadapter": [
     "babyskydds adapter"
@@ -2288,20 +2285,20 @@
   "mammaroll": [
     "mamma roll"
   ],
-  "storgrÃ¥ta": [
-    "stor grÃ¥ta"
+  "storgråta": [
+    "stor gråta"
   ],
   "spiknykter": [
     "spik nykter"
   ],
-  "finbesÃ¶k": [
-    "fin besÃ¶k"
+  "finbesök": [
+    "fin besök"
   ],
-  "glaspÃ¤rlor": [
-    "glas pÃ¤rlor"
+  "glaspärlor": [
+    "glas pärlor"
   ],
-  "slÃ¤ktkalendern": [
-    "slÃ¤kt kalendern"
+  "släktkalendern": [
+    "släkt kalendern"
   ],
   "blombollar": [
     "blom bollar"
@@ -2312,20 +2309,20 @@
   "vinterbonar": [
     "vinter bonar"
   ],
-  "skrivsvÃ¥righeter": [
-    "skriv svÃ¥righeter"
+  "skrivsvårigheter": [
+    "skriv svårigheter"
   ],
-  "smÃ¥seg": [
-    "smÃ¥ seg"
+  "småseg": [
+    "små seg"
   ],
-  "platÃ¥sula": [
-    "platÃ¥ sula"
+  "platåsula": [
+    "platå sula"
   ],
-  "strÃ¶mavbrott": [
-    "strÃ¶m av brott"
+  "strömavbrott": [
+    "ström av brott"
   ],
-  "salladsÃ¤lskare": [
-    "sallads Ã¤lskare"
+  "salladsälskare": [
+    "sallads älskare"
   ],
   "kamerablixt": [
     "kamera blixt"
@@ -2363,8 +2360,8 @@
   "modelllampa": [
     "modell lampa"
   ],
-  "brÃ¶llopsfotografering": [
-    "brÃ¶llops fotografering"
+  "bröllopsfotografering": [
+    "bröllops fotografering"
   ],
   "valmeny": [
     "val meny"
@@ -2372,8 +2369,8 @@
   "facebookappen": [
     "facebook appen"
   ],
-  "steksnÃ¶re": [
-    "stek snÃ¶re"
+  "steksnöre": [
+    "stek snöre"
   ],
   "systemkamerabilder": [
     "systemkamera bilder"
@@ -2390,38 +2387,38 @@
   "presentkort": [
     "present kort"
   ],
-  "ponny&nbsp;mÃ¥tt": [
-    "ponny&nbsp;mÃ¥tt"
+  "ponny-mått": [
+    "ponny-mått"
   ],
-  "tennistÃ¤vling": [
-    "tennis tÃ¤vling"
+  "tennistävling": [
+    "tennis tävling"
   ],
   "tillkommit": [
     "till kommit"
   ],
-  "utgÃ¥r": [
-    "ut gÃ¥r"
+  "utgår": [
+    "ut går"
   ],
   "vinstpokaler": [
     "vinst pokaler"
   ],
-  "godishÃ¶rna": [
-    "godis hÃ¶rna"
+  "godishörna": [
+    "godis hörna"
   ],
-  "kommentarfÃ¤ltet": [
-    "kommentar fÃ¤ltet"
+  "kommentarfältet": [
+    "kommentar fältet"
   ],
-  "nedviktstrÃ¤ning": [
-    "nedvikts trÃ¤ning"
+  "nedviktsträning": [
+    "nedvikts träning"
   ],
-  "urskogsÃ¤lskare": [
-    "urskogs Ã¤lskare"
+  "urskogsälskare": [
+    "urskogs älskare"
   ],
   "vinstvittring": [
     "vinst vittring"
   ],
-  "konfliktrÃ¤dda": [
-    "konflikt rÃ¤dda"
+  "konflikträdda": [
+    "konflikt rädda"
   ],
   "miniatyrskrivbord": [
     "miniatyr skrivbord"
@@ -2429,17 +2426,17 @@
   "kebabrulle": [
     "kebab rulle"
   ],
-  "Ã¶vningshÃ¤ften": [
-    "Ã¶vnings hÃ¤ften"
+  "övningshäften": [
+    "övnings häften"
   ],
-  "dubbelsÃ¤ng": [
-    "dubbel sÃ¤ng"
+  "dubbelsäng": [
+    "dubbel säng"
   ],
   "varningsskyltar": [
     "varnings skyltar"
   ],
-  "fÃ¶rrÃ¥dsstÃ¤dning": [
-    "fÃ¶rrÃ¥ds stÃ¤dning"
+  "förrådsstädning": [
+    "förråds städning"
   ],
   "herrgolfbyxor": [
     "herr golf byxor"
@@ -2447,11 +2444,11 @@
   "cigarettformad": [
     "cigarett formad"
   ],
-  "julklappsÃ¶ppning": [
-    "julklapps Ã¶ppning"
+  "julklappsöppning": [
+    "julklapps öppning"
   ],
-  "tonÃ¥rsbÃ¶cker": [
-    "tonÃ¥rs bÃ¶cker"
+  "tonårsböcker": [
+    "tonårs böcker"
   ],
   "avelssto": [
     "avels sto"
@@ -2468,8 +2465,8 @@
   "vinstmaskin": [
     "vinst maskin"
   ],
-  "hÃ¶ftledsoperationen": [
-    "hÃ¶ftleds operationen"
+  "höftledsoperationen": [
+    "höftleds operationen"
   ],
   "kanonbra": [
     "kanon bra"
@@ -2477,8 +2474,8 @@
   "barnringar": [
     "barn ringar"
   ],
-  "tÃ¤vlingsstarten": [
-    "tÃ¤vlings starten"
+  "tävlingsstarten": [
+    "tävlings starten"
   ],
   "stickprovskontroller": [
     "stickprovs kontroller"
@@ -2486,11 +2483,11 @@
   "akutrum": [
     "akut rum"
   ],
-  "snÃ¶&nbsp;Ã¤ngel": [
-    "snÃ¶&nbsp;Ã¤ngel"
+  "snö-ängel": [
+    "snö-ängel"
   ],
-  "vÃ¤rmekamin": [
-    "vÃ¤rme kamin"
+  "värmekamin": [
+    "värme kamin"
   ],
   "dokumentsmapp": [
     "dokuments mapp"
@@ -2498,8 +2495,8 @@
   "klubbavslutning": [
     "klubb avslutning"
   ],
-  "dagdrÃ¶mmer": [
-    "dag drÃ¶mmer"
+  "dagdrömmer": [
+    "dag drömmer"
   ],
   "videoinstruktion": [
     "video instruktion"
@@ -2507,8 +2504,8 @@
   "julpost": [
     "jul post"
   ],
-  "jÃ¤ttedeppig": [
-    "jÃ¤tte deppig"
+  "jättedeppig": [
+    "jätte deppig"
   ],
   "leveranstid": [
     "leverans tid"
@@ -2522,11 +2519,11 @@
   "fotostudio": [
     "foto studio"
   ],
-  "mammaklÃ¤der": [
-    "mamma klÃ¤der"
+  "mammakläder": [
+    "mamma kläder"
   ],
-  "kyrkobÃ¶cker": [
-    "kyrko bÃ¶cker"
+  "kyrkoböcker": [
+    "kyrko böcker"
   ],
   "hundmat": [
     "hund mat"
@@ -2540,17 +2537,17 @@
   "leveransklar": [
     "leverans klar"
   ],
-  "veterinÃ¤rhÃ¶gskolan": [
-    "veterinÃ¤r hÃ¶gskolan"
+  "veterinärhögskolan": [
+    "veterinär högskolan"
   ],
   "produktinformation": [
     "produkt information"
   ],
-  "favorithÃ¤st": [
-    "favorit hÃ¤st"
+  "favorithäst": [
+    "favorit häst"
   ],
-  "jÃ¤ttekÃ¤nslig": [
-    "jÃ¤tte kÃ¤nslig"
+  "jättekänslig": [
+    "jätte känslig"
   ],
   "ansvar": [
     "an svar"
@@ -2564,14 +2561,14 @@
   "studiebidraget": [
     "studie bidraget"
   ],
-  "30-Ã¥rsfest": [
-    "30-Ã¥rs fest"
+  "30-årsfest": [
+    "30-års fest"
   ],
   "pokemonkort": [
     "pokemon kort"
   ],
-  "placeringskortsklÃ¤mmor": [
-    "placeringskorts klÃ¤mmor"
+  "placeringskortsklämmor": [
+    "placeringskorts klämmor"
   ],
   "vinflaskor": [
     "vin flaskor"
@@ -2579,8 +2576,8 @@
   "extramamma": [
     "extra mamma"
   ],
-  "familjekÃ¤nsla": [
-    "familje kÃ¤nsla"
+  "familjekänsla": [
+    "familje känsla"
   ],
   "leoparddressen": [
     "leopard dressen"
@@ -2588,20 +2585,20 @@
   "gravidkudde": [
     "gravid kudde"
   ],
-  "lÃ¤dervÃ¤ska": [
-    "lÃ¤der vÃ¤ska"
+  "läderväska": [
+    "läder väska"
   ],
-  "hÃ¥rklÃ¤mmor": [
-    "hÃ¥r klÃ¤mmor"
+  "hårklämmor": [
+    "hår klämmor"
   ],
-  "matkÃ¤nslor": [
-    "mat kÃ¤nslor"
+  "matkänslor": [
+    "mat känslor"
   ],
   "kaninmat": [
     "kanin mat"
   ],
-  "kardborreÃ¶ppning": [
-    "kardborre Ã¶ppning"
+  "kardborreöppning": [
+    "kardborre öppning"
   ],
   "nyduschad": [
     "ny duschad"
@@ -2612,11 +2609,11 @@
   "mininallar": [
     "mini nallar"
   ],
-  "skadeglÃ¤dje": [
-    "skade glÃ¤dje"
+  "skadeglädje": [
+    "skade glädje"
   ],
-  "jÃ¤tteviktigt": [
-    "jÃ¤tte viktigt"
+  "jätteviktigt": [
+    "jätte viktigt"
   ],
   "narkolepsiberlock": [
     "narkolepsi berlock"
@@ -2624,14 +2621,14 @@
   "sockerberoende": [
     "socker beroende"
   ],
-  "jÃ¤ttemycket": [
-    "jÃ¤tte mycket"
+  "jättemycket": [
+    "jätte mycket"
   ],
-  "vardagsklÃ¤der": [
-    "vardags klÃ¤der"
+  "vardagskläder": [
+    "vardags kläder"
   ],
-  "mattunderlÃ¤gg": [
-    "matt underlÃ¤gg"
+  "mattunderlägg": [
+    "matt underlägg"
   ],
   "viktkurva": [
     "vikt kurva"
@@ -2639,23 +2636,23 @@
   "sommarbilder": [
     "sommar bilder"
   ],
-  "jÃ¤ttevild": [
-    "jÃ¤tte vild"
+  "jättevild": [
+    "jätte vild"
   ],
-  "jÃ¤ttespÃ¤nnande": [
-    "jÃ¤tte spÃ¤nnande"
+  "jättespännande": [
+    "jätte spännande"
   ],
-  "arabhÃ¤stentusiaster": [
-    "arabhÃ¤st entusiaster"
+  "arabhästentusiaster": [
+    "arabhäst entusiaster"
   ],
-  "dÃ¤rmed": [
-    "dÃ¤r med"
+  "därmed": [
+    "där med"
   ],
-  "jÃ¤ttevidvinkel": [
-    "jÃ¤tte vidvinkel"
+  "jättevidvinkel": [
+    "jätte vidvinkel"
   ],
-  "lÃ¥gkolhydratslimpa": [
-    "lÃ¥g kolhydrats limpa"
+  "lågkolhydratslimpa": [
+    "låg kolhydrats limpa"
   ],
   "ingjuten": [
     "in gjuten"
@@ -2663,20 +2660,20 @@
   "inomhusbruk": [
     "inomhus bruk"
   ],
-  "sÃ¥jord": [
-    "sÃ¥ jord"
+  "såjord": [
+    "så jord"
   ],
-  "trÃ¤ningsplagg": [
-    "trÃ¤nings plagg"
+  "träningsplagg": [
+    "tränings plagg"
   ],
   "hoppteknik": [
     "hopp teknik"
   ],
-  "igensnÃ¶ade": [
-    "igen snÃ¶ade"
+  "igensnöade": [
+    "igen snöade"
   ],
-  "mjÃ¶lkkanna": [
-    "mjÃ¶lk kanna"
+  "mjölkkanna": [
+    "mjölk kanna"
   ],
   "tallrikshylla": [
     "tallriks hylla"
@@ -2690,29 +2687,29 @@
   "djurmisshandel": [
     "djur misshandel"
   ],
-  "gardintillbehÃ¶r": [
-    "gardin tillbehÃ¶r"
+  "gardintillbehör": [
+    "gardin tillbehör"
   ],
-  "fÃ¶rslag": [
-    "fÃ¶r slag"
+  "förslag": [
+    "för slag"
   ],
-  "kycklingfilÃ©": [
-    "kyckling filÃ©"
+  "kycklingfilé": [
+    "kyckling filé"
   ],
-  "teckensprÃ¥kslÃ¤rare": [
-    "teckensprÃ¥ks lÃ¤rare"
+  "teckenspråkslärare": [
+    "teckenspråks lärare"
   ],
-  "orexinnivÃ¥er": [
-    "orexin nivÃ¥er"
+  "orexinnivåer": [
+    "orexin nivåer"
   ],
-  "fÃ¶rnuftigt": [
-    "fÃ¶r nuftigt"
+  "förnuftigt": [
+    "för nuftigt"
   ],
   "polarisationsfilter": [
     "polarisations filter"
   ],
-  "KarlskronaomrÃ¥det": [
-    "Karlskrona omrÃ¥det"
+  "Karlskronaområdet": [
+    "Karlskrona området"
   ],
   "hundbur": [
     "hund bur"
@@ -2720,17 +2717,17 @@
   "fullformat": [
     "full format"
   ],
-  "vetefÃ¤lt": [
-    "vete fÃ¤lt"
+  "vetefält": [
+    "vete fält"
   ],
-  "mellanmÃ¥l": [
-    "mellan mÃ¥l"
+  "mellanmål": [
+    "mellan mål"
   ],
   "seriealbum": [
     "serie album"
   ],
-  "dekorationshjÃ¤rtan": [
-    "dekorations hjÃ¤rtan"
+  "dekorationshjärtan": [
+    "dekorations hjärtan"
   ],
   "parodiuppgift": [
     "parodi uppgift"
@@ -2738,26 +2735,26 @@
   "ryggkontroll": [
     "rygg kontroll"
   ],
-  "grÃ¥randig": [
-    "grÃ¥ randig"
+  "grårandig": [
+    "grå randig"
   ],
   "tjocktv": [
     "tjock tv"
   ],
-  "pocketbÃ¶cker": [
-    "pocket bÃ¶cker"
+  "pocketböcker": [
+    "pocket böcker"
   ],
-  "vÃ¤ndplats": [
-    "vÃ¤nd plats"
+  "vändplats": [
+    "vänd plats"
   ],
   "anti-allergilim": [
     "anti-allergi lim"
   ],
-  "smidessÃ¤ng": [
-    "smides sÃ¤ng"
+  "smidessäng": [
+    "smides säng"
   ],
-  "fÃ¶retagsledning": [
-    "fÃ¶retags ledning"
+  "företagsledning": [
+    "företags ledning"
   ],
   "lillebror": [
     "lille bror"
@@ -2792,26 +2789,26 @@
   "hyrfilmer": [
     "hyr filmer"
   ],
-  "jÃ¤ttestort": [
-    "jÃ¤tte stort"
+  "jättestort": [
+    "jätte stort"
   ],
   "facebookgrupper": [
     "facebook grupper"
   ],
-  "ostlÃ¥da": [
-    "ost lÃ¥da"
+  "ostlåda": [
+    "ost låda"
   ],
   "dygnskostnad": [
     "dygns kostnad"
   ],
-  "bedÃ¶mningssprutan": [
-    "bedÃ¶mnings sprutan"
+  "bedömningssprutan": [
+    "bedömnings sprutan"
   ],
   "trumset": [
     "trum set"
   ],
-  "glÃ¤djespirare": [
-    "glÃ¤dje spirare"
+  "glädjespirare": [
+    "glädje spirare"
   ],
   "namnsdagspresent": [
     "namnsdags present"
@@ -2822,8 +2819,8 @@
   "bagareutbildning": [
     "bagare utbildning"
   ],
-  "hÃ¶stklÃ¤der": [
-    "hÃ¶st klÃ¤der"
+  "höstkläder": [
+    "höst kläder"
   ],
   "kvalsterallergierna": [
     "kvalster allergierna"
@@ -2843,53 +2840,53 @@
   "originalbatteriet": [
     "original batteriet"
   ],
-  "vÃ¤ggljustavlor": [
-    "vÃ¤gg ljus tavlor"
+  "väggljustavlor": [
+    "vägg ljus tavlor"
   ],
   "minussidan": [
     "minus sidan"
   ],
-  "skinkrÃ¶ra": [
-    "skink rÃ¶ra"
+  "skinkröra": [
+    "skink röra"
   ],
-  "jÃ¤ttelÃ¥g": [
-    "jÃ¤tte lÃ¥g"
+  "jättelåg": [
+    "jätte låg"
   ],
-  "fabriksÃ¥terstÃ¤lld": [
-    "fabriks Ã¥terstÃ¤lld"
+  "fabriksåterställd": [
+    "fabriks återställd"
   ],
-  "smygÃ¥ker": [
-    "smyg Ã¥ker"
+  "smygåker": [
+    "smyg åker"
   ],
   "valpkoppel": [
     "valp koppel"
   ],
-  "standardtjÃ¤nst": [
-    "standard tjÃ¤nst"
+  "standardtjänst": [
+    "standard tjänst"
   ],
-  "trikÃ¥kavajer": [
-    "trikÃ¥ kavajer"
+  "trikåkavajer": [
+    "trikå kavajer"
   ],
   "barnsax": [
     "barn sax"
   ],
-  "lÃ¤ngesedan": [
-    "lÃ¤nge sedan"
+  "längesedan": [
+    "länge sedan"
   ],
   "havrekross": [
     "havre kross"
   ],
-  "trappsÃ¤ng": [
-    "trapp sÃ¤ng"
+  "trappsäng": [
+    "trapp säng"
   ],
   "favoritbloggare": [
     "favorit bloggare"
   ],
-  "mungbÃ¶nsgryta": [
-    "mungbÃ¶ns gryta"
+  "mungbönsgryta": [
+    "mungböns gryta"
   ],
-  "mÃ¤rkesnÃ¶rdar": [
-    "mÃ¤rkes nÃ¶rdar"
+  "märkesnördar": [
+    "märkes nördar"
   ],
   "salladsbaren": [
     "sallads baren"
@@ -2897,14 +2894,14 @@
   "gemensamhetsdelarna": [
     "gemensamhets delarna"
   ],
-  "tvÃ¥sitsig": [
-    "tvÃ¥ sitsig"
+  "tvåsitsig": [
+    "två sitsig"
   ],
-  "superskÃ¤rpa": [
-    "super skÃ¤rpa"
+  "superskärpa": [
+    "super skärpa"
   ],
-  "vattenhÃ¥l": [
-    "vatten hÃ¥l"
+  "vattenhål": [
+    "vatten hål"
   ],
   "stallskor": [
     "stall skor"
@@ -2912,35 +2909,35 @@
   "hemstickad": [
     "hem stickad"
   ],
-  "hÃ¤mtningsplats": [
-    "hÃ¤mtnings plats"
+  "hämtningsplats": [
+    "hämtnings plats"
   ],
-  "HÃ¶ganÃ¤sassietter": [
-    "HÃ¶ganÃ¤s assietter"
+  "Höganäsassietter": [
+    "Höganäs assietter"
   ],
   "loppissaker": [
     "loppis saker"
   ],
-  "utanfÃ¶r": [
-    "utan fÃ¶r"
+  "utanför": [
+    "utan för"
   ],
-  "hushÃ¥llssoporna": [
-    "hushÃ¥lls soporna"
+  "hushållssoporna": [
+    "hushålls soporna"
   ],
   "innerfack": [
     "inner fack"
   ],
-  "fÃ¶rmodar": [
-    "fÃ¶r modar"
+  "förmodar": [
+    "för modar"
   ],
-  "pÃ¤lsdjursallergi": [
-    "pÃ¤lsdjurs allergi"
+  "pälsdjursallergi": [
+    "pälsdjurs allergi"
   ],
   "floristblommor": [
     "florist blommor"
   ],
-  "sÃ¶mnparalys": [
-    "sÃ¶mn paralys"
+  "sömnparalys": [
+    "sömn paralys"
   ],
   "rockbiografer": [
     "rock biografer"
@@ -2957,8 +2954,8 @@
   "grundregel": [
     "grund regel"
   ],
-  "schÃ¤fertjej": [
-    "schÃ¤fer tjej"
+  "schäfertjej": [
+    "schäfer tjej"
   ],
   "spionprogram": [
     "spion program"
@@ -2969,8 +2966,8 @@
   "halvakustisk": [
     "halv akustisk"
   ],
-  "gardinlÃ¤ngder": [
-    "gardin lÃ¤ngder"
+  "gardinlängder": [
+    "gardin längder"
   ],
   "efterhand": [
     "efter hand"
@@ -2981,11 +2978,11 @@
   "stiftpennor": [
     "stift pennor"
   ],
-  "kortmakartrÃ¤sket": [
-    "kortmakar trÃ¤sket"
+  "kortmakarträsket": [
+    "kortmakar träsket"
   ],
-  "MiniatyrhÃ¤stFÃ¶reningen": [
-    "MiniatyrhÃ¤st FÃ¶reningen"
+  "MiniatyrhästFöreningen": [
+    "Miniatyrhäst Föreningen"
   ],
   "specialutbildade": [
     "special utbildade"
@@ -2996,32 +2993,32 @@
   "hemsidefunktion": [
     "hemside funktion"
   ],
-  "mjÃ¶lkko": [
-    "mjÃ¶lk ko"
+  "mjölkko": [
+    "mjölk ko"
   ],
-  "hobbynivÃ¥": [
-    "hobby nivÃ¥"
+  "hobbynivå": [
+    "hobby nivå"
   ],
   "lokalfotografer": [
     "lokal fotografer"
   ],
-  "intervallstrÃ¤ckor": [
-    "intervall strÃ¤ckor"
+  "intervallsträckor": [
+    "intervall sträckor"
   ],
-  "veterinÃ¤rbesiktigade": [
-    "veterinÃ¤r besiktigade"
+  "veterinärbesiktigade": [
+    "veterinär besiktigade"
   ],
   "akrylblock": [
     "akryl block"
   ],
-  "jÃ¤ttestolt": [
-    "jÃ¤tte stolt"
+  "jättestolt": [
+    "jätte stolt"
   ],
   "allergivaccin": [
     "allergi vaccin"
   ],
-  "tÃ¥lamod": [
-    "tÃ¥la mod"
+  "tålamod": [
+    "tåla mod"
   ],
   "utetemperaturen": [
     "ute temperaturen"
@@ -3032,8 +3029,8 @@
   "ihopklippt": [
     "ihop klippt"
   ],
-  "sÃ¶tvattenpÃ¤rlor": [
-    "sÃ¶tvatten pÃ¤rlor"
+  "sötvattenpärlor": [
+    "sötvatten pärlor"
   ],
   "hittekatt": [
     "hitte katt"
@@ -3041,20 +3038,20 @@
   "snabbplatta": [
     "snabb platta"
   ],
-  "trÃ¤ningslÃ¤ralektionen": [
-    "trÃ¤ningslÃ¤ra lektionen"
+  "träningsläralektionen": [
+    "träningslära lektionen"
   ],
-  "jÃ¤ttelite": [
-    "jÃ¤tte lite"
+  "jättelite": [
+    "jätte lite"
   ],
-  "hÃ¤stbox": [
-    "hÃ¤st box"
+  "hästbox": [
+    "häst box"
   ],
-  "studentmÃ¶ssan": [
-    "student mÃ¶ssan"
+  "studentmössan": [
+    "student mössan"
   ],
-  "nedgÃ¥ngar": [
-    "ned gÃ¥ngar"
+  "nedgångar": [
+    "ned gångar"
   ],
   "beroendeframkallande": [
     "beroende framkallande"
@@ -3068,8 +3065,8 @@
   "statistikverktyg": [
     "statistik verktyg"
   ],
-  "elitnivÃ¥": [
-    "elit nivÃ¥"
+  "elitnivå": [
+    "elit nivå"
   ],
   "vardagssaker": [
     "vardags saker"
@@ -3080,8 +3077,8 @@
   "reavaror": [
     "rea varor"
   ],
-  "lÃ¤karutlÃ¥tande": [
-    "lÃ¤kar utlÃ¥tande"
+  "läkarutlåtande": [
+    "läkar utlåtande"
   ],
   "jubileumsmiddag": [
     "jubileums middag"
@@ -3089,17 +3086,17 @@
   "injobbade": [
     "in jobbade"
   ],
-  "pÃ¤rlprojekt": [
-    "pÃ¤rl projekt"
+  "pärlprojekt": [
+    "pärl projekt"
   ],
   "toppensommar": [
     "toppen sommar"
   ],
-  "sÃ¤ljfunktion": [
-    "sÃ¤lj funktion"
+  "säljfunktion": [
+    "sälj funktion"
   ],
-  "skorvtÃ¤ckta": [
-    "skorv tÃ¤ckta"
+  "skorvtäckta": [
+    "skorv täckta"
   ],
   "fraktkostnad": [
     "frakt kostnad"
@@ -3113,8 +3110,8 @@
   "kroppsform": [
     "kropps form"
   ],
-  "dagisfrÃ¶ken": [
-    "dagis frÃ¶ken"
+  "dagisfröken": [
+    "dagis fröken"
   ],
   "kravallstaket": [
     "kravall staket"
@@ -3125,23 +3122,23 @@
   "stallsysslor": [
     "stall sysslor"
   ],
-  "huvudingÃ¥ngen": [
-    "huvud ingÃ¥ngen"
+  "huvudingången": [
+    "huvud ingången"
   ],
   "nylonblomma": [
     "nylon blomma"
   ],
-  "smÃ¥irriterad": [
-    "smÃ¥ irriterad"
+  "småirriterad": [
+    "små irriterad"
   ],
-  "brÃ¶llopspÃ¥sar": [
-    "brÃ¶llops pÃ¥sar"
+  "bröllopspåsar": [
+    "bröllops påsar"
   ],
   "pyramidnitar": [
     "pyramid nitar"
   ],
-  "stjÃ¤rnvinst": [
-    "stjÃ¤rn vinst"
+  "stjärnvinst": [
+    "stjärn vinst"
   ],
   "karatespark": [
     "karate spark"
@@ -3149,29 +3146,29 @@
   "tomteskum": [
     "tomte skum"
   ],
-  "fÃ¤rdigrakad": [
-    "fÃ¤rdig rakad"
+  "färdigrakad": [
+    "färdig rakad"
   ],
-  "tilllÃ¥tna": [
-    "till lÃ¥tna"
+  "tilllåtna": [
+    "till låtna"
   ],
   "ljusrosa": [
     "ljus rosa"
   ],
-  "tricktrÃ¤nad": [
-    "trick trÃ¤nad"
+  "tricktränad": [
+    "trick tränad"
   ],
-  "Ã¶verlÃ¥telseavtal": [
-    "Ã¶verlÃ¥telse avtal"
+  "överlåtelseavtal": [
+    "överlåtelse avtal"
   ],
-  "drÃ¶mvrÃ¥": [
-    "drÃ¶m vrÃ¥"
+  "drömvrå": [
+    "dröm vrå"
   ],
   "raskatt": [
     "ras katt"
   ],
-  "hÃ¤rifrÃ¥n": [
-    "hÃ¤r ifrÃ¥n"
+  "härifrån": [
+    "här ifrån"
   ],
   "buddahhuvud": [
     "buddah huvud"
@@ -3179,14 +3176,14 @@
   "Londonresa": [
     "London resa"
   ],
-  "Ã¥tervÃ¤cka": [
-    "Ã¥ter vÃ¤cka"
+  "återväcka": [
+    "åter väcka"
   ],
-  "pÃ¥bÃ¶rjade": [
-    "pÃ¥ bÃ¶rjade"
+  "påbörjade": [
+    "på började"
   ],
-  "lÃ¥nerbjudande": [
-    "lÃ¥n erbjudande"
+  "lånerbjudande": [
+    "lån erbjudande"
   ],
   "produktsort": [
     "produkt sort"
@@ -3194,11 +3191,11 @@
   "biljettautomaten": [
     "biljett automaten"
   ],
-  "styrolithjÃ¤rta": [
-    "styrolit hjÃ¤rta"
+  "styrolithjärta": [
+    "styrolit hjärta"
   ],
-  "gratisturnÃ©": [
-    "gratis turnÃ©"
+  "gratisturné": [
+    "gratis turné"
   ],
   "festsugen": [
     "fest sugen"
@@ -3212,11 +3209,11 @@
   "kontaktinformation": [
     "kontakt information"
   ],
-  "jÃ¤ttefort": [
-    "jÃ¤tte fort"
+  "jättefort": [
+    "jätte fort"
   ],
-  "axelremsvÃ¤ska": [
-    "axelrems vÃ¤ska"
+  "axelremsväska": [
+    "axelrems väska"
   ],
   "ryamattknytning": [
     "ryamatt knytning"
@@ -3227,14 +3224,14 @@
   "gottegris": [
     "gotte gris"
   ],
-  "tjejkvÃ¤ll": [
-    "tjej kvÃ¤ll"
+  "tjejkväll": [
+    "tjej kväll"
   ],
   "brandskyddssystem": [
     "brand skydds system"
   ],
-  "bortskÃ¤nkes": [
-    "bort skÃ¤nkes"
+  "bortskänkes": [
+    "bort skänkes"
   ],
   "chokladfestivalen": [
     "choklad festivalen"
@@ -3242,20 +3239,20 @@
   "avelskatter": [
     "avels katter"
   ],
-  "superlÃ¤cker": [
-    "super lÃ¤cker"
+  "superläcker": [
+    "super läcker"
   ],
-  "skyltlÃ¶sningar": [
-    "skylt lÃ¶sningar"
+  "skyltlösningar": [
+    "skylt lösningar"
   ],
-  "gÃ¤stbloggare": [
-    "gÃ¤st bloggare"
+  "gästbloggare": [
+    "gäst bloggare"
   ],
   "stativring": [
     "stativ ring"
   ],
-  "fÃ¶rstklassig": [
-    "fÃ¶rst klassig"
+  "förstklassig": [
+    "först klassig"
   ],
   "kassapersonal": [
     "kassa personal"
@@ -3266,14 +3263,14 @@
   "silikonarmband": [
     "silikon armband"
   ],
-  "fÃ¤stingangripna": [
-    "fÃ¤sting angripna"
+  "fästingangripna": [
+    "fästing angripna"
   ],
-  "hÃ¶ggravid": [
-    "hÃ¶g gravid"
+  "höggravid": [
+    "hög gravid"
   ],
-  "militÃ¤rjacka": [
-    "militÃ¤r jacka"
+  "militärjacka": [
+    "militär jacka"
   ],
   "adventsljuset": [
     "advents ljuset"
@@ -3284,8 +3281,8 @@
   "hockeylaget": [
     "hockey laget"
   ],
-  "jÃ¤ttefina": [
-    "jÃ¤tte fina"
+  "jättefina": [
+    "jätte fina"
   ],
   "lucianattlinne": [
     "lucia nattlinne"
@@ -3296,8 +3293,8 @@
   "kaffekokare": [
     "kaffe kokare"
   ],
-  "hÃ¤staffischer": [
-    "hÃ¤st affischer"
+  "hästaffischer": [
+    "häst affischer"
   ],
   "organisationspsykologi": [
     "organisations psykologi"
@@ -3308,32 +3305,32 @@
   "kassamedarbetare": [
     "kassa medarbetare"
   ],
-  "lunchstÃ¤ngt": [
-    "lunch stÃ¤ngt"
+  "lunchstängt": [
+    "lunch stängt"
   ],
-  "felkÃ¶p": [
-    "fel kÃ¶p"
+  "felköp": [
+    "fel köp"
   ],
-  "lÃ¥neannons": [
-    "lÃ¥ne annons"
+  "låneannons": [
+    "låne annons"
   ],
   "kvalitetsbatterier": [
     "kvalitets batterier"
   ],
-  "mÃ¤ngdrabatt": [
-    "mÃ¤ngd rabatt"
+  "mängdrabatt": [
+    "mängd rabatt"
   ],
   "julfirande": [
     "jul firande"
   ],
-  "stallgÃ¥ngen": [
-    "stall gÃ¥ngen"
+  "stallgången": [
+    "stall gången"
   ],
-  "cigarettlÃ¥da": [
-    "cigarett lÃ¥da"
+  "cigarettlåda": [
+    "cigarett låda"
   ],
-  "cykelvÃ¤g": [
-    "cykel vÃ¤g"
+  "cykelväg": [
+    "cykel väg"
   ],
   "spadtag": [
     "spad tag"
@@ -3341,11 +3338,11 @@
   "tatueringspapper": [
     "tatuerings papper"
   ],
-  "veterinÃ¤rstation": [
-    "veterinÃ¤r station"
+  "veterinärstation": [
+    "veterinär station"
   ],
-  "kattspÃ¤nne": [
-    "katt spÃ¤nne"
+  "kattspänne": [
+    "katt spänne"
   ],
   "campingskafferi": [
     "camping skafferi"
@@ -3368,8 +3365,8 @@
   "lagerhyllan": [
     "lager hyllan"
   ],
-  "slÃ¶jddetaljer": [
-    "slÃ¶jd detaljer"
+  "slöjddetaljer": [
+    "slöjd detaljer"
   ],
   "sommarerbjudanden": [
     "sommar erbjudanden"
@@ -3377,8 +3374,8 @@
   "spanskakurs": [
     "spanska kurs"
   ],
-  "alltfÃ¶r": [
-    "allt fÃ¶r"
+  "alltför": [
+    "allt för"
   ],
   "vattenbaljekonstruktion": [
     "vattenbalje konstruktion"
@@ -3389,14 +3386,14 @@
   "blodorangedryck": [
     "blod orange dryck"
   ],
-  "tÃ¤vlingsryttare": [
-    "tÃ¤vlings ryttare"
+  "tävlingsryttare": [
+    "tävlings ryttare"
   ],
-  "bortblÃ¥st": [
-    "bort blÃ¥st"
+  "bortblåst": [
+    "bort blåst"
   ],
-  "dÃ¤rfÃ¶r": [
-    "dÃ¤r fÃ¶r"
+  "därför": [
+    "där för"
   ],
   "miljonindustri": [
     "miljon industri"
@@ -3404,8 +3401,8 @@
   "vattenpump": [
     "vatten pump"
   ],
-  "serpentinbÃ¥gar": [
-    "serpentin bÃ¥gar"
+  "serpentinbågar": [
+    "serpentin bågar"
   ],
   "plastbit": [
     "plast bit"
@@ -3416,14 +3413,14 @@
   "favoritlukt": [
     "favorit lukt"
   ],
-  "5-punktsbÃ¤lte": [
-    "5-punkts bÃ¤lte"
+  "5-punktsbälte": [
+    "5-punkts bälte"
   ],
-  "kontrastrÃ¶ntgen": [
-    "kontrast rÃ¶ntgen"
+  "kontraströntgen": [
+    "kontrast röntgen"
   ],
-  "skÃ¶ldkÃ¶rtelproblem": [
-    "skÃ¶ld kÃ¶rtel problem"
+  "sköldkörtelproblem": [
+    "sköld körtel problem"
   ],
   "cykeltur": [
     "cykel tur"
@@ -3434,17 +3431,17 @@
   "introduktionsutbildning": [
     "introduktions utbildning"
   ],
-  "fejkvÃ¤nner": [
-    "fejk vÃ¤nner"
+  "fejkvänner": [
+    "fejk vänner"
   ],
-  "ljudbÃ¶cker": [
-    "ljud bÃ¶cker"
+  "ljudböcker": [
+    "ljud böcker"
   ],
-  "lÃ¥nfÃ¶retag": [
-    "lÃ¥n fÃ¶retag"
+  "lånföretag": [
+    "lån företag"
   ],
-  "metalllÃ¶v": [
-    "metall lÃ¶v"
+  "metalllöv": [
+    "metall löv"
   ],
   "grattiskram": [
     "grattis kram"
@@ -3461,68 +3458,68 @@
   "proffsskrivare": [
     "proffs skrivare"
   ],
-  "innermÃ¥tt": [
-    "inner mÃ¥tt"
+  "innermått": [
+    "inner mått"
   ],
   "flygekorre": [
     "flyg ekorre"
   ],
-  "emellanÃ¥t": [
-    "emellan Ã¥t"
+  "emellanåt": [
+    "emellan åt"
   ],
   "hantverkslektioner": [
     "hantverks lektioner"
   ],
-  "sprÃ¥khemsida": [
-    "sprÃ¥k hemsida"
+  "språkhemsida": [
+    "språk hemsida"
   ],
-  "polisanmÃ¤ls": [
-    "polis anmÃ¤ls"
+  "polisanmäls": [
+    "polis anmäls"
   ],
-  "tejphÃ¥llare": [
-    "tejp hÃ¥llare"
+  "tejphållare": [
+    "tejp hållare"
   ],
-  "vÃ¤rdemeny": [
-    "vÃ¤rde meny"
+  "värdemeny": [
+    "värde meny"
   ],
   "lillasyster": [
     "lilla syster"
   ],
-  "hÃ¶gstbjudande": [
-    "hÃ¶gst bjudande"
+  "högstbjudande": [
+    "högst bjudande"
   ],
-  "kameraÃ¶vervakad": [
-    "kamera Ã¶vervakad"
+  "kameraövervakad": [
+    "kamera övervakad"
   ],
-  "fantasifÃ¥gel": [
-    "fantasi fÃ¥gel"
+  "fantasifågel": [
+    "fantasi fågel"
   ],
-  "Ã¤tmogen": [
-    "Ã¤t mogen"
+  "ätmogen": [
+    "ät mogen"
   ],
-  "lÃ¤ttmjÃ¶lk": [
-    "lÃ¤tt mjÃ¶lk"
+  "lättmjölk": [
+    "lätt mjölk"
   ],
-  "utanpÃ¥": [
-    "utan pÃ¥"
+  "utanpå": [
+    "utan på"
   ],
-  "utanpÃ¥skjorta": [
-    "utanpÃ¥ skjorta"
+  "utanpåskjorta": [
+    "utanpå skjorta"
   ],
-  "gymnasiebÃ¶cker": [
-    "gymnasie bÃ¶cker"
+  "gymnasieböcker": [
+    "gymnasie böcker"
   ],
   "valpkull": [
     "valp kull"
   ],
-  "skrÃ¤pprojekt": [
-    "skrÃ¤p projekt"
+  "skräpprojekt": [
+    "skräp projekt"
   ],
-  "nagellacksflÃ¤ck": [
-    "nagellacks flÃ¤ck"
+  "nagellacksfläck": [
+    "nagellacks fläck"
   ],
-  "sminkhÃ¶rna": [
-    "smink hÃ¶rna"
+  "sminkhörna": [
+    "smink hörna"
   ],
   "miniatyrlastbil": [
     "miniatyr lastbil"
@@ -3530,8 +3527,8 @@
   "artistliv": [
     "artist liv"
   ],
-  "huvudvÃ¤rk": [
-    "huvud vÃ¤rk"
+  "huvudvärk": [
+    "huvud värk"
   ],
   "damcykel": [
     "dam cykel"
@@ -3539,8 +3536,8 @@
   "bredbandsrouter": [
     "bredbands router"
   ],
-  "personlighetsfÃ¶rÃ¤ndring": [
-    "personlighets fÃ¶rÃ¤ndring"
+  "personlighetsförändring": [
+    "personlighets förändring"
   ],
   "teburk": [
     "te burk"
@@ -3548,62 +3545,62 @@
   "stallrutiner": [
     "stall rutiner"
   ],
-  "pÃ¥stÃ¥": [
-    "pÃ¥ stÃ¥"
+  "påstå": [
+    "på stå"
   ],
   "artikelsida": [
     "artikel sida"
   ],
-  "intervalltrÃ¤ningstips": [
-    "intervall trÃ¤nings tips"
+  "intervallträningstips": [
+    "intervall tränings tips"
   ],
-  "medfÃ¶ljer": [
-    "med fÃ¶ljer"
+  "medföljer": [
+    "med följer"
   ],
   "pinstolar": [
     "pin stolar"
   ],
-  "lÃ¥ngarmade": [
-    "lÃ¥ng armade"
+  "långarmade": [
+    "lång armade"
   ],
-  "hÃ¥rinpackning": [
-    "hÃ¥r inpackning"
+  "hårinpackning": [
+    "hår inpackning"
   ],
-  "supertrÃ¶tt": [
-    "super trÃ¶tt"
+  "supertrött": [
+    "super trött"
   ],
-  "bankvÃ¤sendet": [
-    "bank vÃ¤sendet"
+  "bankväsendet": [
+    "bank väsendet"
   ],
   "vattendroppe": [
     "vatten droppe"
   ],
-  "svÃ¥rtolkad": [
-    "svÃ¥r tolkad"
+  "svårtolkad": [
+    "svår tolkad"
   ],
-  "lÃ¤derhalsband": [
-    "lÃ¤der halsband"
+  "läderhalsband": [
+    "läder halsband"
   ],
   "restaurangskola": [
     "restaurang skola"
   ],
-  "sommaruppehÃ¥ll": [
-    "sommar uppehÃ¥ll"
+  "sommaruppehåll": [
+    "sommar uppehåll"
   ],
   "juristkandidat": [
     "jurist kandidat"
   ],
-  "jÃ¤ttetack": [
-    "jÃ¤tte tack"
+  "jättetack": [
+    "jätte tack"
   ],
   "invandrarpolitiken": [
     "invandrar politiken"
   ],
-  "dokumentÃ¤rserie": [
-    "dokumentÃ¤r serie"
+  "dokumentärserie": [
+    "dokumentär serie"
   ],
-  "kattungekÃ¶pare": [
-    "kattunge kÃ¶pare"
+  "kattungeköpare": [
+    "kattunge köpare"
   ],
   "autofunktionen": [
     "auto funktionen"
@@ -3611,26 +3608,26 @@
   "minitips": [
     "mini tips"
   ],
-  "mÃ¤rkpennor": [
-    "mÃ¤rk pennor"
+  "märkpennor": [
+    "märk pennor"
   ],
   "vanligtvis": [
     "vanligt vis"
   ],
-  "mÃ¥svingar": [
-    "mÃ¥s vingar"
+  "måsvingar": [
+    "mås vingar"
   ],
-  "mÃ¶rkblÃ¥": [
-    "mÃ¶rk blÃ¥"
+  "mörkblå": [
+    "mörk blå"
   ],
-  "utstÃ¤llningsreglerna": [
-    "utstÃ¤llnings reglerna"
+  "utställningsreglerna": [
+    "utställnings reglerna"
   ],
   "kontorsprodukter": [
     "kontors produkter"
   ],
-  "distanskÃ¶p": [
-    "distans kÃ¶p"
+  "distansköp": [
+    "distans köp"
   ],
   "blodtrycksmediciner": [
     "blodtrycks mediciner"
@@ -3638,23 +3635,23 @@
   "sladdmus": [
     "sladd mus"
   ],
-  "konstlÃ¤derstÃ¶vlar": [
-    "konstlÃ¤der stÃ¶vlar"
+  "konstläderstövlar": [
+    "konstläder stövlar"
   ],
   "matematikbok": [
     "matematik bok"
   ],
-  "jÃ¤tteskumt": [
-    "jÃ¤tte skumt"
+  "jätteskumt": [
+    "jätte skumt"
   ],
-  "showtrÃ¤ns": [
-    "show trÃ¤ns"
+  "showträns": [
+    "show träns"
   ],
   "sommarrestaurang": [
     "sommar restaurang"
   ],
-  "Ã¶vningsspelning": [
-    "Ã¶vnings spelning"
+  "övningsspelning": [
+    "övnings spelning"
   ],
   "kvalitetssto": [
     "kvalitets sto"
@@ -3668,92 +3665,92 @@
   "modeblogg": [
     "mode blogg"
   ],
-  "pappersfÃ¶rvaring": [
-    "pappers fÃ¶rvaring"
+  "pappersförvaring": [
+    "pappers förvaring"
   ],
-  "portrÃ¤ttgalleri": [
-    "portrÃ¤tt galleri"
+  "porträttgalleri": [
+    "porträtt galleri"
   ],
   "kanonrea": [
     "kanon rea"
   ],
-  "fÃ¶rsiktig": [
-    "fÃ¶r siktig"
+  "försiktig": [
+    "för siktig"
   ],
   "julgardiner": [
     "jul gardiner"
   ],
-  "jÃ¤tteont": [
-    "jÃ¤tte ont"
+  "jätteont": [
+    "jätte ont"
   ],
-  "kattkÃ¶pet": [
-    "katt kÃ¶pet"
+  "kattköpet": [
+    "katt köpet"
   ],
   "minneskort": [
     "minnes kort"
   ],
-  "grÃ¶nsaksstavar": [
-    "grÃ¶nsaks stavar"
+  "grönsaksstavar": [
+    "grönsaks stavar"
   ],
   "datakommunikation": [
     "data kommunikation"
   ],
-  "hÃ¤stbutiker": [
-    "hÃ¤st butiker"
+  "hästbutiker": [
+    "häst butiker"
   ],
-  "smÃ¥dÃ¥lig": [
-    "smÃ¥ dÃ¥lig"
+  "smådålig": [
+    "små dålig"
   ],
-  "vÃ¤rdesÃ¤tter": [
-    "vÃ¤rde sÃ¤tter"
+  "värdesätter": [
+    "värde sätter"
   ],
   "budgetsidan": [
     "budget sidan"
   ],
-  "babytvÃ¥l": [
-    "baby tvÃ¥l"
+  "babytvål": [
+    "baby tvål"
   ],
-  "toppenanlÃ¤ggning": [
-    "toppen anlÃ¤ggning"
+  "toppenanläggning": [
+    "toppen anläggning"
   ],
-  "provmÃ¥lar": [
-    "prov mÃ¥lar"
+  "provmålar": [
+    "prov målar"
   ],
-  "fÃ¶rbÃ¤ttra": [
-    "fÃ¶r bÃ¤ttra"
+  "förbättra": [
+    "för bättra"
   ],
-  "trÃ¤kÃ¶k": [
-    "trÃ¤ kÃ¶k"
+  "träkök": [
+    "trä kök"
   ],
   "namnbyte": [
     "namn byte"
   ],
-  "Ã¶dehusjakt": [
-    "Ã¶dehus jakt"
+  "ödehusjakt": [
+    "ödehus jakt"
   ],
-  "standardwebblÃ¤sare": [
-    "standard webblÃ¤sare"
+  "standardwebbläsare": [
+    "standard webbläsare"
   ],
   "internetantikvariat": [
     "internet antikvariat"
   ],
-  "plÃ¥tgrejer": [
-    "plÃ¥t grejer"
+  "plåtgrejer": [
+    "plåt grejer"
   ],
-  "jÃ¤tteroligt": [
-    "jÃ¤tte roligt"
+  "jätteroligt": [
+    "jätte roligt"
   ],
-  "pÃ¤rlemoskimrande": [
-    "pÃ¤rlemo skimrande"
+  "pärlemoskimrande": [
+    "pärlemo skimrande"
   ],
-  "hÃ¥rtips": [
-    "hÃ¥r tips"
+  "hårtips": [
+    "hår tips"
   ],
   "ljusbrunt": [
     "ljus brunt"
   ],
-  "inlÃ¥st": [
-    "in lÃ¥st"
+  "inlåst": [
+    "in låst"
   ],
   "origamiinstruktioner": [
     "origami instruktioner"
@@ -3767,8 +3764,8 @@
   "torkprogram": [
     "tork program"
   ],
-  "framfÃ¶r": [
-    "fram fÃ¶r"
+  "framför": [
+    "fram för"
   ],
   "efterlysningssidorna": [
     "efterlysnings sidorna"
@@ -3782,8 +3779,8 @@
   "keramikkatt": [
     "keramik katt"
   ],
-  "fÃ¤stingmedel": [
-    "fÃ¤sting medel"
+  "fästingmedel": [
+    "fästing medel"
   ],
   "fruktnappar": [
     "frukt nappar"
@@ -3803,20 +3800,20 @@
   "travsteg": [
     "trav steg"
   ],
-  "fotoutstÃ¤llning": [
-    "foto utstÃ¤llning"
+  "fotoutställning": [
+    "foto utställning"
   ],
-  "jÃ¤tteskÃ¶na": [
-    "jÃ¤tte skÃ¶na"
+  "jättesköna": [
+    "jätte sköna"
   ],
-  "kanonidÃ©": [
-    "kanon idÃ©"
+  "kanonidé": [
+    "kanon idé"
   ],
-  "ButtricksvÃ¤skor": [
-    "Buttricks vÃ¤skor"
+  "Buttricksväskor": [
+    "Buttricks väskor"
   ],
-  "hÃ¤stbÃ¶cker": [
-    "hÃ¤st bÃ¶cker"
+  "hästböcker": [
+    "häst böcker"
   ],
   "mobilannonser": [
     "mobil annonser"
@@ -3824,8 +3821,8 @@
   "kvalitetsgrejer": [
     "kvalitets grejer"
   ],
-  "veterinÃ¤rvÃ¥rd": [
-    "veterinÃ¤r vÃ¥rd"
+  "veterinärvård": [
+    "veterinär vård"
   ],
   "antiglidskydd": [
     "antiglid skydd"
@@ -3833,20 +3830,20 @@
   "hockeypuckar": [
     "hockey puckar"
   ],
-  "mjukisklÃ¤der": [
-    "mjukis klÃ¤der"
+  "mjukiskläder": [
+    "mjukis kläder"
   ],
-  "nybÃ¶rjarfrÃ¥gorna": [
-    "nybÃ¶rjar frÃ¥gorna"
+  "nybörjarfrågorna": [
+    "nybörjar frågorna"
   ],
-  "touchskÃ¤rm": [
-    "touch skÃ¤rm"
+  "touchskärm": [
+    "touch skärm"
   ],
-  "supertrÃ¥kiga": [
-    "super trÃ¥kiga"
+  "supertråkiga": [
+    "super tråkiga"
   ],
-  "vattennivÃ¥n": [
-    "vatten nivÃ¥n"
+  "vattennivån": [
+    "vatten nivån"
   ],
   "samlarflaska": [
     "samlar flaska"
@@ -3863,11 +3860,11 @@
   "mellansverige": [
     "mellan sverige"
   ],
-  "ambulansmÃ¤nnen": [
-    "ambulans mÃ¤nnen"
+  "ambulansmännen": [
+    "ambulans männen"
   ],
-  "Ã¥kanten": [
-    "Ã¥ kanten"
+  "åkanten": [
+    "å kanten"
   ],
   "premieringsdommaren": [
     "premierings dommaren"
@@ -3887,14 +3884,14 @@
   "teakhylla": [
     "teak hylla"
   ],
-  "trÃ¤dgÃ¥rdsslangen": [
-    "trÃ¤dgÃ¥rds slangen"
+  "trädgårdsslangen": [
+    "trädgårds slangen"
   ],
   "modellbild": [
     "modell bild"
   ],
-  "hotellrumsfÃ¶nstret": [
-    "hotellrums fÃ¶nstret"
+  "hotellrumsfönstret": [
+    "hotellrums fönstret"
   ],
   "onlinekurser": [
     "online kurser"
@@ -3902,11 +3899,11 @@
   "kamerahus": [
     "kamera hus"
   ],
-  "magkÃ¤nsla": [
-    "mag kÃ¤nsla"
+  "magkänsla": [
+    "mag känsla"
   ],
-  "rÃ¤ttegÃ¥ngar": [
-    "rÃ¤tte gÃ¥ngar"
+  "rättegångar": [
+    "rätte gångar"
   ],
   "plasttallrikar": [
     "plast tallrikar"
@@ -3917,11 +3914,11 @@
   "chattkompis": [
     "chatt kompis"
   ],
-  "tids&nbsp;linje": [
-    "tids&nbsp;linje"
+  "tids-linje": [
+    "tids-linje"
   ],
-  "omplaceringshjÃ¤lp": [
-    "omplacerings hjÃ¤lp"
+  "omplaceringshjälp": [
+    "omplacerings hjälp"
   ],
   "identitetsskapandet": [
     "identitets skapandet"
@@ -3929,8 +3926,8 @@
   "hemmaplan": [
     "hemma plan"
   ],
-  "rÃ¶kfÃ¶rbud": [
-    "rÃ¶k fÃ¶r bud"
+  "rökförbud": [
+    "rök för bud"
   ],
   "barfotasandaler": [
     "barfota sandaler"
@@ -3941,11 +3938,11 @@
   "matkoma": [
     "mat koma"
   ],
-  "trekvartsÃ¤rmad": [
-    "trekvarts Ã¤rmad"
+  "trekvartsärmad": [
+    "trekvarts ärmad"
   ],
-  "kattÃ¤lskare": [
-    "katt Ã¤lskare"
+  "kattälskare": [
+    "katt älskare"
   ],
   "hockeytema": [
     "hockey tema"
@@ -3962,14 +3959,14 @@
   "prydnadshundar": [
     "prydnads hundar"
   ],
-  "korthÃ¥rig": [
-    "kort hÃ¥rig"
+  "korthårig": [
+    "kort hårig"
   ],
   "skumgummifodrat": [
     "skumgummi fodrat"
   ],
-  "psykhjÃ¤lp": [
-    "psyk hjÃ¤lp"
+  "psykhjälp": [
+    "psyk hjälp"
   ],
   "barnfotografering": [
     "barn fotografering"
@@ -3977,17 +3974,17 @@
   "grannloppis": [
     "grann loppis"
   ],
-  "universitetsbÃ¶cker": [
-    "universitets bÃ¶cker"
+  "universitetsböcker": [
+    "universitets böcker"
   ],
   "majskrokar": [
     "majs krokar"
   ],
-  "klovÃ¥rd": [
-    "klo vÃ¥rd"
+  "klovård": [
+    "klo vård"
   ],
-  "skÃ¶rdefestfika": [
-    "skÃ¶rde fest fika"
+  "skördefestfika": [
+    "skörde fest fika"
   ],
   "magnettavla": [
     "magnet tavla"
@@ -4001,17 +3998,17 @@
   "bokform": [
     "bok form"
   ],
-  "skrÃ¤pmeddelanden": [
-    "skrÃ¤p meddelanden"
+  "skräpmeddelanden": [
+    "skräp meddelanden"
   ],
-  "ersÃ¤ttningsbuss": [
-    "ersÃ¤ttnings buss"
+  "ersättningsbuss": [
+    "ersättnings buss"
   ],
   "damtrosa": [
     "dam trosa"
   ],
-  "grÃ¤sbana": [
-    "grÃ¤s bana"
+  "gräsbana": [
+    "gräs bana"
   ],
   "vattenspridare": [
     "vatten spridare"
@@ -4028,23 +4025,23 @@
   "fotoomslag": [
     "foto omslag"
   ],
-  "lÃ¤dersaker": [
-    "lÃ¤der saker"
+  "lädersaker": [
+    "läder saker"
   ],
-  "kokosnÃ¶t": [
-    "kokos nÃ¶t"
+  "kokosnöt": [
+    "kokos nöt"
   ],
   "nyckelhalsband": [
     "nyckel halsband"
   ],
-  "Ã¶verlÃ¤t": [
-    "Ã¶ver lÃ¤t"
+  "överlät": [
+    "över lät"
   ],
   "designtips": [
     "design tips"
   ],
-  "hÃ¶stkvÃ¤llar": [
-    "hÃ¶st kvÃ¤llar"
+  "höstkvällar": [
+    "höst kvällar"
   ],
   "citronvatten": [
     "citron vatten"
@@ -4052,17 +4049,17 @@
   "bytesmarknad": [
     "bytes marknad"
   ],
-  "jÃ¤ttebra": [
-    "jÃ¤tte bra"
+  "jättebra": [
+    "jätte bra"
   ],
-  "kÃ¶ksingÃ¥ng": [
-    "kÃ¶ks ingÃ¥ng"
+  "köksingång": [
+    "köks ingång"
   ],
-  "kameramÃ¤rke": [
-    "kamera mÃ¤rke"
+  "kameramärke": [
+    "kamera märke"
   ],
-  "hÃ¶gsÃ¤song": [
-    "hÃ¶g sÃ¤song"
+  "högsäsong": [
+    "hög säsong"
   ],
   "naturkunskap": [
     "natur kunskap"
@@ -4076,8 +4073,8 @@
   "regeringsskifte": [
     "regerings skifte"
   ],
-  "stÃ¥lull": [
-    "stÃ¥l ull"
+  "stålull": [
+    "stål ull"
   ],
   "sommarhage": [
     "sommar hage"
@@ -4088,20 +4085,20 @@
   "kattungar": [
     "katt ungar"
   ],
-  "illamÃ¥ende": [
-    "illa mÃ¥ende"
+  "illamående": [
+    "illa mående"
   ],
-  "framÃ¶ver": [
-    "fram Ã¶ver"
+  "framöver": [
+    "fram över"
   ],
-  "besÃ¶ksrekord": [
-    "besÃ¶ks rekord"
+  "besöksrekord": [
+    "besöks rekord"
   ],
   "gnistskydd": [
     "gnist skydd"
   ],
-  "fjortonÃ¥ring": [
-    "fjorton Ã¥ring"
+  "fjortonåring": [
+    "fjorton åring"
   ],
   "helgalen": [
     "hel galen"
@@ -4109,8 +4106,8 @@
   "fotoalbum": [
     "foto album"
   ],
-  "Ã¤lgjakten": [
-    "Ã¤lg jakten"
+  "älgjakten": [
+    "älg jakten"
   ],
   "aluminiumstativ": [
     "aluminium stativ"
@@ -4130,11 +4127,11 @@
   "biljardbordslampor": [
     "biljardbords lampor"
   ],
-  "halvfodervÃ¤rd": [
-    "halv fodervÃ¤rd"
+  "halvfodervärd": [
+    "halv fodervärd"
   ],
-  "morgontrÃ¶tt": [
-    "morgon trÃ¶tt"
+  "morgontrött": [
+    "morgon trött"
   ],
   "genomgo": [
     "genom go"
@@ -4142,20 +4139,20 @@
   "utomhusfest": [
     "utomhus fest"
   ],
-  "drÃ¶mfÃ¶rhÃ¥llande": [
-    "drÃ¶m fÃ¶rhÃ¥llande"
+  "drömförhållande": [
+    "dröm förhållande"
   ],
   "struntsaker": [
     "strunt saker"
   ],
-  "vÃ¥rjacka": [
-    "vÃ¥r jacka"
+  "vårjacka": [
+    "vår jacka"
   ],
   "smyckeset": [
     "smycke set"
   ],
-  "trÃ¥dhylla": [
-    "trÃ¥d hylla"
+  "trådhylla": [
+    "tråd hylla"
   ],
   "vanesak": [
     "vane sak"
@@ -4166,23 +4163,23 @@
   "inbetalningslapp": [
     "inbetalnings lapp"
   ],
-  "nÃ¥gonstans": [
-    "nÃ¥gon stans"
+  "någonstans": [
+    "någon stans"
   ],
-  "trÃ¤burk": [
-    "trÃ¤ burk"
+  "träburk": [
+    "trä burk"
   ],
   "toppform": [
     "topp form"
   ],
-  "resehÃ¥rfÃ¶n": [
-    "rese hÃ¥rfÃ¶n"
+  "resehårfön": [
+    "rese hårfön"
   ],
   "blyertstavlor": [
     "blyerts tavlor"
   ],
-  "sÃ¤kerhetshundsele": [
-    "sÃ¤kerhets hundsele"
+  "säkerhetshundsele": [
+    "säkerhets hundsele"
   ],
   "originalkartonger": [
     "original kartonger"
@@ -4190,11 +4187,11 @@
   "eftermiddagssolen": [
     "eftermiddags solen"
   ],
-  "namnfÃ¶rslag": [
-    "namn fÃ¶rslag"
+  "namnförslag": [
+    "namn förslag"
   ],
-  "felanmÃ¤ld": [
-    "fel anmÃ¤ld"
+  "felanmäld": [
+    "fel anmäld"
   ],
   "telefonbord": [
     "telefon bord"
@@ -4214,29 +4211,29 @@
   "canvastavla": [
     "canvas tavla"
   ],
-  "fÃ¤rgsatta": [
-    "fÃ¤rg satta"
+  "färgsatta": [
+    "färg satta"
   ],
-  "Ã¤garbeviset": [
-    "Ã¤gar beviset"
+  "ägarbeviset": [
+    "ägar beviset"
   ],
   "supersnygg": [
     "super snygg"
   ],
-  "gÃ¤strummet": [
-    "gÃ¤st rummet"
+  "gästrummet": [
+    "gäst rummet"
   ],
-  "adventstÃ¤vling": [
-    "advents tÃ¤vling"
+  "adventstävling": [
+    "advents tävling"
   ],
-  "pojkklÃ¤der": [
-    "pojk klÃ¤der"
+  "pojkkläder": [
+    "pojk kläder"
   ],
   "taklampa": [
     "tak lampa"
   ],
-  "engÃ¥ngsavgift": [
-    "engÃ¥ngs avgift"
+  "engångsavgift": [
+    "engångs avgift"
   ],
   "kattsand": [
     "katt sand"
@@ -4244,8 +4241,8 @@
   "historiaprov": [
     "historia prov"
   ],
-  "hÃ¶sttrÃ¶ja": [
-    "hÃ¶st trÃ¶ja"
+  "hösttröja": [
+    "höst tröja"
   ],
   "fyllefest": [
     "fylle fest"
@@ -4256,8 +4253,8 @@
   "tablettaskarna": [
     "tablett askarna"
   ],
-  "tapetserarkvÃ¤ll": [
-    "tapetserar kvÃ¤ll"
+  "tapetserarkväll": [
+    "tapetserar kväll"
   ],
   "scrapstil": [
     "scrap stil"
@@ -4265,8 +4262,8 @@
   "radiostyrt": [
     "radio styrt"
   ],
-  "utgÃ¶r": [
-    "ut gÃ¶r"
+  "utgör": [
+    "ut gör"
   ],
   "pappersmasker": [
     "pappers masker"
@@ -4289,11 +4286,11 @@
   "skumdjur": [
     "skum djur"
   ],
-  "premiÃ¤rturen": [
-    "premiÃ¤r turen"
+  "premiärturen": [
+    "premiär turen"
   ],
-  "hÃ¶stjacka": [
-    "hÃ¶st jacka"
+  "höstjacka": [
+    "höst jacka"
   ],
   "piratflagga": [
     "pirat flagga"
@@ -4334,8 +4331,8 @@
   "nygamla": [
     "ny gamla"
   ],
-  "drÃ¶mlÃ¶nen": [
-    "drÃ¶m lÃ¶nen"
+  "drömlönen": [
+    "dröm lönen"
   ],
   "nattfotografering": [
     "natt fotografering"
@@ -4343,17 +4340,17 @@
   "skambud": [
     "skam bud"
   ],
-  "dÃ¶dsdatum": [
-    "dÃ¶ds datum"
+  "dödsdatum": [
+    "döds datum"
   ],
-  "hÃ¶stturnÃ©n": [
-    "hÃ¶st turnÃ©n"
+  "höstturnén": [
+    "höst turnén"
   ],
-  "originalinstÃ¤llningar": [
-    "original instÃ¤llningar"
+  "originalinställningar": [
+    "original inställningar"
   ],
-  "amatÃ¶rfotograf": [
-    "amatÃ¶r fotograf"
+  "amatörfotograf": [
+    "amatör fotograf"
   ],
   "cigarettuttaget": [
     "cigarett uttaget"
@@ -4361,14 +4358,14 @@
   "kopieringsrum": [
     "kopierings rum"
   ],
-  "pÃ¤rlkedja": [
-    "pÃ¤rl kedja"
+  "pärlkedja": [
+    "pärl kedja"
   ],
   "jeansmode": [
     "jeans mode"
   ],
-  "fÃ¶retagsfakta": [
-    "fÃ¶retags fakta"
+  "företagsfakta": [
+    "företags fakta"
   ],
   "modeleringsverktyg": [
     "modelerings verktyg"
@@ -4376,8 +4373,8 @@
   "svartrandig": [
     "svart randig"
   ],
-  "tÃ¤ckeprovning": [
-    "tÃ¤cke provning"
+  "täckeprovning": [
+    "täcke provning"
   ],
   "uteritt": [
     "ute ritt"
@@ -4385,8 +4382,8 @@
   "fotomodell": [
     "foto modell"
   ],
-  "text&nbsp;tydningshjÃ¤lp": [
-    "text&nbsp;tydnings hjÃ¤lp"
+  "text-tydningshjälp": [
+    "text-tydnings hjälp"
   ],
   "ishockeyspel": [
     "ishockey spel"
@@ -4400,8 +4397,8 @@
   "alliansregering": [
     "allians regering"
   ],
-  "ljussÃ¤ttning": [
-    "ljus sÃ¤ttning"
+  "ljussättning": [
+    "ljus sättning"
   ],
   "mopsvalpar": [
     "mops valpar"
@@ -4412,38 +4409,38 @@
   "Blekingetrafiken": [
     "Blekinge trafiken"
   ],
-  "sÃ¤nglampa": [
-    "sÃ¤ng lampa"
+  "sänglampa": [
+    "säng lampa"
   ],
-  "blomsteruppsÃ¤ttning": [
-    "blomster uppsÃ¤ttning"
+  "blomsteruppsättning": [
+    "blomster uppsättning"
   ],
-  "grÃ¥tattack": [
-    "grÃ¥t attack"
+  "gråtattack": [
+    "gråt attack"
   ],
-  "pÃ¥skpyssel": [
-    "pÃ¥sk pyssel"
+  "påskpyssel": [
+    "påsk pyssel"
   ],
   "ordbok": [
     "ord bok"
   ],
-  "ettÃ¥rshingst": [
-    "ettÃ¥rs hingst"
+  "ettårshingst": [
+    "ettårs hingst"
   ],
-  "fÃ¶delsedagen": [
-    "fÃ¶delse dagen"
+  "födelsedagen": [
+    "födelse dagen"
   ],
   "familjefoton": [
     "familje foton"
   ],
-  "slÃ¤ktbibel": [
-    "slÃ¤kt bibel"
+  "släktbibel": [
+    "släkt bibel"
   ],
   "luciakronor": [
     "lucia kronor"
   ],
-  "vinÃ¶ppnare": [
-    "vin Ã¶ppnare"
+  "vinöppnare": [
+    "vin öppnare"
   ],
   "fiskekort": [
     "fiske kort"
@@ -4457,11 +4454,11 @@
   "katthimlen": [
     "katt himlen"
   ],
-  "kvÃ¤llsinlÃ¤gg": [
-    "kvÃ¤lls inlÃ¤gg"
+  "kvällsinlägg": [
+    "kvälls inlägg"
   ],
-  "uppehÃ¥llsperioder": [
-    "uppehÃ¥lls perioder"
+  "uppehållsperioder": [
+    "uppehålls perioder"
   ],
   "foderexpert": [
     "foder expert"
@@ -4475,23 +4472,23 @@
   "vattenflaska": [
     "vatten flaska"
   ],
-  "fÃ¤rskpotatis": [
-    "fÃ¤rsk potatis"
+  "färskpotatis": [
+    "färsk potatis"
   ],
   "tandsprickning": [
     "tand sprickning"
   ],
-  "orangefÃ¤rgade": [
-    "orange fÃ¤rgade"
+  "orangefärgade": [
+    "orange färgade"
   ],
-  "ommÃ¥lning": [
-    "om mÃ¥lning"
+  "ommålning": [
+    "om målning"
   ],
   "givetvis": [
     "givet vis"
   ],
-  "rÃ¶rdelar": [
-    "rÃ¶r delar"
+  "rördelar": [
+    "rör delar"
   ],
   "lunchrast": [
     "lunch rast"
@@ -4499,14 +4496,14 @@
   "engelskaprov": [
     "engelska prov"
   ],
-  "breddfÃ¶rhÃ¥llande": [
-    "bredd fÃ¶rhÃ¥llande"
+  "breddförhållande": [
+    "bredd förhållande"
   ],
-  "tapettillbehÃ¶r": [
-    "tapet tillbehÃ¶r"
+  "tapettillbehör": [
+    "tapet tillbehör"
   ],
-  "godispÃ¥se": [
-    "godis pÃ¥se"
+  "godispåse": [
+    "godis påse"
   ],
   "toppenponny": [
     "toppen ponny"
@@ -4514,8 +4511,8 @@
   "barnbord": [
     "barn bord"
   ],
-  "jÃ¤ttenervÃ¶s": [
-    "jÃ¤tte nervÃ¶s"
+  "jättenervös": [
+    "jätte nervös"
   ],
   "briovagn": [
     "brio vagn"
@@ -4523,11 +4520,11 @@
   "samtalsrummet": [
     "samtals rummet"
   ],
-  "superrÃ¤dd": [
-    "super rÃ¤dd"
+  "superrädd": [
+    "super rädd"
   ],
-  "gÃ¥voredovisning": [
-    "gÃ¥vo redovisning"
+  "gåvoredovisning": [
+    "gåvo redovisning"
   ],
   "operativsystem": [
     "operativ system"
@@ -4547,11 +4544,11 @@
   "klisteretikett": [
     "klister etikett"
   ],
-  "Ã¶ronakupunktur": [
-    "Ã¶ron akupunktur"
+  "öronakupunktur": [
+    "öron akupunktur"
   ],
-  "skÃ¥prensning": [
-    "skÃ¥p rensning"
+  "skåprensning": [
+    "skåp rensning"
   ],
   "komvuxkurs": [
     "komvux kurs"
@@ -4559,17 +4556,17 @@
   "statistjobb": [
     "statist jobb"
   ],
-  "blÃ¥vita": [
-    "blÃ¥ vita"
+  "blåvita": [
+    "blå vita"
   ],
-  "slutkÃ¶rd": [
-    "slut kÃ¶rd"
+  "slutkörd": [
+    "slut körd"
   ],
-  "svÃ¥rjobbad": [
-    "svÃ¥r jobbad"
+  "svårjobbad": [
+    "svår jobbad"
   ],
-  "fÃ¤rdiggjord": [
-    "fÃ¤rdig gjord"
+  "färdiggjord": [
+    "färdig gjord"
   ],
   "sadelprovare": [
     "sadel provare"
@@ -4577,11 +4574,11 @@
   "arbetsgrejer": [
     "arbets grejer"
   ],
-  "elektronikklÃ¤mmor": [
-    "elektronik klÃ¤mmor"
+  "elektronikklämmor": [
+    "elektronik klämmor"
   ],
-  "resÃ¥rmadrass": [
-    "resÃ¥r madrass"
+  "resårmadrass": [
+    "resår madrass"
   ],
   "tesort": [
     "te sort"
@@ -4601,17 +4598,17 @@
   "dricksvatten": [
     "dricks vatten"
   ],
-  "sjukhusbesÃ¶k": [
-    "sjukhus besÃ¶k"
+  "sjukhusbesök": [
+    "sjukhus besök"
   ],
-  "hÃ¤stintresserad": [
-    "hÃ¤st intresserad"
+  "hästintresserad": [
+    "häst intresserad"
   ],
   "studioutrustning": [
     "studio utrustning"
   ],
-  "snÃ¶kaos": [
-    "snÃ¶ kaos"
+  "snökaos": [
+    "snö kaos"
   ],
   "kaffekitteln": [
     "kaffe kitteln"
@@ -4643,8 +4640,8 @@
   "teberoende": [
     "te beroende"
   ],
-  "dvÃ¤rgtaxhane": [
-    "dvÃ¤rg tax hane"
+  "dvärgtaxhane": [
+    "dvärg tax hane"
   ],
   "marsvinsbur": [
     "marsvins bur"
@@ -4661,8 +4658,8 @@
   "skolpennor": [
     "skol pennor"
   ],
-  "distanshÃ¤st": [
-    "distans hÃ¤st"
+  "distanshäst": [
+    "distans häst"
   ],
   "grafikkort": [
     "grafik kort"
@@ -4670,17 +4667,17 @@
   "trollunge": [
     "troll unge"
   ],
-  "barnbÃ¶cker": [
-    "barn bÃ¶cker"
+  "barnböcker": [
+    "barn böcker"
   ],
   "finporslinet": [
     "fin porslinet"
   ],
-  "vinterfÃ¶rvaring": [
-    "vinter fÃ¶rvaring"
+  "vinterförvaring": [
+    "vinter förvaring"
   ],
-  "dÃ¶rrskyltar": [
-    "dÃ¶rr skyltar"
+  "dörrskyltar": [
+    "dörr skyltar"
   ],
   "kurslitteratur": [
     "kurs litteratur"
@@ -4688,8 +4685,8 @@
   "snabbmat": [
     "snabb mat"
   ],
-  "bjÃ¶rnpÃ¤ls": [
-    "bjÃ¶rn pÃ¤ls"
+  "björnpäls": [
+    "björn päls"
   ],
   "mellandagsrea": [
     "mellandags rea"
@@ -4697,17 +4694,17 @@
   "utrensning": [
     "ut rensning"
   ],
-  "ridhÃ¤stmodeller": [
-    "ridhÃ¤st modeller"
+  "ridhästmodeller": [
+    "ridhäst modeller"
   ],
-  "sceningÃ¥ng": [
-    "scen ingÃ¥ng"
+  "sceningång": [
+    "scen ingång"
   ],
   "herrskridskor": [
     "herr skridskor"
   ],
-  "vÃ¥rstÃ¤dat": [
-    "vÃ¥r stÃ¤dat"
+  "vårstädat": [
+    "vår städat"
   ],
   "ljuslyktor": [
     "ljus lyktor"
@@ -4715,8 +4712,8 @@
   "ursprungsbefolkningen": [
     "ursprungs befolkningen"
   ],
-  "jÃ¤ttesvart": [
-    "jÃ¤tte svart"
+  "jättesvart": [
+    "jätte svart"
   ],
   "fredagslyx": [
     "fredags lyx"
@@ -4724,14 +4721,14 @@
   "plastmosaik": [
     "plast mosaik"
   ],
-  "skÃ¶nhetstips": [
-    "skÃ¶nhets tips"
+  "skönhetstips": [
+    "skönhets tips"
   ],
   "herrcykel": [
     "herr cykel"
   ],
-  "smÃ¥blommig": [
-    "smÃ¥ blommig"
+  "småblommig": [
+    "små blommig"
   ],
   "surgurka": [
     "sur gurka"
@@ -4742,8 +4739,8 @@
   "prenumerationskunder": [
     "prenumerations kunder"
   ],
-  "Ã¶lmagen": [
-    "Ã¶l magen"
+  "ölmagen": [
+    "öl magen"
   ],
   "biladapter": [
     "bil adapter"
@@ -4751,17 +4748,17 @@
   "fleeceoverall": [
     "fleece overall"
   ],
-  "slÃ¤ktforskningsbÃ¶cker": [
-    "slÃ¤ktforsknings bÃ¶cker"
+  "släktforskningsböcker": [
+    "släktforsknings böcker"
   ],
-  "multitouchskÃ¤rm": [
-    "multitouch skÃ¤rm"
+  "multitouchskärm": [
+    "multitouch skärm"
   ],
-  "vandringsryggsÃ¤ck": [
-    "vandrings ryggsÃ¤ck"
+  "vandringsryggsäck": [
+    "vandrings ryggsäck"
   ],
-  "fikabrÃ¶d": [
-    "fika brÃ¶d"
+  "fikabröd": [
+    "fika bröd"
   ],
   "barnakut": [
     "barn akut"
@@ -4769,35 +4766,35 @@
   "golvdelen": [
     "golv delen"
   ],
-  "fÃ¤rdigmÃ¥lad": [
-    "fÃ¤rdig mÃ¥lad"
+  "färdigmålad": [
+    "färdig målad"
   ],
-  "favoritvÃ¥rfÃ¤rg": [
-    "favorit vÃ¥r fÃ¤rg"
+  "favoritvårfärg": [
+    "favorit vår färg"
   ],
   "sirapslimpa": [
     "siraps limpa"
   ],
-  "rÃ¶dvinsglas": [
-    "rÃ¶d vins glas"
+  "rödvinsglas": [
+    "röd vins glas"
   ],
   "majssmak": [
     "majs smak"
   ],
-  "dessvÃ¤rre": [
-    "dess vÃ¤rre"
+  "dessvärre": [
+    "dess värre"
   ],
   "invaliditetsgrad": [
     "invaliditets grad"
   ],
-  "prissÃ¤nkt": [
-    "pris sÃ¤nkt"
+  "prissänkt": [
+    "pris sänkt"
   ],
   "kundinformation": [
     "kund information"
   ],
-  "intervalltrÃ¤ning": [
-    "intervall trÃ¤ning"
+  "intervallträning": [
+    "intervall träning"
   ],
   "loppisfynd": [
     "loppis fynd"
@@ -4805,14 +4802,14 @@
   "virusvarning": [
     "virus varning"
   ],
-  "kvarglÃ¶mda": [
-    "kvar glÃ¶mda"
+  "kvarglömda": [
+    "kvar glömda"
   ],
-  "fÃ¥rbonde": [
-    "fÃ¥r bonde"
+  "fårbonde": [
+    "får bonde"
   ],
-  "mÃ¥leriaffÃ¤ren": [
-    "mÃ¥leri affÃ¤ren"
+  "måleriaffären": [
+    "måleri affären"
   ],
   "monteringsanvisning": [
     "monterings anvisning"
@@ -4835,8 +4832,8 @@
   "grafitpennor": [
     "grafit pennor"
   ],
-  "vÃ¤xtperiod": [
-    "vÃ¤xt period"
+  "växtperiod": [
+    "växt period"
   ],
   "orientmattor": [
     "orient mattor"
@@ -4847,11 +4844,11 @@
   "boplatser": [
     "bo platser"
   ],
-  "docktillbehÃ¶r": [
-    "dock tillbehÃ¶r"
+  "docktillbehör": [
+    "dock tillbehör"
   ],
-  "kvalitetstrÃ¤olja": [
-    "kvalitets trÃ¤olja"
+  "kvalitetsträolja": [
+    "kvalitets träolja"
   ],
   "skorea": [
     "sko rea"
@@ -4859,8 +4856,8 @@
   "superbilligt": [
     "super billigt"
   ],
-  "hemvÃ¤gen": [
-    "hem vÃ¤gen"
+  "hemvägen": [
+    "hem vägen"
   ],
   "koppartassar": [
     "koppar tassar"
@@ -4868,26 +4865,26 @@
   "retrotermos": [
     "retro termos"
   ],
-  "myskvÃ¤ll": [
-    "mys kvÃ¤ll"
+  "myskväll": [
+    "mys kväll"
   ],
-  "genomsnÃ¤ll": [
-    "genom snÃ¤ll"
+  "genomsnäll": [
+    "genom snäll"
   ],
-  "headersbestÃ¤llningar": [
-    "headers bestÃ¤llningar"
+  "headersbeställningar": [
+    "headers beställningar"
   ],
-  "vÃ¤lkomstskÃ¥len": [
-    "vÃ¤lkomst skÃ¥len"
+  "välkomstskålen": [
+    "välkomst skålen"
   ],
-  "sÃ¶tnos": [
-    "sÃ¶t nos"
+  "sötnos": [
+    "söt nos"
   ],
   "superrea": [
     "super rea"
   ],
-  "plastpÃ¤rlor": [
-    "plast pÃ¤rlor"
+  "plastpärlor": [
+    "plast pärlor"
   ],
   "tatueringskopiator": [
     "tatuerings kopiator"
@@ -4895,23 +4892,23 @@
   "pippimotiv": [
     "pippi motiv"
   ],
-  "hjÃ¤lpguide": [
-    "hjÃ¤lp guide"
+  "hjälpguide": [
+    "hjälp guide"
   ],
-  "fiskmÃ¥sflÃ¤ckar": [
-    "fisk mÃ¥s flÃ¤ckar"
+  "fiskmåsfläckar": [
+    "fisk mås fläckar"
   ],
   "superkul": [
     "super kul"
   ],
-  "jÃ¤ttelÃ¶st": [
-    "jÃ¤tte lÃ¶st"
+  "jättelöst": [
+    "jätte löst"
   ],
-  "infÃ¶rsÃ¤krar": [
-    "in fÃ¶rsÃ¤krar"
+  "införsäkrar": [
+    "in försäkrar"
   ],
-  "levnadssÃ¤tt": [
-    "levnads sÃ¤tt"
+  "levnadssätt": [
+    "levnads sätt"
   ],
   "washitejp": [
     "washi tejp"
@@ -4922,32 +4919,32 @@
   "kategoriindelade": [
     "kategori indelade"
   ],
-  "smÃ¥rolig": [
-    "smÃ¥ rolig"
+  "smårolig": [
+    "små rolig"
   ],
   "assistentintervju": [
     "assistent intervju"
   ],
-  "fÃ¶delseort": [
-    "fÃ¶delse ort"
+  "födelseort": [
+    "födelse ort"
   ],
-  "nybÃ¤ddad": [
-    "ny bÃ¤ddad"
+  "nybäddad": [
+    "ny bäddad"
   ],
-  "hÃ¤rmed": [
-    "hÃ¤r med"
+  "härmed": [
+    "här med"
   ],
-  "mÃ¥llinjen": [
-    "mÃ¥l linjen"
+  "mållinjen": [
+    "mål linjen"
   ],
   "papperspysslare": [
     "pappers pysslare"
   ],
-  "fÃ¶rhoppningsvis": [
-    "fÃ¶rhoppnings vis"
+  "förhoppningsvis": [
+    "förhoppnings vis"
   ],
-  "morgonmÃ¤nniska": [
-    "morgon mÃ¤nniska"
+  "morgonmänniska": [
+    "morgon människa"
   ],
   "konkurs": [
     "kon kurs"
@@ -4964,23 +4961,23 @@
   "mobilbild": [
     "mobil bild"
   ],
-  "finanshÃ¥llet": [
-    "finans hÃ¥llet"
+  "finanshållet": [
+    "finans hållet"
   ],
   "utrikesporto": [
     "utrikes porto"
   ],
-  "trÃ¤dgÃ¥rds&nbsp;mÃ¶bler": [
-    "trÃ¤dgÃ¥rds&nbsp;mÃ¶bler"
+  "trädgårds-möbler": [
+    "trädgårds-möbler"
   ],
   "kortbetalning": [
     "kort betalning"
   ],
-  "vÃ¥rruset": [
-    "vÃ¥r ruset"
+  "vårruset": [
+    "vår ruset"
   ],
-  "strasspÃ¤rla": [
-    "strass pÃ¤rla"
+  "strasspärla": [
+    "strass pärla"
   ],
   "saftflaska": [
     "saft flaska"
@@ -4991,23 +4988,23 @@
   "koffeintabletter": [
     "koffein tabletter"
   ],
-  "metallstjÃ¤rna": [
-    "metall stjÃ¤rna"
+  "metallstjärna": [
+    "metall stjärna"
   ],
-  "motstÃ¥ndskraftigt": [
-    "motstÃ¥nds kraftigt"
+  "motståndskraftigt": [
+    "motstånds kraftigt"
   ],
-  "nallebjÃ¶rnen": [
-    "nalle bjÃ¶rnen"
+  "nallebjörnen": [
+    "nalle björnen"
   ],
   "husdjursleksaker": [
     "husdjurs leksaker"
   ],
-  "anstrÃ¤ngningsastma": [
-    "anstrÃ¤ngnings astma"
+  "ansträngningsastma": [
+    "ansträngnings astma"
   ],
-  "pysselbÃ¶cker": [
-    "pyssel bÃ¶cker"
+  "pysselböcker": [
+    "pyssel böcker"
   ],
   "tokfint": [
     "tok fint"
@@ -5015,14 +5012,14 @@
   "familjekalas": [
     "familje kalas"
   ],
-  "partyklÃ¤nningar": [
-    "party klÃ¤nningar"
+  "partyklänningar": [
+    "party klänningar"
   ],
-  "tekanneÃ¶rhÃ¤ngen": [
-    "tekanne Ã¶rhÃ¤ngen"
+  "tekanneörhängen": [
+    "tekanne örhängen"
   ],
-  "originalfÃ¶rpackning": [
-    "original fÃ¶rpackning"
+  "originalförpackning": [
+    "original förpackning"
   ],
   "gymnasiekurser": [
     "gymnasie kurser"
@@ -5036,17 +5033,17 @@
   "pappersstans": [
     "pappers stans"
   ],
-  "pÃ¤rlÃ¶rhÃ¤ngen": [
-    "pÃ¤rl Ã¶rhÃ¤ngen"
+  "pärlörhängen": [
+    "pärl örhängen"
   ],
   "ridvideo": [
     "rid video"
   ],
-  "fransfÃ¶rlÃ¤ngning": [
-    "frans fÃ¶rlÃ¤ngning"
+  "fransförlängning": [
+    "frans förlängning"
   ],
-  "badrumsskÃ¥p": [
-    "badrums skÃ¥p"
+  "badrumsskåp": [
+    "badrums skåp"
   ],
   "hypnoskurs": [
     "hypnos kurs"
@@ -5054,26 +5051,26 @@
   "colanappar": [
     "cola nappar"
   ],
-  "slÃ¤ktforskarvÃ¤nner": [
-    "slÃ¤ktforskar vÃ¤nner"
+  "släktforskarvänner": [
+    "släktforskar vänner"
   ],
   "favoritdjur": [
     "favorit djur"
   ],
-  "regntÃ¥ligt": [
-    "regn tÃ¥ligt"
+  "regntåligt": [
+    "regn tåligt"
   ],
   "akvarellblock": [
     "akvarell block"
   ],
-  "havregrynsgrÃ¶t": [
-    "havregryns grÃ¶t"
+  "havregrynsgröt": [
+    "havregryns gröt"
   ],
   "kristallknoppar": [
     "kristall knoppar"
   ],
-  "akrylmÃ¥lning": [
-    "akryl mÃ¥lning"
+  "akrylmålning": [
+    "akryl målning"
   ],
   "tatueringsmaskiner": [
     "tatuerings maskiner"
@@ -5087,14 +5084,14 @@
   "blomdekoration": [
     "blom dekoration"
   ],
-  "treÃ¥rstrots": [
-    "tre Ã¥rs trots"
+  "treårstrots": [
+    "tre års trots"
   ],
-  "fotofrÃ¥gor": [
-    "foto frÃ¥gor"
+  "fotofrågor": [
+    "foto frågor"
   ],
-  "skÃ¶ldpaddsfÃ¤rgad": [
-    "skÃ¶ldpadds fÃ¤rgad"
+  "sköldpaddsfärgad": [
+    "sköldpadds färgad"
   ],
   "serverbyte": [
     "server byte"
@@ -5102,8 +5099,8 @@
   "omsorgsverksamheten": [
     "omsorgs verksamheten"
   ],
-  "bushumÃ¶r": [
-    "bus humÃ¶r"
+  "bushumör": [
+    "bus humör"
   ],
   "barfotasko": [
     "barfota sko"
@@ -5111,14 +5108,14 @@
   "pappersdrake": [
     "pappers drake"
   ],
-  "pÃ¥skÃ¶l": [
-    "pÃ¥sk Ã¶l"
+  "påsköl": [
+    "påsk öl"
   ],
-  "kattsÃ¤krat": [
-    "katt sÃ¤krat"
+  "kattsäkrat": [
+    "katt säkrat"
   ],
-  "mervÃ¤rdesskattavgifter": [
-    "mervÃ¤rdesskatt avgifter"
+  "mervärdesskattavgifter": [
+    "mervärdesskatt avgifter"
   ],
   "grislever": [
     "gris lever"
@@ -5129,8 +5126,8 @@
   "vitaminpiller": [
     "vitamin piller"
   ],
-  "hÃ¤stmode": [
-    "hÃ¤st mode"
+  "hästmode": [
+    "häst mode"
   ],
   "andraplacering": [
     "andra placering"
@@ -5138,17 +5135,17 @@
   "fotogalleri": [
     "foto galleri"
   ],
-  "klÃ¶smÃ¤rken": [
-    "klÃ¶s mÃ¤rken"
+  "klösmärken": [
+    "klös märken"
   ],
   "namnarmband": [
     "namn armband"
   ],
-  "kÃ¶rtÃ¤vling": [
-    "kÃ¶r tÃ¤vling"
+  "körtävling": [
+    "kör tävling"
   ],
-  "videotillbehÃ¶r": [
-    "video tillbehÃ¶r"
+  "videotillbehör": [
+    "video tillbehör"
   ],
   "bildstabilisator": [
     "bild stabilisator"
@@ -5162,8 +5159,8 @@
   "rapsolja": [
     "raps olja"
   ],
-  "befodringsÃ¥r": [
-    "befodrings Ã¥r"
+  "befodringsår": [
+    "befodrings år"
   ],
   "killpresent": [
     "kill present"
@@ -5171,32 +5168,32 @@
   "meddetsamma": [
     "med det samma"
   ],
-  "brÃ¶llopgirlang": [
-    "brÃ¶llop girlang"
+  "bröllopgirlang": [
+    "bröllop girlang"
   ],
-  "kattÃ¤ventyr": [
-    "katt Ã¤ventyr"
+  "kattäventyr": [
+    "katt äventyr"
   ],
-  "tÃ¤vlingsmoment": [
-    "tÃ¤vlings moment"
+  "tävlingsmoment": [
+    "tävlings moment"
   ],
-  "rya&nbsp;matta": [
-    "rya&nbsp;matta"
+  "rya-matta": [
+    "rya-matta"
   ],
   "praouppgifter": [
     "prao uppgifter"
   ],
-  "modershjÃ¤rta": [
-    "moders hjÃ¤rta"
+  "modershjärta": [
+    "moders hjärta"
   ],
-  "kÃ¶kshandduk": [
-    "kÃ¶ks handduk"
+  "kökshandduk": [
+    "köks handduk"
   ],
   "superrolig": [
     "super rolig"
   ],
-  "fÃ¶delsedagspresent": [
-    "fÃ¶delsedags present"
+  "födelsedagspresent": [
+    "födelsedags present"
   ],
   "vuxendrabbad": [
     "vuxen drabbad"
@@ -5204,11 +5201,11 @@
   "tangentbord": [
     "tangent bord"
   ],
-  "vÃ¤derkartan": [
-    "vÃ¤der kartan"
+  "väderkartan": [
+    "väder kartan"
   ],
-  "JÃ¤mjÃ¶trakten": [
-    "JÃ¤mjÃ¶ trakten"
+  "Jämjötrakten": [
+    "Jämjö trakten"
   ],
   "katttunnel": [
     "katt tunnel"
@@ -5225,8 +5222,8 @@
   "andningsproblem": [
     "andnings problem"
   ],
-  "trÃ¤skÃ¤nk": [
-    "trÃ¤ skÃ¤nk"
+  "träskänk": [
+    "trä skänk"
   ],
   "skvallerblogg": [
     "skvaller blogg"
@@ -5234,11 +5231,11 @@
   "lastbilstabeller": [
     "lastbils tabeller"
   ],
-  "lÃ¤svÃ¤rda": [
-    "lÃ¤s vÃ¤rda"
+  "läsvärda": [
+    "läs värda"
   ],
-  "hemlÃ¶sa": [
-    "hem lÃ¶sa"
+  "hemlösa": [
+    "hem lösa"
   ],
   "spindeldekal": [
     "spindel dekal"
@@ -5246,20 +5243,20 @@
   "femteplats": [
     "femte plats"
   ],
-  "StockholmsomrÃ¥det": [
-    "Stockholms omrÃ¥det"
+  "Stockholmsområdet": [
+    "Stockholms området"
   ],
   "husvagnsunderreden": [
     "husvagns underreden"
   ],
-  "trÃ¤ningsinspiration": [
-    "trÃ¤nings inspiration"
+  "träningsinspiration": [
+    "tränings inspiration"
   ],
   "bamsegrattis": [
     "bamse grattis"
   ],
-  "fotbollssÃ¤songen": [
-    "fotbolls sÃ¤songen"
+  "fotbollssäsongen": [
+    "fotbolls säsongen"
   ],
   "badkar": [
     "bad kar"
@@ -5276,53 +5273,53 @@
   "melonsmak": [
     "melon smak"
   ],
-  "fiskskÃ¥l": [
-    "fisk skÃ¥l"
+  "fiskskål": [
+    "fisk skål"
   ],
-  "skrÃ¤ckblandat": [
-    "skrÃ¤ck blandat"
+  "skräckblandat": [
+    "skräck blandat"
   ],
-  "mÃ¶rkgrÃ¥": [
-    "mÃ¶rk grÃ¥"
+  "mörkgrå": [
+    "mörk grå"
   ],
   "vattenbad": [
     "vatten bad"
   ],
-  "kassakÃ¶er": [
-    "kassa kÃ¶er"
+  "kassaköer": [
+    "kassa köer"
   ],
   "massagetid": [
     "massage tid"
   ],
-  "sÃ¤ngbord": [
-    "sÃ¤ng bord"
+  "sängbord": [
+    "säng bord"
   ],
-  "Ã¶sregnar": [
-    "Ã¶s regnar"
+  "ösregnar": [
+    "ös regnar"
   ],
-  "veterinÃ¤rfÃ¶rsÃ¤krade": [
-    "veterinÃ¤r fÃ¶rsÃ¤krade"
+  "veterinärförsäkrade": [
+    "veterinär försäkrade"
   ],
-  "Ã¶rtte": [
-    "Ã¶rt te"
+  "örtte": [
+    "ört te"
   ],
   "publikrekord": [
     "publik rekord"
   ],
-  "mÃ¥llÃ¶s": [
-    "mÃ¥l lÃ¶s"
+  "mållös": [
+    "mål lös"
   ],
   "jobbpassen": [
     "jobb passen"
   ],
-  "barndomsvÃ¤nner": [
-    "barndoms vÃ¤nner"
+  "barndomsvänner": [
+    "barndoms vänner"
   ],
-  "kassalÃ¥da": [
-    "kassa lÃ¥da"
+  "kassalåda": [
+    "kassa låda"
   ],
-  "fÃ¶rvaringslÃ¥da": [
-    "fÃ¶rvarings lÃ¥da"
+  "förvaringslåda": [
+    "förvarings låda"
   ],
   "fullblodsaraben": [
     "fullblods araben"
@@ -5339,20 +5336,20 @@
   "klisterbild": [
     "klister bild"
   ],
-  "pÃ¥fÃ¥gelfÃ¤rg": [
-    "pÃ¥fÃ¥gel fÃ¤rg"
+  "påfågelfärg": [
+    "påfågel färg"
   ],
-  "fÃ¶rsÃ¤kringsbolag": [
-    "fÃ¶rsÃ¤krings bolag"
+  "försäkringsbolag": [
+    "försäkrings bolag"
   ],
-  "skrivbordsblÃ¤ckset": [
-    "skrivbords blÃ¤ck set"
+  "skrivbordsbläckset": [
+    "skrivbords bläck set"
   ],
   "sig-saxband": [
     "sig-sax band"
   ],
-  "jÃ¤ttetrÃ¥kigt": [
-    "jÃ¤tte trÃ¥kigt"
+  "jättetråkigt": [
+    "jätte tråkigt"
   ],
   "mobilfodral": [
     "mobil fodral"
@@ -5375,32 +5372,32 @@
   "tjejproblem": [
     "tjej problem"
   ],
-  "portrÃ¤ttobjektiv": [
-    "portrÃ¤tt objektiv"
+  "porträttobjektiv": [
+    "porträtt objektiv"
   ],
-  "jÃ¤ttesjuk": [
-    "jÃ¤tte sjuk"
+  "jättesjuk": [
+    "jätte sjuk"
   ],
   "finfixa": [
     "fin fixa"
   ],
-  "kvÃ¤llsyogapass": [
-    "kvÃ¤lls yoga pass"
+  "kvällsyogapass": [
+    "kvälls yoga pass"
   ],
   "pepparkaksgumma": [
     "pepparkaks gumma"
   ],
-  "fÃ¤rdigpackad": [
-    "fÃ¤rdig packad"
+  "färdigpackad": [
+    "färdig packad"
   ],
   "tjejkompis": [
     "tjej kompis"
   ],
-  "felsÃ¶kning": [
-    "fel sÃ¶kning"
+  "felsökning": [
+    "fel sökning"
   ],
-  "rostfÃ¤rgade": [
-    "rost fÃ¤rgade"
+  "rostfärgade": [
+    "rost färgade"
   ],
   "halvtimme": [
     "halv timme"
@@ -5414,8 +5411,8 @@
   "distansutbildning": [
     "distans utbildning"
   ],
-  "tonpapper&nbsp;sats": [
-    "tonpapper&nbsp;sats"
+  "tonpapper-sats": [
+    "tonpapper-sats"
   ],
   "turdag": [
     "tur dag"
@@ -5435,14 +5432,14 @@
   "androidprodukter": [
     "android produkter"
   ],
-  "cykelparkeringsfÃ¶rbud": [
-    "cykel parkerings fÃ¶rbud"
+  "cykelparkeringsförbud": [
+    "cykel parkerings förbud"
   ],
-  "plugintillÃ¤gg": [
-    "plugin tillÃ¤gg"
+  "plugintillägg": [
+    "plugin tillägg"
   ],
-  "uppesittarkvÃ¤ll": [
-    "uppesittar kvÃ¤ll"
+  "uppesittarkväll": [
+    "uppesittar kväll"
   ],
   "tresitssoffa": [
     "tre sits soffa"
@@ -5450,11 +5447,11 @@
   "vuxengrupp": [
     "vuxen grupp"
   ],
-  "sÃ¤kerhetsstigbyglar": [
-    "sÃ¤kerhets stigbyglar"
+  "säkerhetsstigbyglar": [
+    "säkerhets stigbyglar"
   ],
-  "jÃ¤ttestarkt": [
-    "jÃ¤tte starkt"
+  "jättestarkt": [
+    "jätte starkt"
   ],
   "partyhatt": [
     "party hatt"
@@ -5468,8 +5465,8 @@
   "lillkillen": [
     "lill killen"
   ],
-  "slÃ¤ktforskningspapper": [
-    "slÃ¤ktforsknings papper"
+  "släktforskningspapper": [
+    "släktforsknings papper"
   ],
   "uppge": [
     "upp ge"
@@ -5477,32 +5474,32 @@
   "Pollyliknande": [
     "Polly liknande"
   ],
-  "lÃ¥ngtidssjukskrivna": [
-    "lÃ¥ngtids sjukskrivna"
+  "långtidssjukskrivna": [
+    "långtids sjukskrivna"
   ],
-  "prisidÃ©": [
-    "pris idÃ©"
+  "prisidé": [
+    "pris idé"
   ],
-  "mysklÃ¤der": [
-    "mys klÃ¤der"
+  "myskläder": [
+    "mys kläder"
   ],
-  "minifrÃ¥gestund": [
-    "mini frÃ¥gestund"
+  "minifrågestund": [
+    "mini frågestund"
   ],
-  "spyfÃ¤rdig": [
-    "spy fÃ¤rdig"
+  "spyfärdig": [
+    "spy färdig"
   ],
   "vuxenstorlek": [
     "vuxen storlek"
   ],
-  "vattenfontÃ¤n": [
-    "vatten fontÃ¤n"
+  "vattenfontän": [
+    "vatten fontän"
   ],
-  "hÃ¤stvÃ¤rlden": [
-    "hÃ¤st vÃ¤rlden"
+  "hästvärlden": [
+    "häst världen"
   ],
-  "jÃ¤ttehÃ¤ftig": [
-    "jÃ¤tte hÃ¤ftig"
+  "jättehäftig": [
+    "jätte häftig"
   ],
   "origamiark": [
     "origami ark"
@@ -5510,11 +5507,11 @@
   "helsjukt": [
     "hel sjukt"
   ],
-  "platttÃ¥ng": [
-    "platt tÃ¥ng"
+  "platttång": [
+    "platt tång"
   ],
-  "toalettrengÃ¶ringsartiklar": [
-    "toalett rengÃ¶rings artiklar"
+  "toalettrengöringsartiklar": [
+    "toalett rengörings artiklar"
   ],
   "sluttid": [
     "slut tid"
@@ -5528,8 +5525,8 @@
   "allergitablett": [
     "allergi tablett"
   ],
-  "fleeceplÃ¤d": [
-    "fleece plÃ¤d"
+  "fleecepläd": [
+    "fleece pläd"
   ],
   "avelshona": [
     "avels hona"
@@ -5543,23 +5540,23 @@
   "konstfotografering": [
     "konst fotografering"
   ],
-  "nyfÃ¶rlovade": [
-    "ny fÃ¶rlovade"
+  "nyförlovade": [
+    "ny förlovade"
   ],
   "torrdammsugare": [
     "torr dammsugare"
   ],
-  "bonusspÃ¥r": [
-    "bonus spÃ¥r"
+  "bonusspår": [
+    "bonus spår"
   ],
   "barbackapad": [
     "barbacka pad"
   ],
-  "sÃ¶ndagsmiddag": [
-    "sÃ¶ndags middag"
+  "söndagsmiddag": [
+    "söndags middag"
   ],
-  "datavÃ¤n": [
-    "data vÃ¤n"
+  "datavän": [
+    "data vän"
   ],
   "webbbutik": [
     "webb butik"
@@ -5570,17 +5567,17 @@
   "fartygsmodeller": [
     "fartygs modeller"
   ],
-  "vÃ¥rbilder": [
-    "vÃ¥r bilder"
+  "vårbilder": [
+    "vår bilder"
   ],
-  "lokalbedÃ¶vning": [
-    "lokal bedÃ¶vning"
+  "lokalbedövning": [
+    "lokal bedövning"
   ],
-  "sjukskÃ¶terska": [
-    "sjuk skÃ¶terska"
+  "sjuksköterska": [
+    "sjuk sköterska"
   ],
-  "infravÃ¤rmelampa": [
-    "infravÃ¤rme lampa"
+  "infravärmelampa": [
+    "infravärme lampa"
   ],
   "sportfotografering": [
     "sport fotografering"
@@ -5588,14 +5585,14 @@
   "dubbelnolla": [
     "dubbel nolla"
   ],
-  "knÃ¤pptyst": [
-    "knÃ¤pp tyst"
+  "knäpptyst": [
+    "knäpp tyst"
   ],
-  "jÃ¤tteglada": [
-    "jÃ¤tte glada"
+  "jätteglada": [
+    "jätte glada"
   ],
-  "organzapÃ¥sar": [
-    "organza pÃ¥sar"
+  "organzapåsar": [
+    "organza påsar"
   ],
   "ungdomsrum": [
     "ungdoms rum"
@@ -5603,35 +5600,35 @@
   "bullbak": [
     "bull bak"
   ],
-  "Ã¥terbudstid": [
-    "Ã¥terbuds tid"
+  "återbudstid": [
+    "återbuds tid"
   ],
-  "sprÃ¥kkonsulterna": [
-    "sprÃ¥k konsulterna"
+  "språkkonsulterna": [
+    "språk konsulterna"
   ],
   "fingertoppsring": [
     "finger toppsring"
   ],
-  "konstnÃ¤rsmaterial": [
-    "konstnÃ¤rs material"
+  "konstnärsmaterial": [
+    "konstnärs material"
   ],
   "praktikjobb": [
     "praktik jobb"
   ],
-  "ljusblÃ¥": [
-    "ljus blÃ¥"
+  "ljusblå": [
+    "ljus blå"
   ],
-  "tÃ¤vlingskondis": [
-    "tÃ¤vlings kondis"
+  "tävlingskondis": [
+    "tävlings kondis"
   ],
-  "jÃ¤rnhÃ¤ngen": [
-    "jÃ¤rn hÃ¤ngen"
+  "järnhängen": [
+    "järn hängen"
   ],
   "vinterjacka": [
     "vinter jacka"
   ],
-  "hÃ¶sttrÃ¶st": [
-    "hÃ¶st trÃ¶st"
+  "hösttröst": [
+    "höst tröst"
   ],
   "familjebild": [
     "familje bild"
@@ -5642,8 +5639,8 @@
   "stallgolvet": [
     "stall golvet"
   ],
-  "sminkaffÃ¤r": [
-    "smink affÃ¤r"
+  "sminkaffär": [
+    "smink affär"
   ],
   "tjejmys": [
     "tjej mys"
@@ -5657,20 +5654,20 @@
   "fotsteg": [
     "fot steg"
   ],
-  "sjÃ¤lvklar": [
-    "sjÃ¤lv klar"
+  "självklar": [
+    "själv klar"
   ],
   "ytterglaset": [
     "ytter glaset"
   ],
-  "byggstÃ¤llning": [
-    "bygg stÃ¤llning"
+  "byggställning": [
+    "bygg ställning"
   ],
   "vidvinkelobjektiv": [
     "vidvinkel objektiv"
   ],
-  "semesterlÃ¤ngtan": [
-    "semester lÃ¤ngtan"
+  "semesterlängtan": [
+    "semester längtan"
   ],
   "fiskdressing": [
     "fisk dressing"
@@ -5678,8 +5675,8 @@
   "kanondag": [
     "kanon dag"
   ],
-  "brÃ¤nnbara": [
-    "brÃ¤nn bara"
+  "brännbara": [
+    "bränn bara"
   ],
   "ensamhet": [
     "ensam het"
@@ -5690,29 +5687,29 @@
   "felmeddelande": [
     "fel meddelande"
   ],
-  "kattlÃ¥da": [
-    "katt lÃ¥da"
+  "kattlåda": [
+    "katt låda"
   ],
-  "kvÃ¤llssnacket": [
-    "kvÃ¤lls snacket"
+  "kvällssnacket": [
+    "kvälls snacket"
   ],
-  "snickarglÃ¤dje": [
-    "snickar glÃ¤dje"
+  "snickarglädje": [
+    "snickar glädje"
   ],
-  "tassspÃ¥r": [
-    "tass spÃ¥r"
+  "tassspår": [
+    "tass spår"
   ],
   "verklighetsbaserade": [
     "verklighets baserade"
   ],
-  "pingvinstÃ¤nger": [
-    "pingvin stÃ¤nger"
+  "pingvinstänger": [
+    "pingvin stänger"
   ],
   "fotoeffekter": [
     "foto effekter"
   ],
-  "golvvÃ¤rme": [
-    "golv vÃ¤rme"
+  "golvvärme": [
+    "golv värme"
   ],
   "skinnfotpallar": [
     "skinn fotpallar"
@@ -5729,11 +5726,11 @@
   "uteblommor": [
     "ute blommor"
   ],
-  "fiskmÃ¥sjÃ¤klar": [
-    "fisk mÃ¥s jÃ¤klar"
+  "fiskmåsjäklar": [
+    "fisk mås jäklar"
   ],
-  "smÃ¥log": [
-    "smÃ¥ log"
+  "smålog": [
+    "små log"
   ],
   "epostadress": [
     "epost adress"
@@ -5753,47 +5750,47 @@
   "djurklinik": [
     "djur klinik"
   ],
-  "hÃ¤ngsleshorts": [
-    "hÃ¤ngsle shorts"
+  "hängsleshorts": [
+    "hängsle shorts"
   ],
-  "julfÃ¤rger": [
-    "jul fÃ¤rger"
+  "julfärger": [
+    "jul färger"
   ],
-  "jÃ¤tteglad": [
-    "jÃ¤tte glad"
+  "jätteglad": [
+    "jätte glad"
   ],
-  "utgÃ¥ngslÃ¤ge": [
-    "utgÃ¥ngs lÃ¤ge"
+  "utgångsläge": [
+    "utgångs läge"
   ],
-  "ovanifrÃ¥n": [
-    "ovan ifrÃ¥n"
+  "ovanifrån": [
+    "ovan ifrån"
   ],
   "silverkedja": [
     "silver kedja"
   ],
-  "silverÃ¶rhÃ¤ngen": [
-    "silver Ã¶rhÃ¤ngen"
+  "silverörhängen": [
+    "silver örhängen"
   ],
-  "infektionskÃ¤nslig": [
-    "infektions kÃ¤nslig"
+  "infektionskänslig": [
+    "infektions känslig"
   ],
-  "spelkvÃ¤ll": [
-    "spel kvÃ¤ll"
+  "spelkväll": [
+    "spel kväll"
   ],
   "familjehemsplacerad": [
     "familjehems placerad"
   ],
-  "klÃ¶strÃ¤d": [
-    "klÃ¶s trÃ¤d"
+  "klösträd": [
+    "klös träd"
   ],
   "midsommarafton": [
     "midsommar afton"
   ],
-  "jullÃ¥dorna": [
-    "jul lÃ¥dorna"
+  "jullådorna": [
+    "jul lådorna"
   ],
-  "fÃ¶rtroendevalda": [
-    "fÃ¶r troende valda"
+  "förtroendevalda": [
+    "för troende valda"
   ],
   "psalmboken": [
     "psalm boken"
@@ -5801,32 +5798,32 @@
   "badkritor": [
     "bad kritor"
   ],
-  "Ã¥tkomstinformation": [
-    "Ã¥tkomst information"
+  "åtkomstinformation": [
+    "åtkomst information"
   ],
-  "sÃ¥rrengÃ¶ring": [
-    "sÃ¥r rengÃ¶ring"
+  "sårrengöring": [
+    "sår rengöring"
   ],
   "herrtoalett": [
     "herr toalett"
   ],
-  "filmkvalitÃ©": [
-    "film kvalitÃ©"
+  "filmkvalité": [
+    "film kvalité"
   ],
   "kameralock": [
     "kamera lock"
   ],
-  "sommarÃ¤ngel": [
-    "sommar Ã¤ngel"
+  "sommarängel": [
+    "sommar ängel"
   ],
   "stinklukten": [
     "stink lukten"
   ],
-  "symaskinshÃ¶rna": [
-    "symaskins hÃ¶rna"
+  "symaskinshörna": [
+    "symaskins hörna"
   ],
-  "lÃ¤ttkrÃ¤nkta": [
-    "lÃ¤tt krÃ¤nkta"
+  "lättkränkta": [
+    "lätt kränkta"
   ],
   "toppenfoto": [
     "toppen foto"
@@ -5837,8 +5834,8 @@
   "proteinpaj": [
     "protein paj"
   ],
-  "trÃ¤dgÃ¥rdsdekorationer": [
-    "trÃ¤dgÃ¥rds dekorationer"
+  "trädgårdsdekorationer": [
+    "trädgårds dekorationer"
   ],
   "omplaceringskatter": [
     "omplacerings katter"
@@ -5849,8 +5846,8 @@
   "normalstor": [
     "normal stor"
   ],
-  "Ã¶verarmarna": [
-    "Ã¶ver armarna"
+  "överarmarna": [
+    "över armarna"
   ],
   "herrsocka": [
     "herr socka"
@@ -5858,8 +5855,8 @@
   "thermobyxor": [
     "thermo byxor"
   ],
-  "LidkÃ¶pingsbor": [
-    "LidkÃ¶pings bor"
+  "Lidköpingsbor": [
+    "Lidköpings bor"
   ],
   "elektrolytkondensatorer": [
     "elektrolyt kondensatorer"
@@ -5873,8 +5870,8 @@
   "glaskuber": [
     "glas kuber"
   ],
-  "gravidklÃ¤der": [
-    "gravid klÃ¤der"
+  "gravidkläder": [
+    "gravid kläder"
   ],
   "zoomobjektiv": [
     "zoom objektiv"
@@ -5882,8 +5879,8 @@
   "momskvitto": [
     "moms kvitto"
   ],
-  "killklÃ¤der": [
-    "kill klÃ¤der"
+  "killkläder": [
+    "kill kläder"
   ],
   "riksbronschampionson": [
     "riks brons champion son"
@@ -5891,8 +5888,8 @@
   "sommarnatt": [
     "sommar natt"
   ],
-  "alligatorklÃ¤mmor": [
-    "alligator klÃ¤mmor"
+  "alligatorklämmor": [
+    "alligator klämmor"
   ],
   "utbildningsmaterial": [
     "utbildnings material"
@@ -5900,8 +5897,8 @@
   "medlemssidor": [
     "medlems sidor"
   ],
-  "vuxenbÃ¶cker": [
-    "vuxen bÃ¶cker"
+  "vuxenböcker": [
+    "vuxen böcker"
   ],
   "utantill": [
     "utan till"
@@ -5909,11 +5906,11 @@
   "supermycket": [
     "super mycket"
   ],
-  "jÃ¤tterÃ¤dd": [
-    "jÃ¤tte rÃ¤dd"
+  "jätterädd": [
+    "jätte rädd"
   ],
-  "frigolitlÃ¥dor": [
-    "frigolit lÃ¥dor"
+  "frigolitlådor": [
+    "frigolit lådor"
   ],
   "nagellackstips": [
     "nagellacks tips"
@@ -5921,17 +5918,17 @@
   "uteleksaker": [
     "ute leksaker"
   ],
-  "jÃ¤ttedÃ¥lig": [
-    "jÃ¤tte dÃ¥lig"
+  "jättedålig": [
+    "jätte dålig"
   ],
-  "Ã¥ldersklass": [
-    "Ã¥lders klass"
+  "åldersklass": [
+    "ålders klass"
   ],
-  "hÃ¶stbildbomb": [
-    "hÃ¶st bild bomb"
+  "höstbildbomb": [
+    "höst bild bomb"
   ],
-  "julpanellÃ¤ngder": [
-    "jul panel lÃ¤ngder"
+  "julpanellängder": [
+    "jul panel längder"
   ],
   "paraplysulky": [
     "paraply sulky"
@@ -5939,14 +5936,14 @@
   "staffliset": [
     "staffli set"
   ],
-  "Ã¤pplecider": [
-    "Ã¤pple cider"
+  "äpplecider": [
+    "äpple cider"
   ],
-  "totalvÃ¤gra": [
-    "total vÃ¤gra"
+  "totalvägra": [
+    "total vägra"
   ],
-  "busfrÃ¶": [
-    "bus frÃ¶"
+  "busfrö": [
+    "bus frö"
   ],
   "getingstucken": [
     "geting stucken"
@@ -5954,8 +5951,8 @@
   "kvalitetsljus": [
     "kvalitets ljus"
   ],
-  "bostadsomrÃ¥de": [
-    "bostads omrÃ¥de"
+  "bostadsområde": [
+    "bostads område"
   ],
   "magnetbrytare": [
     "magnet brytare"
@@ -5966,14 +5963,14 @@
   "kanonbok": [
     "kanon bok"
   ],
-  "betonghjÃ¤rta": [
-    "betong hjÃ¤rta"
+  "betonghjärta": [
+    "betong hjärta"
   ],
   "miniatyrflaska": [
     "miniatyr flaska"
   ],
-  "miljÃ¶farlig": [
-    "miljÃ¶ farlig"
+  "miljöfarlig": [
+    "miljö farlig"
   ],
   "teleobjektiv": [
     "tele objektiv"
@@ -5987,11 +5984,11 @@
   "perserkattunge": [
     "perser kattunge"
   ],
-  "fototÃ¤vling": [
-    "foto tÃ¤vling"
+  "fototävling": [
+    "foto tävling"
   ],
-  "julidÃ©er": [
-    "jul idÃ©er"
+  "julidéer": [
+    "jul idéer"
   ],
   "trendintresserade": [
     "trend intresserade"
@@ -5999,11 +5996,11 @@
   "axelrem": [
     "axel rem"
   ],
-  "storstÃ¤dning": [
-    "stor stÃ¤dning"
+  "storstädning": [
+    "stor städning"
   ],
-  "lÃ¤skpapper": [
-    "lÃ¤sk papper"
+  "läskpapper": [
+    "läsk papper"
   ],
   "nyborstad": [
     "ny borstad"
@@ -6023,8 +6020,8 @@
   "springrunda": [
     "spring runda"
   ],
-  "fÃ¥rskinnsspill": [
-    "fÃ¥rskinns spill"
+  "fårskinnsspill": [
+    "fårskinns spill"
   ],
   "maginfluensa": [
     "mag influensa"
@@ -6032,17 +6029,17 @@
   "potatissallad": [
     "potatis sallad"
   ],
-  "favorit&nbsp;mÃ¤rke": [
-    "favorit&nbsp;mÃ¤rke"
+  "favorit-märke": [
+    "favorit-märke"
   ],
-  "30-Ã¥rskalas": [
-    "30-Ã¥rs kalas"
+  "30-årskalas": [
+    "30-års kalas"
   ],
-  "prydnadsfÃ¥glar": [
-    "prydnads fÃ¥glar"
+  "prydnadsfåglar": [
+    "prydnads fåglar"
   ],
-  "klÃ¤desvÃ¤g": [
-    "klÃ¤des vÃ¤g"
+  "klädesväg": [
+    "klädes väg"
   ],
   "adminsidor": [
     "admin sidor"
@@ -6065,17 +6062,17 @@
   "potatismos": [
     "potatis mos"
   ],
-  "ifrÃ¥gasÃ¤tter": [
-    "ifrÃ¥ga sÃ¤tter"
+  "ifrågasätter": [
+    "ifråga sätter"
   ],
-  "basÃ¥rsbÃ¶cker": [
-    "basÃ¥rs bÃ¶cker"
+  "basårsböcker": [
+    "basårs böcker"
   ],
-  "trÃ¤katt": [
-    "trÃ¤ katt"
+  "träkatt": [
+    "trä katt"
   ],
-  "vÃ¤nsterfoten": [
-    "vÃ¤nster foten"
+  "vänsterfoten": [
+    "vänster foten"
   ],
   "hemsydd": [
     "hem sydd"
@@ -6095,14 +6092,14 @@
   "strassstenar": [
     "strass stenar"
   ],
-  "makeuptillbehÃ¶r": [
-    "makeup tillbehÃ¶r"
+  "makeuptillbehör": [
+    "makeup tillbehör"
   ],
-  "musikÃ¤lskare": [
-    "musik Ã¤lskare"
+  "musikälskare": [
+    "musik älskare"
   ],
-  "minimiÃ¥lder": [
-    "minimi Ã¥lder"
+  "minimiålder": [
+    "minimi ålder"
   ],
   "adventsmys": [
     "advents mys"
@@ -6110,23 +6107,23 @@
   "barnpotta": [
     "barn potta"
   ],
-  "sjÃ¤lvscanna": [
-    "sjÃ¤lv scanna"
+  "självscanna": [
+    "själv scanna"
   ],
-  "strÃ¶socker": [
-    "strÃ¶ socker"
+  "strösocker": [
+    "strö socker"
   ],
   "skrivstilskurs": [
     "skrivstils kurs"
   ],
-  "vÃ¤nfÃ¶rfrÃ¥gningar": [
-    "vÃ¤n fÃ¶rfrÃ¥gningar"
+  "vänförfrågningar": [
+    "vän förfrågningar"
   ],
-  "ljusgrÃ¥": [
-    "ljus grÃ¥"
+  "ljusgrå": [
+    "ljus grå"
   ],
-  "studiestÃ¶d": [
-    "studie stÃ¶d"
+  "studiestöd": [
+    "studie stöd"
   ],
   "bronsstaty": [
     "brons staty"
@@ -6134,35 +6131,35 @@
   "cancerforskningen": [
     "cancer forskningen"
   ],
-  "pÃ¤rlsocker": [
-    "pÃ¤rl socker"
+  "pärlsocker": [
+    "pärl socker"
   ],
   "toppendag": [
     "toppen dag"
   ],
-  "1-Ã¥rskalas": [
-    "1-Ã¥rs kalas"
+  "1-årskalas": [
+    "1-års kalas"
   ],
-  "hundtrÃ¶ja": [
-    "hund trÃ¶ja"
+  "hundtröja": [
+    "hund tröja"
   ],
   "specialfoder": [
     "special foder"
   ],
-  "krigsvÃ¤st": [
-    "krigs vÃ¤st"
+  "krigsväst": [
+    "krigs väst"
   ],
-  "gjutjÃ¤rnssaker": [
-    "gjutjÃ¤rns saker"
+  "gjutjärnssaker": [
+    "gjutjärns saker"
   ],
-  "burfÃ¥ngade": [
-    "bur fÃ¥ngade"
+  "burfångade": [
+    "bur fångade"
   ],
   "shoppingtips": [
     "shopping tips"
   ],
-  "sÃ¤ngklÃ¤desset": [
-    "sÃ¤ngklÃ¤des set"
+  "sängklädesset": [
+    "sängklädes set"
   ],
   "nysattacker": [
     "nys attacker"
@@ -6176,8 +6173,8 @@
   "stretchbyxor": [
     "stretch byxor"
   ],
-  "supersÃ¶t": [
-    "super sÃ¶t"
+  "supersöt": [
+    "super söt"
   ],
   "inredningstidningar": [
     "inrednings tidningar"
@@ -6185,8 +6182,8 @@
   "ordval": [
     "ord val"
   ],
-  "rikschampiondÃ¶ttrar": [
-    "riks champion dÃ¶ttrar"
+  "rikschampiondöttrar": [
+    "riks champion döttrar"
   ],
   "skinnkuddar": [
     "skinn kuddar"
@@ -6215,14 +6212,14 @@
   "stressfri": [
     "stress fri"
   ],
-  "pizzakvÃ¤ll": [
-    "pizza kvÃ¤ll"
+  "pizzakväll": [
+    "pizza kväll"
   ],
   "toppenfest": [
     "toppen fest"
   ],
-  "judotrÃ¤ning": [
-    "judo trÃ¤ning"
+  "judoträning": [
+    "judo träning"
   ],
   "knaskatten": [
     "knas katten"
@@ -6230,8 +6227,8 @@
   "stallbandage": [
     "stall bandage"
   ],
-  "halvdÃ¶d": [
-    "halv dÃ¶d"
+  "halvdöd": [
+    "halv död"
   ],
   "tryckfel": [
     "tryck fel"
@@ -6242,8 +6239,8 @@
   "magnetring": [
     "magnet ring"
   ],
-  "vÃ¤rmeljuslyktor": [
-    "vÃ¤rmeljus lyktor"
+  "värmeljuslyktor": [
+    "värmeljus lyktor"
   ],
   "hundgodissortiment": [
     "hundgodis sortiment"
@@ -6260,8 +6257,8 @@
   "ompysslad": [
     "om pysslad"
   ],
-  "skinnfÃ¤ll": [
-    "skinn fÃ¤ll"
+  "skinnfäll": [
+    "skinn fäll"
   ],
   "frysfack": [
     "frys fack"
@@ -6275,17 +6272,17 @@
   "screentrycksaker": [
     "screentryck saker"
   ],
-  "pollensÃ¤songen": [
-    "pollen sÃ¤songen"
+  "pollensäsongen": [
+    "pollen säsongen"
   ],
   "reklampennor": [
     "reklam pennor"
   ],
-  "hjÃ¤rthalsband": [
-    "hjÃ¤rt halsband"
+  "hjärthalsband": [
+    "hjärt halsband"
   ],
-  "kvalitetsbehÃ¶righet": [
-    "kvalitets behÃ¶righet"
+  "kvalitetsbehörighet": [
+    "kvalitets behörighet"
   ],
   "piltavla": [
     "pil tavla"
@@ -6302,26 +6299,26 @@
   "porslinsservis": [
     "porslins servis"
   ],
-  "regntÃ¤cke": [
-    "regn tÃ¤cke"
+  "regntäcke": [
+    "regn täcke"
   ],
-  "fÃ¤rgbild": [
-    "fÃ¤rg bild"
+  "färgbild": [
+    "färg bild"
   ],
-  "fÃ¶rbli": [
-    "fÃ¶r bli"
+  "förbli": [
+    "för bli"
   ],
-  "lÃ¤derlÃ¥da": [
-    "lÃ¤der lÃ¥da"
+  "läderlåda": [
+    "läder låda"
   ],
   "eftermiddagsplaner": [
     "eftermiddags planer"
   ],
-  "fÃ¶rstagÃ¥ngskunder": [
-    "fÃ¶rsta gÃ¥ngs kunder"
+  "förstagångskunder": [
+    "första gångs kunder"
   ],
-  "fleeceklÃ¤der": [
-    "fleece klÃ¤der"
+  "fleecekläder": [
+    "fleece kläder"
   ],
   "fotokollektion": [
     "foto kollektion"
@@ -6332,14 +6329,14 @@
   "prydnadsgrejer": [
     "prydnads grejer"
   ],
-  "bestickfÃ¶rvaring": [
-    "bestick fÃ¶rvaring"
+  "bestickförvaring": [
+    "bestick förvaring"
   ],
-  "bottenlÃ¶s": [
-    "botten lÃ¶s"
+  "bottenlös": [
+    "botten lös"
   ],
-  "halvdrÃ¶mmer": [
-    "halv drÃ¶mmer"
+  "halvdrömmer": [
+    "halv drömmer"
   ],
   "mobilreparation": [
     "mobil reparation"
@@ -6347,11 +6344,11 @@
   "hemmabiosystem": [
     "hemma bio system"
   ],
-  "skittrÃ¥kigt": [
-    "skit trÃ¥kigt"
+  "skittråkigt": [
+    "skit tråkigt"
   ],
-  "vÃ¤ggdekoration": [
-    "vÃ¤gg dekoration"
+  "väggdekoration": [
+    "vägg dekoration"
   ],
   "tillbaka": [
     "till baka"
@@ -6362,23 +6359,23 @@
   "superskick": [
     "super skick"
   ],
-  "hemgÃ¥ngsrÃ¥det": [
-    "hemgÃ¥ngs rÃ¥det"
+  "hemgångsrådet": [
+    "hemgångs rådet"
   ],
   "tatueringsboken": [
     "tatuerings boken"
   ],
-  "specialisttandlÃ¤kare": [
-    "specialist tandlÃ¤kare"
+  "specialisttandläkare": [
+    "specialist tandläkare"
   ],
-  "tÃ¤vlingsregler": [
-    "tÃ¤vlings regler"
+  "tävlingsregler": [
+    "tävlings regler"
   ],
   "kristallkatt": [
     "kristall katt"
   ],
-  "nÃ¤rliggande": [
-    "nÃ¤r liggande"
+  "närliggande": [
+    "när liggande"
   ],
   "samlingsvolymer": [
     "samlings volymer"
@@ -6392,14 +6389,14 @@
   "fastskruvad": [
     "fast skruvad"
   ],
-  "varmluftsfÃ¶n": [
-    "varmlufts fÃ¶n"
+  "varmluftsfön": [
+    "varmlufts fön"
   ],
   "linnetyg": [
     "linne tyg"
   ],
-  "hushÃ¥llspapper": [
-    "hushÃ¥lls papper"
+  "hushållspapper": [
+    "hushålls papper"
   ],
   "hemknappen": [
     "hem knappen"
@@ -6428,20 +6425,20 @@
   "framsida": [
     "fram sida"
   ],
-  "frisÃ¶rprodukter": [
-    "frisÃ¶r produkter"
+  "frisörprodukter": [
+    "frisör produkter"
   ],
-  "smÃ¤rtsensorer": [
-    "smÃ¤rt sensorer"
+  "smärtsensorer": [
+    "smärt sensorer"
   ],
-  "kvÃ¤llskvisten": [
-    "kvÃ¤lls kvisten"
+  "kvällskvisten": [
+    "kvälls kvisten"
   ],
-  "data&nbsp;skÃ¤rm": [
-    "data&nbsp;skÃ¤rm"
+  "data-skärm": [
+    "data-skärm"
   ],
-  "boxdÃ¶rr": [
-    "box dÃ¶rr"
+  "boxdörr": [
+    "box dörr"
   ],
   "uppfostringsanstalten": [
     "uppfostrings anstalten"
@@ -6449,14 +6446,14 @@
   "styrolitfigurer": [
     "styrolit figurer"
   ],
-  "kondistrÃ¤ning": [
-    "kondis trÃ¤ning"
+  "kondisträning": [
+    "kondis träning"
   ],
   "generationskort": [
     "generations kort"
   ],
-  "nybÃ¶rjarset": [
-    "nybÃ¶rjar set"
+  "nybörjarset": [
+    "nybörjar set"
   ],
   "spamfiltret": [
     "spam filtret"
@@ -6473,14 +6470,14 @@
   "katttoalett": [
     "katt toalett"
   ],
-  "hÃ¥rrÃ¶tter": [
-    "hÃ¥r rÃ¶tter"
+  "hårrötter": [
+    "hår rötter"
   ],
-  "myshumÃ¶r": [
-    "mys humÃ¶r"
+  "myshumör": [
+    "mys humör"
   ],
-  "retinaskÃ¤rm": [
-    "retina skÃ¤rm"
+  "retinaskärm": [
+    "retina skärm"
   ],
   "favoritbyxor": [
     "favorit byxor"
@@ -6488,17 +6485,17 @@
   "patientutbildning": [
     "patient utbildning"
   ],
-  "fÃ¤rgintensitet": [
-    "fÃ¤rg intensitet"
+  "färgintensitet": [
+    "färg intensitet"
   ],
-  "uppehÃ¥lla": [
-    "uppe hÃ¥lla"
+  "uppehålla": [
+    "uppe hålla"
   ],
   "drickyoghurt": [
     "drick yoghurt"
   ],
-  "hÃ¤sthantering": [
-    "hÃ¤st hantering"
+  "hästhantering": [
+    "häst hantering"
   ],
   "standardsvar": [
     "standard svar"
@@ -6509,32 +6506,32 @@
   "konstverk": [
     "konst verk"
   ],
-  "smÃ¥lockigt": [
-    "smÃ¥ lockigt"
+  "smålockigt": [
+    "små lockigt"
   ],
   "garageplats": [
     "garage plats"
   ],
-  "hallmÃ¶bel": [
-    "hall mÃ¶bel"
+  "hallmöbel": [
+    "hall möbel"
   ],
-  "stereobÃ¤nk": [
-    "stereo bÃ¤nk"
+  "stereobänk": [
+    "stereo bänk"
   ],
   "skrivsugen": [
     "skriv sugen"
   ],
-  "supportfrÃ¥gor": [
-    "support frÃ¥gor"
+  "supportfrågor": [
+    "support frågor"
   ],
-  "skÃ¤nkesgrupp": [
-    "skÃ¤nkes grupp"
+  "skänkesgrupp": [
+    "skänkes grupp"
   ],
-  "axelvÃ¤ska": [
-    "axel vÃ¤ska"
+  "axelväska": [
+    "axel väska"
   ],
-  "silverfÃ¤rgad": [
-    "silver fÃ¤rgad"
+  "silverfärgad": [
+    "silver färgad"
   ],
   "sockeravgiftning": [
     "socker avgiftning"
@@ -6551,23 +6548,23 @@
   "kameraobjektiv": [
     "kamera objektiv"
   ],
-  "trafiktrÃ¤ning": [
-    "trafik trÃ¤ning"
+  "trafikträning": [
+    "trafik träning"
   ],
-  "hÃ¶rnsoffa": [
-    "hÃ¶rn soffa"
+  "hörnsoffa": [
+    "hörn soffa"
   ],
-  "omvÃ¥rdnadsbÃ¶cker": [
-    "omvÃ¥rdnads bÃ¶cker"
+  "omvårdnadsböcker": [
+    "omvårdnads böcker"
   ],
-  "mobilmÃ¤rke": [
-    "mobil mÃ¤rke"
+  "mobilmärke": [
+    "mobil märke"
   ],
-  "chokladlÃ¥da": [
-    "choklad lÃ¥da"
+  "chokladlåda": [
+    "choklad låda"
   ],
-  "latexhjÃ¤rta": [
-    "latex hjÃ¤rta"
+  "latexhjärta": [
+    "latex hjärta"
   ],
   "kassaregisterlagen": [
     "kassa registerlagen"
@@ -6578,11 +6575,11 @@
   "handarbetsintresset": [
     "handarbets intresset"
   ],
-  "quillingmÃ¶nster": [
-    "quilling mÃ¶nster"
+  "quillingmönster": [
+    "quilling mönster"
   ],
-  "missbrukarvÃ¥rden": [
-    "missbrukar vÃ¥rden"
+  "missbrukarvården": [
+    "missbrukar vården"
   ],
   "giftfritt": [
     "gift fritt"
@@ -6593,8 +6590,8 @@
   "funktionsgaranti": [
     "funktions garanti"
   ],
-  "hÃ¶stbilder": [
-    "hÃ¶st bilder"
+  "höstbilder": [
+    "höst bilder"
   ],
   "silverknoppar": [
     "silver knoppar"
@@ -6602,8 +6599,8 @@
   "cirkusponny": [
     "cirkus ponny"
   ],
-  "halvdÃ¥lig": [
-    "halv dÃ¥lig"
+  "halvdålig": [
+    "halv dålig"
   ],
   "hundpassning": [
     "hund passning"
@@ -6611,11 +6608,11 @@
   "hemlagade": [
     "hem lagade"
   ],
-  "nÃ¤ttrÃ¶ja": [
-    "nÃ¤t trÃ¶ja"
+  "nättröja": [
+    "nät tröja"
   ],
-  "soppÃ¥sar": [
-    "sop pÃ¥sar"
+  "soppåsar": [
+    "sop påsar"
   ],
   "minneskortfodral": [
     "minneskort fodral"
@@ -6626,32 +6623,32 @@
   "polisbil": [
     "polis bil"
   ],
-  "tuschflÃ¤ck": [
-    "tusch flÃ¤ck"
+  "tuschfläck": [
+    "tusch fläck"
   ],
   "syrenblommor": [
     "syren blommor"
   ],
-  "lyxvÃ¥ning": [
-    "lyx vÃ¥ning"
+  "lyxvåning": [
+    "lyx våning"
   ],
-  "superhÃ¤rlig": [
-    "super hÃ¤rlig"
+  "superhärlig": [
+    "super härlig"
   ],
   "ventilationsmaterial": [
     "ventilations material"
   ],
-  "landstingsomrÃ¥de": [
-    "landstings omrÃ¥de"
+  "landstingsområde": [
+    "landstings område"
   ],
-  "miljÃ¶vÃ¤nligt": [
-    "miljÃ¶ vÃ¤nligt"
+  "miljövänligt": [
+    "miljö vänligt"
   ],
   "filmtips": [
     "film tips"
   ],
-  "mÃ¥ndagskvÃ¤ll": [
-    "mÃ¥ndags kvÃ¤ll"
+  "måndagskväll": [
+    "måndags kväll"
   ],
   "tomteset": [
     "tomte set"
@@ -6674,23 +6671,23 @@
   "kassaproblem": [
     "kassa problem"
   ],
-  "musikkvÃ¤ll": [
-    "musik kvÃ¤ll"
+  "musikkväll": [
+    "musik kväll"
   ],
   "butterkaka": [
     "butter kaka"
   ],
-  "halvtrÃ¶tt": [
-    "halv trÃ¶tt"
+  "halvtrött": [
+    "halv trött"
   ],
-  "rÃ¤ksallad": [
-    "rÃ¤k sallad"
+  "räksallad": [
+    "räk sallad"
   ],
   "nylonsele": [
     "nylon sele"
   ],
-  "arabhÃ¤star": [
-    "arab hÃ¤star"
+  "arabhästar": [
+    "arab hästar"
   ],
   "verksamhetsorterna": [
     "verksamhets orterna"
@@ -6704,17 +6701,17 @@
   "manegeavgift": [
     "manege avgift"
   ],
-  "pÃ¥verka": [
-    "pÃ¥ verka"
+  "påverka": [
+    "på verka"
   ],
   "favoritkattras": [
     "favorit katt ras"
   ],
-  "favoritlÃ¥t": [
-    "favorit lÃ¥t"
+  "favoritlåt": [
+    "favorit låt"
   ],
-  "docktÃ¤cke": [
-    "dock tÃ¤cke"
+  "docktäcke": [
+    "dock täcke"
   ],
   "kortnummer": [
     "kort nummer"
@@ -6725,26 +6722,26 @@
   "virusprogram": [
     "virus program"
   ],
-  "hÃ¤sthalsband": [
-    "hÃ¤st halsband"
+  "hästhalsband": [
+    "häst halsband"
   ],
-  "lÃ¶nehelg": [
-    "lÃ¶ne helg"
+  "lönehelg": [
+    "löne helg"
   ],
   "hemmablinda": [
     "hemma blinda"
   ],
-  "svensklÃ¤xa": [
-    "svensk lÃ¤xa"
+  "svenskläxa": [
+    "svensk läxa"
   ],
-  "tillÃ¤ggsisoleras": [
-    "tillÃ¤ggs isoleras"
+  "tilläggsisoleras": [
+    "tilläggs isoleras"
   ],
-  "sandlÃ¥denivÃ¥": [
-    "sandlÃ¥de nivÃ¥"
+  "sandlådenivå": [
+    "sandlåde nivå"
   ],
-  "akutpÃ¤rm": [
-    "akut pÃ¤rm"
+  "akutpärm": [
+    "akut pärm"
   ],
   "kakfat": [
     "kak fat"
@@ -6752,14 +6749,14 @@
   "paradros": [
     "parad ros"
   ],
-  "fjÃ¤rdeplacering": [
-    "fjÃ¤rde placering"
+  "fjärdeplacering": [
+    "fjärde placering"
   ],
   "garnnystan": [
     "garn nystan"
   ],
-  "fÃ¶rstaplaceringar": [
-    "fÃ¶rsta placeringar"
+  "förstaplaceringar": [
+    "första placeringar"
   ],
   "arabvalack": [
     "arab valack"
@@ -6767,14 +6764,14 @@
   "specialfrukost": [
     "special frukost"
   ],
-  "biljettfÃ¶rsÃ¤ljare": [
-    "biljett fÃ¶rsÃ¤ljare"
+  "biljettförsäljare": [
+    "biljett försäljare"
   ],
-  "toppkvÃ¤ll": [
-    "topp kvÃ¤ll"
+  "toppkväll": [
+    "topp kväll"
   ],
-  "trÃ¤pussel": [
-    "trÃ¤ pussel"
+  "träpussel": [
+    "trä pussel"
   ],
   "uthyres": [
     "ut hyres"
@@ -6782,26 +6779,26 @@
   "massagekudde": [
     "massage kudde"
   ],
-  "varfÃ¶r": [
-    "var fÃ¶r"
+  "varför": [
+    "var för"
   ],
-  "samtalsÃ¤mnen": [
-    "samtals Ã¤mnen"
+  "samtalsämnen": [
+    "samtals ämnen"
   ],
-  "sommarklÃ¤der": [
-    "sommar klÃ¤der"
+  "sommarkläder": [
+    "sommar kläder"
   ],
   "originalobjektiv": [
     "original objektiv"
   ],
-  "jÃ¤tteskÃ¶nt": [
-    "jÃ¤tte skÃ¶nt"
+  "jätteskönt": [
+    "jätte skönt"
   ],
   "ordbehandlingsprogram": [
     "ordbehandlings program"
   ],
-  "pisstrÃ¥kigt": [
-    "piss trÃ¥kigt"
+  "pisstråkigt": [
+    "piss tråkigt"
   ],
   "canonbatteri": [
     "canon batteri"
@@ -6809,8 +6806,8 @@
   "samlartallrikar": [
     "samlar tallrikar"
   ],
-  "slÃ¤ktskap": [
-    "slÃ¤kt skap"
+  "släktskap": [
+    "släkt skap"
   ],
   "mosaikbord": [
     "mosaik bord"
@@ -6830,20 +6827,20 @@
   "barncykel": [
     "barn cykel"
   ],
-  "talesÃ¤tt": [
-    "tale sÃ¤tt"
+  "talesätt": [
+    "tale sätt"
   ],
   "artikelnummer": [
     "artikel nummer"
   ],
-  "trÃ¤triangel": [
-    "trÃ¤ triangel"
+  "trätriangel": [
+    "trä triangel"
   ],
   "glitterdetaljerna": [
     "glitter detaljerna"
   ],
-  "vÃ¤rmelampa": [
-    "vÃ¤rme lampa"
+  "värmelampa": [
+    "värme lampa"
   ],
   "dekorationstejp": [
     "dekorations tejp"
@@ -6857,20 +6854,20 @@
   "matrutiner": [
     "mat rutiner"
   ],
-  "kameratillbehÃ¶r": [
-    "kamera tillbehÃ¶r"
+  "kameratillbehör": [
+    "kamera tillbehör"
   ],
   "oupppackad": [
     "oupp packad"
   ],
-  "rÃ¶kfritt": [
-    "rÃ¶k fritt"
+  "rökfritt": [
+    "rök fritt"
   ],
-  "fÃ¶rsent": [
-    "fÃ¶r sent"
+  "försent": [
+    "för sent"
   ],
-  "Ã¶verspÃ¤nd": [
-    "Ã¶ver spÃ¤nd"
+  "överspänd": [
+    "över spänd"
   ],
   "julklappstips": [
     "julklapps tips"
@@ -6878,14 +6875,14 @@
   "superkallt": [
     "super kallt"
   ],
-  "matchningstjÃ¤nst": [
-    "matchnings tjÃ¤nst"
+  "matchningstjänst": [
+    "matchnings tjänst"
   ],
   "skyddsfaktorer": [
     "skydds faktorer"
   ],
-  "planlÃ¶sning": [
-    "plan lÃ¶sning"
+  "planlösning": [
+    "plan lösning"
   ],
   "microplatta": [
     "micro platta"
@@ -6896,23 +6893,23 @@
   "specialtillverkad": [
     "special tillverkad"
   ],
-  "jordkÃ¤llaren": [
-    "jord kÃ¤llaren"
+  "jordkällaren": [
+    "jord källaren"
   ],
-  "strÃ¶mkabel": [
-    "strÃ¶m kabel"
+  "strömkabel": [
+    "ström kabel"
   ],
   "prisoffert": [
     "pris offert"
   ],
-  "helglunchbuffÃ©": [
-    "helg lunch buffÃ©"
+  "helglunchbuffé": [
+    "helg lunch buffé"
   ],
   "konverteringsomvandlare": [
     "konverterings omvandlare"
   ],
-  "mÃ¤rkessaker": [
-    "mÃ¤rkes saker"
+  "märkessaker": [
+    "märkes saker"
   ],
   "favoritband": [
     "favorit band"
@@ -6926,20 +6923,20 @@
   "aluminiumtejpen": [
     "aluminium tejpen"
   ],
-  "engÃ¥ngskostnad": [
-    "engÃ¥ngs kostnad"
+  "engångskostnad": [
+    "engångs kostnad"
   ],
-  "miniplastpÃ¥sar": [
-    "mini plastpÃ¥sar"
+  "miniplastpåsar": [
+    "mini plastpåsar"
   ],
-  "styrketrÃ¤ningsÃ¶vningar": [
-    "styrketrÃ¤nings Ã¶vningar"
+  "styrketräningsövningar": [
+    "styrketränings övningar"
   ],
-  "pÃ¤rlresa": [
-    "pÃ¤rl resa"
+  "pärlresa": [
+    "pärl resa"
   ],
-  "skjutpÃ¥stÃ¥ng": [
-    "skjut pÃ¥ stÃ¥ng"
+  "skjutpåstång": [
+    "skjut på stång"
   ],
   "hemmamatch": [
     "hemma match"
@@ -6950,8 +6947,8 @@
   "handkraft": [
     "hand kraft"
   ],
-  "brÃ¶stlyft": [
-    "brÃ¶st lyft"
+  "bröstlyft": [
+    "bröst lyft"
   ],
   "championsto": [
     "champion sto"
@@ -6965,8 +6962,8 @@
   "gruppfoto": [
     "grupp foto"
   ],
-  "sÃ¶ndagsstek": [
-    "sÃ¶ndags stek"
+  "söndagsstek": [
+    "söndags stek"
   ],
   "vaniljfudge": [
     "vanilj fudge"
@@ -6974,8 +6971,8 @@
   "allergimedicin": [
     "allergi medicin"
   ],
-  "kattstrÃ¶": [
-    "katt strÃ¶"
+  "kattströ": [
+    "katt strö"
   ],
   "bilresa": [
     "bil resa"
@@ -6986,11 +6983,11 @@
   "fullmatade": [
     "full matade"
   ],
-  "engelsklÃ¤xa": [
-    "engelsk lÃ¤xa"
+  "engelskläxa": [
+    "engelsk läxa"
   ],
-  "bloggtrÃ¤ff": [
-    "blogg trÃ¤ff"
+  "bloggträff": [
+    "blogg träff"
   ],
   "mottog": [
     "mot tog"
@@ -7010,8 +7007,8 @@
   "mobilnummer": [
     "mobil nummer"
   ],
-  "nagelkrÃ¤m": [
-    "nagel krÃ¤m"
+  "nagelkräm": [
+    "nagel kräm"
   ],
   "himmelrike": [
     "himmel rike"
@@ -7019,41 +7016,41 @@
   "ljuslila": [
     "ljus lila"
   ],
-  "jullÃ¶pare": [
-    "jul lÃ¶pare"
+  "jullöpare": [
+    "jul löpare"
   ],
-  "fleecetrÃ¶jor": [
-    "fleece trÃ¶jor"
+  "fleecetröjor": [
+    "fleece tröjor"
   ],
-  "sÃ¶kesannons": [
-    "sÃ¶kes annons"
+  "sökesannons": [
+    "sökes annons"
   ],
-  "sÃ¥nglektion": [
-    "sÃ¥ng lektion"
+  "sånglektion": [
+    "sång lektion"
   ],
   "herrloafers": [
     "herr loafers"
   ],
-  "smÃ¤ltlimspistoler": [
-    "smÃ¤ltlims pistoler"
+  "smältlimspistoler": [
+    "smältlims pistoler"
   ],
   "skinnsoffa": [
     "skinn soffa"
   ],
-  "bestÃ¤llningsstatus": [
-    "bestÃ¤llnings status"
+  "beställningsstatus": [
+    "beställnings status"
   ],
-  "ungdomsbÃ¶cker": [
-    "ungdoms bÃ¶cker"
+  "ungdomsböcker": [
+    "ungdoms böcker"
   ],
-  "slutÃ¤ndan": [
-    "slut Ã¤ndan"
+  "slutändan": [
+    "slut ändan"
   ],
-  "Ã¤pplepaj": [
-    "Ã¤pple paj"
+  "äpplepaj": [
+    "äpple paj"
   ],
-  "sjÃ¤lvklart": [
-    "sjÃ¤lv klart"
+  "självklart": [
+    "själv klart"
   ],
   "hobbyryttare": [
     "hobby ryttare"
@@ -7076,8 +7073,8 @@
   "makeupborstar": [
     "makeup borstar"
   ],
-  "hÃ¥llplats": [
-    "hÃ¥ll plats"
+  "hållplats": [
+    "håll plats"
   ],
   "duschdraperi": [
     "dusch draperi"
@@ -7085,11 +7082,11 @@
   "sovmorgon": [
     "sov morgon"
   ],
-  "trÃ¤ningsrÃ¥d": [
-    "trÃ¤nings rÃ¥d"
+  "träningsråd": [
+    "tränings råd"
   ],
-  "knÃ¶kfullt": [
-    "knÃ¶k fullt"
+  "knökfullt": [
+    "knök fullt"
   ],
   "nypris": [
     "ny pris"
@@ -7097,8 +7094,8 @@
   "garnvinda": [
     "garn vinda"
   ],
-  "fÃ¤rgglada": [
-    "fÃ¤rg glada"
+  "färgglada": [
+    "färg glada"
   ],
   "ljusstake": [
     "ljus stake"
@@ -7127,8 +7124,8 @@
   "bonuskort": [
     "bonus kort"
   ],
-  "plastspÃ¤nnen": [
-    "plast spÃ¤nnen"
+  "plastspännen": [
+    "plast spännen"
   ],
   "arkivpapper": [
     "arkiv papper"
@@ -7136,20 +7133,20 @@
   "dekorationspenna": [
     "dekorations penna"
   ],
-  "skumslÃ¤ckare": [
-    "skum slÃ¤ckare"
+  "skumsläckare": [
+    "skum släckare"
   ],
-  "fÃ¶rbannad": [
-    "fÃ¶r bannad"
+  "förbannad": [
+    "för bannad"
   ],
   "keramikservis": [
     "keramik servis"
   ],
-  "gÃ¥rdagen": [
-    "gÃ¥r dagen"
+  "gårdagen": [
+    "går dagen"
   ],
-  "glasdÃ¶rrar": [
-    "glas dÃ¶rrar"
+  "glasdörrar": [
+    "glas dörrar"
   ],
   "pappersblommor": [
     "pappers blommor"
@@ -7160,29 +7157,29 @@
   "loginikonen": [
     "login ikonen"
   ],
-  "superkvÃ¤ll": [
-    "super kvÃ¤ll"
+  "superkväll": [
+    "super kväll"
   ],
-  "morgoninlÃ¤gg": [
-    "morgon inlÃ¤gg"
+  "morgoninlägg": [
+    "morgon inlägg"
   ],
   "tekaka": [
     "te kaka"
   ],
-  "halvlÃ¥nga": [
-    "halv lÃ¥nga"
+  "halvlånga": [
+    "halv långa"
   ],
-  "tackoskÃ¥l": [
-    "tacko skÃ¥l"
+  "tackoskål": [
+    "tacko skål"
   ],
-  "bananlÃ¥dor": [
-    "banan lÃ¥dor"
+  "bananlådor": [
+    "banan lådor"
   ],
-  "ljusgrÃ¶n": [
-    "ljus grÃ¶n"
+  "ljusgrön": [
+    "ljus grön"
   ],
-  "stardustpÃ¤rlor": [
-    "stardust pÃ¤rlor"
+  "stardustpärlor": [
+    "stardust pärlor"
   ],
   "miniatyrkeramiktavla": [
     "miniatyr keramik tavla"
@@ -7193,17 +7190,17 @@
   "svenskauppgift": [
     "svenska uppgift"
   ],
-  "kvÃ¤llsmat": [
-    "kvÃ¤lls mat"
+  "kvällsmat": [
+    "kvälls mat"
   ],
   "storbak": [
     "stor bak"
   ],
-  "sÃ¶tpotatis": [
-    "sÃ¶t potatis"
+  "sötpotatis": [
+    "söt potatis"
   ],
-  "upphÃ¶r": [
-    "upp hÃ¶r"
+  "upphör": [
+    "upp hör"
   ],
   "barndomsminnen": [
     "barndoms minnen"
@@ -7211,41 +7208,41 @@
   "kvalitetblixtar": [
     "kvalitet blixtar"
   ],
-  "inredningsfÃ¶rslag": [
-    "inrednings fÃ¶rslag"
+  "inredningsförslag": [
+    "inrednings förslag"
   ],
   "surlimpa": [
     "sur limpa"
   ],
-  "undersÃ¶kningsplikt": [
-    "undersÃ¶knings plikt"
+  "undersökningsplikt": [
+    "undersöknings plikt"
   ],
   "minimumbidraget": [
     "minimum bidraget"
   ],
-  "ridlÃ¤gerveckan": [
-    "ridlÃ¤ger veckan"
+  "ridlägerveckan": [
+    "ridläger veckan"
   ],
-  "flickrumsmÃ¶bler": [
-    "flickrums mÃ¶bler"
+  "flickrumsmöbler": [
+    "flickrums möbler"
   ],
-  "djurskÃ¶tare": [
-    "djur skÃ¶tare"
+  "djurskötare": [
+    "djur skötare"
   ],
-  "utstÃ¤llningssÃ¤songen": [
-    "utstÃ¤llnings sÃ¤songen"
+  "utställningssäsongen": [
+    "utställnings säsongen"
   ],
   "biljettkontoret": [
     "biljett kontoret"
   ],
-  "kameraskÃ¤rmen": [
-    "kamera skÃ¤rmen"
+  "kameraskärmen": [
+    "kamera skärmen"
   ],
   "troligtvis": [
     "troligt vis"
   ],
-  "smÃ¥plock": [
-    "smÃ¥ plock"
+  "småplock": [
+    "små plock"
   ],
   "hemmabakade": [
     "hemma bakade"
@@ -7262,17 +7259,17 @@
   "sommarlunch": [
     "sommar lunch"
   ],
-  "morgonhumÃ¶r": [
-    "morgon humÃ¶r"
+  "morgonhumör": [
+    "morgon humör"
   ],
   "polaroidfilter": [
     "polaroid filter"
   ],
-  "klÃ¤dgarderob": [
-    "klÃ¤d garderob"
+  "klädgarderob": [
+    "kläd garderob"
   ],
-  "spontankÃ¶p": [
-    "spontan kÃ¶p"
+  "spontanköp": [
+    "spontan köp"
   ],
   "datakurs": [
     "data kurs"
@@ -7280,62 +7277,62 @@
   "standardfotopapper": [
     "standard fotopapper"
   ],
-  "avbestÃ¤llningsavgift": [
-    "avbestÃ¤llnings avgift"
+  "avbeställningsavgift": [
+    "avbeställnings avgift"
   ],
   "komotiv": [
     "ko motiv"
   ],
-  "snabblÃ¤nkar": [
-    "snabb lÃ¤nkar"
+  "snabblänkar": [
+    "snabb länkar"
   ],
-  "trÃ¤ningsskor": [
-    "trÃ¤nings skor"
+  "träningsskor": [
+    "tränings skor"
   ],
-  "Ã¥ratal": [
-    "Ã¥ra tal"
+  "åratal": [
+    "åra tal"
   ],
-  "pappersfÃ¶rvaringsstÃ¤ll": [
-    "pappersfÃ¶rvarings stÃ¤ll"
+  "pappersförvaringsställ": [
+    "pappersförvarings ställ"
   ],
-  "sÃ¤llskapsspelet": [
-    "sÃ¤llskaps spelet"
+  "sällskapsspelet": [
+    "sällskaps spelet"
   ],
   "superpigg": [
     "super pigg"
   ],
-  "hÃ¤stschampo": [
-    "hÃ¤st schampo"
+  "hästschampo": [
+    "häst schampo"
   ],
-  "skolbÃ¶cker": [
-    "skol bÃ¶cker"
+  "skolböcker": [
+    "skol böcker"
   ],
   "legobitar": [
     "lego bitar"
   ],
-  "glasljushÃ¥llare": [
-    "glasljus hÃ¥llare"
+  "glasljushållare": [
+    "glasljus hållare"
   ],
   "supermysig": [
     "super mysig"
   ],
-  "dvÃ¤rgspetsvalpar": [
-    "dvÃ¤rgspets valpar"
+  "dvärgspetsvalpar": [
+    "dvärgspets valpar"
   ],
   "skumbanan": [
     "skum banan"
   ],
-  "platÃ¥sandaler": [
-    "platÃ¥ sandaler"
+  "platåsandaler": [
+    "platå sandaler"
   ],
-  "kÃ¶ptips": [
-    "kÃ¶p tips"
+  "köptips": [
+    "köp tips"
   ],
-  "utstÃ¤llningshÃ¤st": [
-    "utstÃ¤llnings hÃ¤st"
+  "utställningshäst": [
+    "utställnings häst"
   ],
-  "kortÃ¤rmade": [
-    "kort Ã¤rmade"
+  "kortärmade": [
+    "kort ärmade"
   ],
   "extrapris": [
     "extra pris"
@@ -7355,26 +7352,26 @@
   "basmatte": [
     "bas matte"
   ],
-  "slÃ¤ktforskning": [
-    "slÃ¤kt forskning"
+  "släktforskning": [
+    "släkt forskning"
   ],
-  "stenhÃ¥rd": [
-    "sten hÃ¥rd"
+  "stenhård": [
+    "sten hård"
   ],
-  "beslutsÃ¥ngest": [
-    "besluts Ã¥ngest"
+  "beslutsångest": [
+    "besluts ångest"
   ],
-  "jÃ¤ttetrevligt": [
-    "jÃ¤tte trevligt"
+  "jättetrevligt": [
+    "jätte trevligt"
   ],
-  "smyckestÃ¥ngset": [
-    "smyckes tÃ¥ng set"
+  "smyckestångset": [
+    "smyckes tång set"
   ],
   "furubord": [
     "furu bord"
   ],
-  "adressfÃ¶rteckning": [
-    "adress fÃ¶rteckning"
+  "adressförteckning": [
+    "adress förteckning"
   ],
   "chokladkaka": [
     "choklad kaka"
@@ -7382,8 +7379,8 @@
   "kattbrosch": [
     "katt brosch"
   ],
-  "Ã¶ppettider": [
-    "Ã¶ppet tider"
+  "öppettider": [
+    "öppet tider"
   ],
   "barbierosa": [
     "barbie rosa"
@@ -7391,44 +7388,44 @@
   "vattenbilder": [
     "vatten bilder"
   ],
-  "kvÃ¤llsyogan": [
-    "kvÃ¤lls yogan"
+  "kvällsyogan": [
+    "kvälls yogan"
   ],
-  "pepparkaksklÃ¤nning": [
-    "pepparkaks klÃ¤nning"
+  "pepparkaksklänning": [
+    "pepparkaks klänning"
   ],
-  "fÃ¤rginstÃ¤llning": [
-    "fÃ¤rg instÃ¤llning"
+  "färginställning": [
+    "färg inställning"
   ],
-  "amatÃ¶rbild": [
-    "amatÃ¶r bild"
+  "amatörbild": [
+    "amatör bild"
   ],
-  "tÃ¤ljstensunderlÃ¤gg": [
-    "tÃ¤ljstens underlÃ¤gg"
+  "täljstensunderlägg": [
+    "täljstens underlägg"
   ],
-  "Ã¶vernattningsmÃ¶jlighet": [
-    "Ã¶vernattnings mÃ¶jlighet"
+  "övernattningsmöjlighet": [
+    "övernattnings möjlighet"
   ],
-  "dÃ¤rifrÃ¥n": [
-    "dÃ¤r ifrÃ¥n"
+  "därifrån": [
+    "där ifrån"
   ],
-  "lÃ¥ngkok": [
-    "lÃ¥ng kok"
+  "långkok": [
+    "lång kok"
   ],
   "vildsvinskotletter": [
     "vildsvins kotletter"
   ],
-  "konfirmationslÃ¤sning": [
-    "konfirmations lÃ¤sning"
+  "konfirmationsläsning": [
+    "konfirmations läsning"
   ],
   "julfina": [
     "jul fina"
   ],
-  "stereofÃ¶rstÃ¤rkare": [
-    "stereo fÃ¶rstÃ¤rkare"
+  "stereoförstärkare": [
+    "stereo förstärkare"
   ],
-  "ordfÃ¶randebloggen": [
-    "ordfÃ¶rande bloggen"
+  "ordförandebloggen": [
+    "ordförande bloggen"
   ],
   "morgonportion": [
     "morgon portion"
@@ -7439,14 +7436,14 @@
   "dockhus": [
     "dock hus"
   ],
-  "mÃ¶belfÃ¶retag": [
-    "mÃ¶bel fÃ¶retag"
+  "möbelföretag": [
+    "möbel företag"
   ],
-  "amatÃ¶rarkeolog": [
-    "amatÃ¶r arkeolog"
+  "amatörarkeolog": [
+    "amatör arkeolog"
   ],
-  "datortillbehÃ¶r": [
-    "dator tillbehÃ¶r"
+  "datortillbehör": [
+    "dator tillbehör"
   ],
   "tillbakablickar": [
     "tillbaka blickar"
@@ -7454,14 +7451,14 @@
   "storebror": [
     "store bror"
   ],
-  "kÃ¤rleksfronten": [
-    "kÃ¤rleks fronten"
+  "kärleksfronten": [
+    "kärleks fronten"
   ],
   "originalladdare": [
     "original laddare"
   ],
-  "magÃ¥komma": [
-    "mag Ã¥komma"
+  "magåkomma": [
+    "mag åkomma"
   ],
   "skrittpass": [
     "skritt pass"
@@ -7472,35 +7469,35 @@
   "tillbakadragen": [
     "tillbaka dragen"
   ],
-  "huggtÃ¤nder": [
-    "hugg tÃ¤nder"
+  "huggtänder": [
+    "hugg tänder"
   ],
-  "hetsÃ¤ter": [
-    "hets Ã¤ter"
+  "hetsäter": [
+    "hets äter"
   ],
-  "krÃ¤pppapper": [
-    "krÃ¤pp papper"
+  "kräpppapper": [
+    "kräpp papper"
   ],
-  "jÃ¤tteaktiv": [
-    "jÃ¤tte aktiv"
+  "jätteaktiv": [
+    "jätte aktiv"
   ],
   "exponeringsmaterial": [
     "exponerings material"
   ],
-  "trÃ¤ningstips": [
-    "trÃ¤nings tips"
+  "träningstips": [
+    "tränings tips"
   ],
   "inspirationsmagasin": [
     "inspirations magasin"
   ],
-  "halvÃ¥r": [
-    "halv Ã¥r"
+  "halvår": [
+    "halv år"
   ],
   "favoritleksaken": [
     "favorit leksaken"
   ],
-  "jÃ¤tteenkel": [
-    "jÃ¤tte enkel"
+  "jätteenkel": [
+    "jätte enkel"
   ],
   "datorstol": [
     "dator stol"
@@ -7508,8 +7505,8 @@
   "nanoglas": [
     "nano glas"
   ],
-  "gymtrÃ¤ning": [
-    "gym trÃ¤ning"
+  "gymträning": [
+    "gym träning"
   ],
   "universumbild": [
     "universum bild"
@@ -7520,38 +7517,38 @@
   "minitennis": [
     "mini tennis"
   ],
-  "mattelÃ¤xa": [
-    "matte lÃ¤xa"
+  "matteläxa": [
+    "matte läxa"
   ],
   "klartext": [
     "klar text"
   ],
-  "trÃ¤pellets": [
-    "trÃ¤ pellets"
+  "träpellets": [
+    "trä pellets"
   ],
-  "slÃ¤ktforskarprogram": [
-    "slÃ¤ktforskar program"
+  "släktforskarprogram": [
+    "släktforskar program"
   ],
-  "dressyrhÃ¤st": [
-    "dressyr hÃ¤st"
+  "dressyrhäst": [
+    "dressyr häst"
   ],
-  "prisfÃ¶rslag": [
-    "pris fÃ¶rslag"
+  "prisförslag": [
+    "pris förslag"
   ],
-  "tolvÃ¥rings": [
-    "tolv Ã¥rings"
+  "tolvårings": [
+    "tolv årings"
   ],
-  "svartvitmÃ¶nstrad": [
-    "svart vit mÃ¶nstrad"
+  "svartvitmönstrad": [
+    "svart vit mönstrad"
   ],
   "skitsnygga": [
     "skit snygga"
   ],
-  "svÃ¤rmorstunga": [
-    "svÃ¤rmors tunga"
+  "svärmorstunga": [
+    "svärmors tunga"
   ],
-  "fÃ¶rstahandsval": [
-    "fÃ¶rstahands val"
+  "förstahandsval": [
+    "förstahands val"
   ],
   "badshop": [
     "bad shop"
@@ -7577,11 +7574,11 @@
   "bank-kontonummer": [
     "bank-konto nummer"
   ],
-  "trygghetsfÃ¶rsÃ¤kring": [
-    "trygghets fÃ¶rsÃ¤kring"
+  "trygghetsförsäkring": [
+    "trygghets försäkring"
   ],
-  "informationsturnÃ©": [
-    "informations turnÃ©"
+  "informationsturné": [
+    "informations turné"
   ],
   "herrboxer": [
     "herr boxer"
@@ -7592,14 +7589,14 @@
   "fototips": [
     "foto tips"
   ],
-  "Ã¥skprognoskartan": [
-    "Ã¥sk prognos kartan"
+  "åskprognoskartan": [
+    "åsk prognos kartan"
   ],
   "solskyddet": [
     "sol skyddet"
   ],
-  "silverplÃ¤terad": [
-    "silver plÃ¤terad"
+  "silverpläterad": [
+    "silver pläterad"
   ],
   "vikinstruktioner": [
     "vik instruktioner"
@@ -7607,20 +7604,20 @@
   "vattenbaserat": [
     "vatten baserat"
   ],
-  "nÃ¤tverkskurser": [
-    "nÃ¤tverks kurser"
+  "nätverkskurser": [
+    "nätverks kurser"
   ],
   "glansdagar": [
     "glans dagar"
   ],
-  "Ã¥rstid": [
-    "Ã¥rs tid"
+  "årstid": [
+    "års tid"
   ],
   "pannkakslunch": [
     "pannkaks lunch"
   ],
-  "kÃ¶ttsÃ¥r": [
-    "kÃ¶tt sÃ¥r"
+  "köttsår": [
+    "kött sår"
   ],
   "helkroppsdusch": [
     "hel kropps dusch",
@@ -7635,29 +7632,29 @@
   "heltokig": [
     "hel tokig"
   ],
-  "fyndlÃ¥da": [
-    "fynd lÃ¥da"
+  "fyndlåda": [
+    "fynd låda"
   ],
   "kattprylar": [
     "katt prylar"
   ],
-  "kvÃ¤llspromenad": [
-    "kvÃ¤lls promenad"
+  "kvällspromenad": [
+    "kvälls promenad"
   ],
   "detsamma": [
     "det samma"
   ],
-  "vÃ¥rvÃ¤ska": [
-    "vÃ¥r vÃ¤ska"
+  "vårväska": [
+    "vår väska"
   ],
   "tillsammans": [
     "till sammans"
   ],
-  "sÃ¤rskriva": [
-    "sÃ¤r skriva"
+  "särskriva": [
+    "sär skriva"
   ],
-  "sÃ¤rskrivning": [
-    "sÃ¤r skrivning"
+  "särskrivning": [
+    "sär skrivning"
   ],
   "kompileringsfel": [
     "kompilerings fel"
