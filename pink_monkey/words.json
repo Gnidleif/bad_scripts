@@ -1,0 +1,41 @@
+{
+	"bad":{
+		"noun": [
+			"vithetskonstruktion",
+			"hackordning",
+			"existentiellt hot",
+			"medhjälp till förtryck",
+			"privilegieposition",
+			"minoritetsägande",
+			"falsk mångfald",
+			"tokenism"
+		],
+		"adjective": [
+			"utraderande",
+			"akademiskt utestängande"
+		]
+	},
+	"neutral": {
+		"noun": [
+			"erfarenheter",
+			"delade erfarenheter",
+			"upplevelser",
+			"delade upplevelser",
+			"identitetsdefinition",
+			"queerindivid"
+		],
+		"adjective": []
+	},
+	"good": {
+		"noun": [
+			"förensligad kropp",
+			"solidaritetsuppfattning",
+			"lyssna och lära",
+			"medvetenhet",
+			"a posteriori-kunskap"
+		],
+		"adjective": [
+			"hierarkiutmanande"
+		]
+	}
+}
