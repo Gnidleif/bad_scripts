@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import sys
 from random import randint
 
 keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
@@ -29,20 +28,19 @@ def randChar(c):
         
     return c
     
-if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("usage: {} <percent> <args..>".format(sys.argv[0]))
+def run(args):
+    if type(args) is not list or len(args) < 2:
+        print("usage: {} <percent> <args...>".format(__file__))
         exit(1337)
-
-    try:
-        percent = int(sys.argv[1]) % 100
-    except Exception as e:
-        print("Exception: {}".format(e))
-        exit(1337)
-    
-    for cmd in sys.argv[2:]:
+        
+    percent = int(args[0]) % 100
+    for cmd in args[1:]:
         cmd = list(cmd)
         for i in range(len(cmd)):
             if randint(1, 100) <= percent:
                 cmd[i] = randChar(cmd[i])
         print("".join(cmd))
+    
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])

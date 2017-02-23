@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys
+import os
 from random import randint
 
 def randomize(data):
@@ -14,17 +14,24 @@ def makeProverb(data):
     tail = " ".join(second[int(len(second) / 2):])
 
     return "{} {}".format(head, tail)
-
-if __name__ == "__main__":
-    amount = 1
-    try:
-        if len(sys.argv) > 1:
-            amount = int(sys.argv[1])
-    except Exception as e:   
-        print("Exception: {}".format(e))
+    
+def run(args):
+    if args is None:
+        print("usage: {} <amount>".format(__file__))
+        exit(1337)
+    if type(args) is not list:
+        args = [args]
+        
+    amount = int(args[0])
+    path = os.path.abspath(__file__)
+    scr_name = os.path.basename(__file__)
+    with open(path.replace(scr_name, "list_proverbs.txt"), 'r') as f:
+        data = f.read().splitlines()
     
     for i in range(amount):
-        with open("list_proverbs.txt") as f:
-                data = f.read().splitlines()
-
         print("{}: {}".format(i + 1, makeProverb(data)))
+        
+if __name__ == "__main__":
+    import sys
+    run(sys.argv[1:])
+
