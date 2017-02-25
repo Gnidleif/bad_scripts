@@ -21,15 +21,15 @@ def run(args):
         exit(1337)
     if type(args) is not list:
         args = [args]
-        
+
     amount = int(args[0])
     path = os.path.abspath(__file__)
     scr_name = os.path.basename(__file__)
     with open(path.replace(scr_name, "list_proverbs.txt"), 'r') as f:
         data = f.read().splitlines()
-    
+ 
     for i in range(amount):
-        print("{}: {}".format(i + 1, makeProverb(data)))
+        print(makeProverb(data))
         
 if __name__ == "__main__":
     import sys

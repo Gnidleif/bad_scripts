@@ -2,8 +2,21 @@
 import json, re, os
 from random import randint
 
-def chooseWord(words):
-    return True
+def randomWord(words):
+    return words[randint(0, len(words)-1)]
+
+def randomPhrase(phrases):
+    return phrases[randint(0, len(phrases)-1)]
+
+def madLibPhrase(phrase, words):
+    rgx = re.compile(r'(NOUN|ADJECTIVE|VERB)')
+
+    m = re.search(rgx, phrase)
+    while m is not None:
+        head, body, tail = phrase[:m.span()[0]], phrase[m.span()[0]:m.span()[1]], phrase[m.span()[1]:]
+        phrase = "".join([head, randomWord(words[body]), tail])
+        m = re.search(rgx, phrase)
+    return phrase
 
 def run(args):
     if args is None:
@@ -20,13 +33,14 @@ def run(args):
     with open(path.replace(scr_name, "phrases.txt"), 'r') as f:
         phrases = f.read().split('\n')
 
-    for mood in words:
-        for cls in words[mood]:
-            for word in words[mood][cls]:
-                print(word)
+    amount = 1
+    if args[0]:
+        amount = int(args[0])
 
-    for phrase in phrases:
-        print(phrase)
+    result = []
+    for i in range(amount):
+        result.append(madLibPhrase(randomPhrase(phrases), words))
+    print(" ".join(result))
 
 if __name__ == "__main__":
     import sys

@@ -40,7 +40,6 @@ def run(args):
             print("TypeError: {}".format(te))
             continue
         except Exception as e:
-            print("Exception: {}".format(e))
             continue
         print("{} = {}".format(cmd, res))
     
