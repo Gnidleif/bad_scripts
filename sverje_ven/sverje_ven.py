@@ -72,7 +72,7 @@ def run(args):
         try:
             with open(cmd, 'r') as f:
                 data = f.read()
-        except FileNotFoundError as e:
+        except Exception:
             data = cmd
 
         outfile = path.replace(scr_name, "out.txt")

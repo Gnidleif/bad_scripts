@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from random import randint
 
-keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
+keys = ["qwertyuiopå", "QWERTYUIOPÅ", "asdfghjklöä", "ASDFGHJKLÖÄ", "zxcvbnm", "ZXCVBNM", "1234567890"]
 
 def randChar(c):
     part = -1
@@ -33,7 +33,7 @@ def run(args):
         print("usage: {} <percent> <args...>".format(__file__))
         exit(1337)
         
-    percent = int(args[0]) % 100
+    percent = int(args[0]) % 101
     for cmd in args[1:]:
         cmd = list(cmd)
         for i in range(len(cmd)):
