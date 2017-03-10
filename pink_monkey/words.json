@@ -19,11 +19,56 @@
 		"lyssna och lära",
 		"medvetenhet",
 		"a posteriori-kunskap"
+		"diskursanalys"
+		"erfarenheter"
+		"sexistsemantik"
+		"normkritik"
+		"empowerment"
+		"aspekter"
+		"medvetandegörande"
+		"kapital"
+		"sociokulturell matris"
+		"socialisation"
+		"genus-bias"
+		"explicita artefakter och koder"
+		"förkroppsligande"
+		"performativitet"
 	],
 	"ADJECTIVE": [
 		"utraderande",
 		"akademiskt utestängande",
 		"hierarkiutmanande"
+		"analytiskt"
+		"respektfullt"
+		"värdigt"
+		"normkritiskt"
+		"feministisk-didaktisk"
+		"erfarenhetsmässigt"
+		"fallosliknande"
+		"materialistiskt"
+		"androcentriskt"
+		"dualistiskt"
+		"socialkonstruktivistiskt"
+		"kritiskt"
+		"explicit"
+		"androgyniserat"
+		"femininint"
+		"manskodad"
+		"könsöverskridande"
+		"epistemiologisk"
+		"
 	],
-	"VERB": []
+	"VERB": [
+		"synliggöra"
+		"analysera"
+		"uttrycka"
+		"kritisera"
+		"tolka"
+		"uppleva"
+		"inrymma"
+		"åstadkomma"
+		"exkludera"
+		"symbolisera"
+		"belysa"
+	],
 }
