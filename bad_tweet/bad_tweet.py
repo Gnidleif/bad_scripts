@@ -28,10 +28,10 @@ def run(args):
     buf = []
     for c in msg:
         buf.append(c)
-        if len(buf) == 110:
+        tweet = handle + ' ' + ''.join(buf)
+        if len(tweet) == 139:
             try:
                 status = None
-                tweet = handle + ' ' + ''.join(buf)
                 if status_id is None:
                     status = api.update_status(tweet)
                 else:
