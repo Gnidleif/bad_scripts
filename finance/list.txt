@@ -32,7 +32,6 @@ CLF
 CLP
 CNH
 CNY
-Con
 COP
 CRC
 CUP

@@ -38,7 +38,7 @@ def run(args):
         amount = int(args[0])
 
     result = []
-    for i in range(amount+1):
+    for i in range(amount):
         result.append(madLibPhrase(randomPhrase(phrases), words))
     print(" ".join(result))
 
