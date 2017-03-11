@@ -21,22 +21,38 @@ def run(args):
         print("Handle needs to start with @")
         exit(1337)
 
+    url = None
+    status_id = None
     count = 1
     msg = str(args[1])
     buf = []
     for c in msg:
         buf.append(c)
-        if len(buf) == 100:
+        if len(buf) == 110:
             try:
-                api.update_status(handle + ' ' + ''.join(buf))
+                status = None
+                tweet = handle + ' ' + ''.join(buf)
+                if status_id is None:
+                    status = api.update_status(tweet)
+                else:
+                    status = api.update_status(tweet, status_id)
+                status_id = status.id
+
                 count += 1
                 buf = []
             except tweepy.error.TweepError:
                 buf = []
                 continue
 
-    api.update_status(handle + ' ' + ''.join(buf))
-    print(str(count) + " tweet(s) sent to " + handle)
+    tweet = handle + ' ' + ''.join(buf)
+    if status_id is None:
+        api.update_status(tweet)
+    else:
+        status = api.update_status(tweet, status_id)
+    status_id = status.id
+
+    url = "https://www.twitter.com/" + creds["name"] + "/status/" + str(status_id)
+    print(str(count) + " tweet(s) sent to " + handle + ". Find it here: " + url)
 
 if __name__ == "__main__":
     import sys
