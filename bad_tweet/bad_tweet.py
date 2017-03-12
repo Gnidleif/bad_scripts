@@ -2,9 +2,11 @@
 import tweepy, json, os, re
 
 def run(args):
-    if type(args) is not list or len(args) < 2:
-        print("usage: {} <handle> <text>".format(__file__))
+    if args is None:
+        print("usage: {} <text>".format(__file__))
         exit(1337)
+    if type(args) is not list:
+        args = [args]
 
     path = os.path.abspath(__file__)
     scr_name = os.path.basename(__file__)
@@ -15,44 +17,44 @@ def run(args):
     auth.set_access_token(creds["access"]["key"], creds["access"]["secret"])
     api = tweepy.API(auth)
 
-    rgx = re.compile(r'^@')
-    handle = str(args[0])
-    if re.search(rgx, handle) is None:
-        print("Handle needs to start with @")
-        exit(1337)
-
-    url = None
     status_id = None
+    reply_id = int(args[1])
+    try:
+        reply_status = api.get_status(reply_id)
+        if reply_status.id == reply_id:
+            status_id = reply_status.id
+    except:
+        args[1] = "-1"
+
     count = 1
-    msg = str(args[1])
     buf = []
-    for c in msg:
-        buf.append(c)
-        tweet = handle + ' ' + ''.join(buf)
-        if len(tweet) == 139:
+    split = str(args[0]).split(' ')
+    for i in range(len(split)):
+        buf.append(split[i])
+        if i < len(split) - 1 and len(' '.join(buf) + ' ' + split[i+1]) > 140:
             try:
                 status = None
+                tweet = ' '.join(buf)
                 if status_id is None:
                     status = api.update_status(tweet)
                 else:
                     status = api.update_status(tweet, status_id)
                 status_id = status.id
-
                 count += 1
                 buf = []
+
             except tweepy.error.TweepError:
                 buf = []
-                continue
 
-    tweet = handle + ' ' + ''.join(buf)
+    tweet = ' '.join(buf)
+    status = None
     if status_id is None:
-        api.update_status(tweet)
+        status = api.update_status(tweet)
     else:
         status = api.update_status(tweet, status_id)
     status_id = status.id
-
     url = "https://www.twitter.com/" + creds["name"] + "/status/" + str(status_id)
-    print(str(count) + " tweet(s) sent to " + handle + ". Find it here: " + url)
+    print(str(count) + " tweet(s) sent. URL: " + url)
 
 if __name__ == "__main__":
     import sys
