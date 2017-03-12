@@ -52,7 +52,11 @@
 		"sentiment",
 		"kulturell hegemoni",
 		"dekonstruktion av medvetandet",
-		"sociolekt"
+		"sociolekt",		
+		"transparensdiskurs",
+		"affinitet",
+		"formativt",
+		"förskjutning"
 	],
 	"ADJECTIVE": [
 		"utraderande",
@@ -87,7 +91,8 @@
 		"underliggande",
 		"bakomliggande",
 		"internaliserad",
-		"kontextuell"
+		"kontextuell",
+		"diskursanalytiska"
 	],
 	"VERB": [
 		"synliggöra",
