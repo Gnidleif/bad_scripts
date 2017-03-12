@@ -31,7 +31,7 @@ def run(args):
         words = json.load(f)
 
     with open(path.replace(scr_name, "phrases.txt"), 'r') as f:
-        phrases = f.read().split('\n')
+        phrases = f.read().splitlines()
 
     amount = 1
     if args[0]:

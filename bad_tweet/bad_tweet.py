@@ -33,12 +33,8 @@ def run(args):
         buf.append(split[i])
         if i < len(split) - 1 and len(' '.join(buf) + ' ' + split[i+1]) > 140:
             try:
-                status = None
                 tweet = ' '.join(buf)
-                if status_id is None:
-                    status = api.update_status(tweet)
-                else:
-                    status = api.update_status(tweet, status_id)
+                status = api.update_status(tweet) if status_id is None else api.update_status(tweet, status_id)
                 status_id = status.id
                 count += 1
                 buf = []
@@ -47,11 +43,7 @@ def run(args):
                 buf = []
 
     tweet = ' '.join(buf)
-    status = None
-    if status_id is None:
-        status = api.update_status(tweet)
-    else:
-        status = api.update_status(tweet, status_id)
+    status = api.update_status(tweet) if status_id is None else api.update_status(tweet, status_id)
     status_id = status.id
     url = "https://www.twitter.com/" + creds["name"] + "/status/" + str(status_id)
     print(str(count) + " tweet(s) sent. URL: " + url)
