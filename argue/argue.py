@@ -12,6 +12,7 @@ def madLibPhrase(phrase, words):
     cls = re.compile(r'(NOUN|ADJECTIVE|VERB)') # Finds proper word class
     form = re.compile(r'(DEF|IND)_')
     end = re.compile(r'\|(en|et|t|n)$')
+    rmv = re.compile(r'\|')
     m = re.search(cls, phrase)
 
     while m is not None:
@@ -28,7 +29,7 @@ def madLibPhrase(phrase, words):
 
         if len(head) == 0:
             word = word.capitalize()
-        phrase = "".join([head, re.sub(r'\|', '', word), tail])
+        phrase = "".join([head, re.sub(rmv, '', word), tail])
         m = re.search(cls, phrase)
         n = re.search(form, phrase)
     return phrase
