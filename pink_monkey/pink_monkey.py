@@ -9,13 +9,28 @@ def randomPhrase(phrases):
     return phrases[randint(0, len(phrases)-1)]
 
 def madLibPhrase(phrase, words):
-    rgx = re.compile(r'(NOUN|ADJECTIVE|VERB)')
+    cls = re.compile(r'(NOUN|ADJECTIVE|VERB)') # Finds proper word class
+    form = re.compile(r'(DEF|IND)_')
+    end = re.compile(r'\|(en|et|t|n)$')
+    m = re.search(cls, phrase)
 
-    m = re.search(rgx, phrase)
     while m is not None:
         head, body, tail = phrase[:m.span()[0]], phrase[m.span()[0]:m.span()[1]], phrase[m.span()[1]:]
-        phrase = "".join([head, randomWord(words[body]), tail])
-        m = re.search(rgx, phrase)
+        word = randomWord(words[body])
+
+        # Handle noun cases
+        if m.group() == "NOUN":
+            n = re.search(form, head)
+            head = head[:-len(n.group())]
+            if n.group() == "IND_":
+                o = re.search(end, word)
+                word = word[:-len(o.group())]
+
+        if len(head) == 0:
+            word = word.capitalize()
+        phrase = "".join([head, re.sub(r'\|', '', word), tail])
+        m = re.search(cls, phrase)
+        n = re.search(form, phrase)
     return phrase
 
 def run(args):
