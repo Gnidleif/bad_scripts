@@ -34,23 +34,25 @@ def madLibPhrase(phrase, words):
     return phrase
 
 def run(args):
-    if args is None:
-        print("usage: {} <sentence amount>".format(__file__))
+    if type(args) is not list or len(args) < 1:
+        print("usage: {} <personality> <amount>".format(__file__))
         exit(1337)
-    if type(args) is not list:
-        args = [args]
 
     path = os.path.abspath(__file__)
     scr_name = os.path.basename(__file__)
-    with open(path.replace(scr_name, "words.json"), 'r') as f:
+    if not os.path.isdir(path.replace(scr_name, args[0])):
+        print("directory {} doesn't exist".format(args[0]))
+        exit(1337)
+
+    with open(path.replace(scr_name, "{}/words.json".format(args[0])), 'r') as f:
         words = json.load(f)
 
-    with open(path.replace(scr_name, "phrases.txt"), 'r') as f:
+    with open(path.replace(scr_name, "{}/phrases.txt".format(args[0])), 'r') as f:
         phrases = f.read().splitlines()
 
     amount = 1
-    if args[0]:
-        amount = int(args[0])
+    if args[1]:
+        amount = int(args[1])
 
     result = []
     for i in range(amount):
