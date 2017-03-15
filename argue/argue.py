@@ -41,7 +41,7 @@ def run(args):
 
     path = os.path.abspath(__file__)
     scr_name = os.path.basename(__file__)
-    if not os.path.isdir(path.replace(scr_name, args[0])):
+    if not os.path.isdir(path.replace(scr_name, args[0])) or re.match(r'\W', args[0]):
         print("directory {} doesn't exist".format(args[0]))
         exit(1337)
 
