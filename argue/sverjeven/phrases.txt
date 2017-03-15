@@ -1,4 +1,4 @@
-Hans enda VERB var att utmana DEF_NOUN och deras ADJECTIVE NOUN.
+Hans enda VERB var att utmana DEF_NOUN och deras ADJECTIVE IND_NOUN.
 Låt er aldrig VERBs och lämna inget utrymme för den ADJECTIVE DEF_NOUN och deras IND_NOUN.
 DEF_NOUN vrider sig ut och in för att behålla skygglapparna på när det kommer till DEF_NOUN.
 DEF_NOUN och dess hantlangare VERB svenskar genom att VERB dem till tystnad.
