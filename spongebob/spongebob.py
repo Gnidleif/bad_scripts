@@ -3,6 +3,10 @@
 import re
 
 def run(args):
+    if args is None:
+        print("usage: {} <args...>".format(__file__))
+        exit(1337)
+
     words = ' '.join(args)
     rgx = re.compile(r'\w')
     i = 0
