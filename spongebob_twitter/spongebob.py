@@ -38,14 +38,17 @@ def run(args):
     user = api.get_user(args[1])
 
     print("Spongebobbing started on {} from {}...".format(user.screen_name, name))
-    last_tweet = old_tweet = api.user_timeline(screen_name = user.screen_name, count = 1)[0]
+    old_tweet = None
     while(True):
         last_tweet = api.user_timeline(screen_name = user.screen_name, count = 1)[0]
-        if old_tweet.text != last_tweet.text:
+        if old_tweet is None or old_tweet.text != last_tweet.text:
             old_tweet = last_tweet
             spongebobbed = beautify(last_tweet.text.encode('utf-8'))
-            api.update_status('@{} {}'.format(user.screen_name, spongebobbed), last_tweet.id)
-            print("Tweeted:\n\'{}\'".format(spongebobbed))
+            try:
+                api.update_status('@{} {}'.format(user.screen_name, spongebobbed), last_tweet.id)
+                print("Tweeted:\n\'{}\'".format(spongebobbed))
+            except:
+                pass
         sleep(10)
 
 if __name__ == "__main__":
