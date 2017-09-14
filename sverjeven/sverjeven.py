@@ -68,6 +68,7 @@ def run(args):
     with open(path.replace(scr_name, "split_words.json"), 'r', encoding=enc) as f:
         words.update(json.load(f))
 
+    arr = []
     for cmd in args:
         try:
             with open(cmd, 'r') as f:
@@ -77,11 +78,14 @@ def run(args):
 
         outfile = path.replace(scr_name, "out.txt")
         f = open(outfile, 'wb').close()
+
         for line in data.split('\n'):
             res = beautify(line, words)
             with open(outfile, 'ab') as f:
                 f.write("{}\n".format(res).encode('utf-8'))
-            print(res)
+            arr.append(res)
+
+    print(" ".join(arr))
 
 if __name__ == "__main__":
     import sys
